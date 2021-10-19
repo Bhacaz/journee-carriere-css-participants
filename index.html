@@ -49,7 +49,7 @@
             }
         },
         created() {
-            fetch('/assets/data/Excel-des-conférenciers.csv')
+            fetch('.//assets/data/participants.csv')
             .then(res => res.text())
             .then(data => {
                 this.participants = csvJSON(data);
