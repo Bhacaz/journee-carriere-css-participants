@@ -15,3 +15,14 @@ body {
 .card-width {
     max-width: 24em;
 }
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.card {
+    margin: 0.5em;
+    height: 100%;
+}

@@ -13,17 +13,16 @@
   <section class="hero is-primary">
     <div class="hero-body">
       <p class="title">
-        Journée Carrière Collège Saint-Sacrement
+        Journée Carrière - Collège Saint-Sacrement
       </p>
       <p class="subtitle">
         Novembre 2021
       </p>
     </div>
-
   </section>
-  <section class="section">
-    <card v-for="participant in participants" :key="participant.name" :participant="participant">
-    </card>
+  <section class="section flex-container">
+      <card v-for="participant in participants" :key="participant.name" :participant="participant">
+      </card>
   </section>
 </div>
 <footer class="footer">
@@ -53,9 +52,7 @@
             fetch('/assets/data/Excel-des-conférenciers.csv')
             .then(res => res.text())
             .then(data => {
-                console.log(data);
                 this.participants = csvJSON(data);
-                console.log(this.participants)
             })
             .catch(err => console.log(err))
         }
