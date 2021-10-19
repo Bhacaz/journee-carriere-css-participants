@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>Journée Carrière CSS participants</title>
+  <link href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
+  <script src="https://unpkg.com/vue@next"></script>
+</head>
+<body>
+<div id="app">
+  <section class="hero is-primary">
+    <div class="hero-body">
+      <p class="title">
+        Journée Carrière Collège Saint-Sacrement
+      </p>
+      <p class="subtitle">
+        Novembre 2021
+      </p>
+    </div>
+
+  </section>
+  <section class="section">
+    <card v-for="participant in participants" :key="participant.name" :participant="participant">
+    </card>
+  </section>
+</div>
+<footer class="footer">
+  <div class="level">
+    <div class="level-left">
+      <a href="https://collegesaintsacrement.qc.ca/accueil">Collège Saint-Sacrement</a>
+    </div>
+    <div class="level-right">
+      Novembre 2021
+    </div>
+  </div>
+</footer>
+
+<script src="./components/card.vue.js"></script>
+<script src="./scripts/csvJSON.js"></script>
+<script>
+    Vue.createApp({
+        data() {
+            return { participants: null }
+        },
+        methods: {
+            csvToJSON() {
+
+            }
+        },
+        created() {
+            fetch('/assets/data/Excel-des-conférenciers.csv')
+            .then(res => res.text())
+            .then(data => {
+                console.log(data);
+                this.participants = csvJSON(data);
+                console.log(this.participants)
+            })
+            .catch(err => console.log(err))
+        }
+    })
+        .component("card", Card)
+        .mount("#app");
+</script>
+</body>
+</html>
