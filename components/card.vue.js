@@ -13,7 +13,7 @@ const Card = {
         </div>
 
         <div class="content">
-          <p>{{ participant.description }}...</p>
+          <p>{{ participant.description }}</p>
           <span class="tag is-info">{{ participant.period }}</span>
         </div>
       </div>

@@ -7,6 +7,8 @@
   <link href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css" rel="stylesheet">
   <link href="style.css" rel="stylesheet">
   <script src="https://unpkg.com/vue@next"></script>
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
 <div id="app">
@@ -20,8 +22,24 @@
       </p>
     </div>
   </section>
+
+  <section class="section" id="search-section">
+    <div class="field container">
+      <p class="control has-icons-left">
+        <input class="input is-rounded"
+               type="text"
+               placeholder="Recherche"
+               v-model="search"
+               @input="$emit('update:search', $event.target.value)">
+        <span class="icon is-small is-left">
+          <i class="fa fa-search" aria-hidden="true"></i>
+        </span>
+      </p>
+    </div>
+  </section>
+
   <section class="section flex-container">
-      <card v-for="participant in participants" :key="participant.name" :participant="participant">
+      <card v-for="participant in list" :key="participant.name" :participant="participant">
       </card>
   </section>
 </div>
@@ -41,20 +59,50 @@
 <script>
     Vue.createApp({
         data() {
-            return { participants: null }
+            return {
+                participants: [],
+                list: [],
+                search: '',
+                searchIndex: null
+            }
         },
         methods: {
-            csvToJSON() {
+            buildIndex(){
+                var documents = this.participants
+                this.searchIndex = lunr(function () {
+                    this.ref('name')
+                    this.field('name')
+                    this.field('title')
+                    this.field('description')
+                    this.field('formation')
 
+                    documents.forEach(doc => {
+                        this.add(doc)
+                    })
+                })
             }
         },
         created() {
-            fetch('.//assets/data/participants.csv')
+            fetch('./assets/data/participants.csv')
             .then(res => res.text())
             .then(data => {
-                this.participants = csvJSON(data);
+                this.participants.push(...csvJSON(data));
+                this.list.push(...this.participants);
+                this.buildIndex()
             })
             .catch(err => console.log(err))
+        },
+        mounted() {
+            this.$watch('search', () => {
+                this.resuls = this.searchIndex.search(this.search + '*')
+                console.log(this.resuls)
+                this.list = []
+                this.resuls.forEach(d => {
+                    this.participants.forEach(p => {
+                        if(d.ref === p.name) this.list.push(p)
+                    })
+                })
+            })
         }
     })
         .component("card", Card)

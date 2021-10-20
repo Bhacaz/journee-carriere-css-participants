@@ -26,3 +26,13 @@ body {
     margin: 0.5em;
     height: 100%;
 }
+
+#search-section {
+    padding-bottom: 0;
+    padding-top: 1.5em;
+}
+
+#search-section .field {
+    max-width: 24em;
+}
+
