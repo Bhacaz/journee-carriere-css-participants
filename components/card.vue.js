@@ -1,6 +1,17 @@
 
 const Card = {
     props: ['participant'],
+    methods: {
+        domainToTag(domain) {
+            return {
+                "Arts": "#f48fb1",
+                "Science": "#b39ddb",
+                "Social": "#80deea",
+                "Santé": "#c5e1a5",
+                "Construction": "#fff59d"
+            }[domain]
+        }
+    },
     template: `
     <div class="card card-width">
       <div class="card-content">
@@ -14,7 +25,12 @@ const Card = {
 
         <div class="content">
           <p>{{ participant.description }}</p>
-          <span class="tag is-info">{{ participant.period }}</span>
+          <p>
+            <span class="tag" :style="{ backgroundColor: domainToTag(participant.domain) }">{{ participant.domain }}</span>
+          </p>
+           <p>
+            <span class="tag is-info">{{ participant.period }}</span>
+          </p>
         </div>
       </div>
     </div>
