@@ -12,7 +12,7 @@
 </head>
 <body>
 <div id="app">
-  <section class="hero is-primary">
+  <section class="hero is-primary" style="background-image: url(assets/layered-waves-haikei.svg);">
     <div class="hero-body">
       <p class="title">
         Journée Carrière - Collège Saint-Sacrement
@@ -94,7 +94,7 @@
         },
         mounted() {
             this.$watch('search', () => {
-                this.resuls = this.searchIndex.search(this.search + '*')
+                this.resuls = this.searchIndex.search(this.search + '* ' + this.search)
                 console.log(this.resuls)
                 this.list = []
                 this.resuls.forEach(d => {
