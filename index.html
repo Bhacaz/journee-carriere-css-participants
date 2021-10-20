@@ -20,23 +20,26 @@
       <p class="subtitle">
         Novembre 2021
       </p>
+
+      <section class="section" id="search-section">
+        <div class="field container">
+          <p class="control has-icons-left">
+            <input class="input is-rounded"
+                   type="text"
+                   placeholder="Recherche"
+                   v-model="search"
+                   @input="$emit('update:search', $event.target.value)">
+            <span class="icon is-small is-left">
+          <i class="fa fa-search" aria-hidden="true"></i>
+        </span>
+          </p>
+        </div>
+      </section>
+
     </div>
   </section>
 
-  <section class="section" id="search-section">
-    <div class="field container">
-      <p class="control has-icons-left">
-        <input class="input is-rounded"
-               type="text"
-               placeholder="Recherche"
-               v-model="search"
-               @input="$emit('update:search', $event.target.value)">
-        <span class="icon is-small is-left">
-          <i class="fa fa-search" aria-hidden="true"></i>
-        </span>
-      </p>
-    </div>
-  </section>
+
 
   <section class="section flex-container">
       <card v-for="participant in list" :key="participant.name" :participant="participant">
