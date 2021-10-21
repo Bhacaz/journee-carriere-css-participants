@@ -8,6 +8,11 @@ body {
     flex: 1;
 }
 
+#header-section {
+    background-image: url(assets/layered-waves-haikei.svg);
+    background-size: cover;
+}
+
 .footer {
     padding-bottom: 3em;
 }
