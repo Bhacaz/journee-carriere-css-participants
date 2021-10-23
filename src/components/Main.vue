@@ -57,6 +57,7 @@
           <Card
               :key="item.name"
               :participant="item"
+              :search="search"
           >
           </Card>
         </template>

@@ -1,35 +1,40 @@
 <template>
   <div class="card card-width">
-    <div class="card-content">
-      <div class="media">
-        <div class="media-content">
-          <p class="title is-4">{{ participant.title }}</p>
-          <p class="subtitle is-5">{{ participant.name }}</p>
-          <p class="subtitle is-6">{{ participant.formation }}</p>
+      <div class="card-content">
+        <div class="media">
+          <div class="media-content">
+            <p class="title is-4"><WordHighlighter :query="search">{{ participant.title }}</WordHighlighter></p>
+            <p class="subtitle is-5"><WordHighlighter :query="search">{{ participant.name }}</WordHighlighter></p>
+            <p class="subtitle is-6"><WordHighlighter :query="search">{{ participant.formation }}</WordHighlighter></p>
+          </div>
+        </div>
+
+        <div class="content">
+          <p><WordHighlighter :query="search">{{ participant.description }}</WordHighlighter></p>
+          <p>
+            <span
+                class="tag"
+                :style="{ backgroundColor: domainToTag(participant.domain) }"
+            ><WordHighlighter :query="search">{{ participant.domain }}</WordHighlighter></span
+            >
+          </p>
+          <p>
+            <span class="tag is-info"><WordHighlighter :query="search">{{ participant.period }}</WordHighlighter></span>
+          </p>
         </div>
       </div>
-
-      <div class="content">
-        <p>{{ participant.description }}</p>
-        <p>
-          <span
-            class="tag"
-            :style="{ backgroundColor: domainToTag(participant.domain) }"
-            >{{ participant.domain }}</span
-          >
-        </p>
-        <p>
-          <span class="tag is-info">{{ participant.period }}</span>
-        </p>
-      </div>
-    </div>
   </div>
 </template>
 
 <script>
+import WordHighlighter from "vue-word-highlighter";
+
 export default {
   name: "Card",
-  props: ["participant"],
+  props: ["participant", "search"],
+  components: {
+    WordHighlighter,
+  },
   methods: {
     domainToTag(domain) {
       return {
