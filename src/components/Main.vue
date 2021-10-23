@@ -85,7 +85,7 @@ export default {
       search: "",
       searchIndex: null,
       domains: [],
-      domainsSelected: null,
+      domainsSelected: [],
       selectedDomains: [],
       showMultiSelect: false,
       buttonText: "Domaines",
@@ -110,6 +110,20 @@ export default {
     toggleMultiSelect() {
       this.showMultiSelect = !this.showMultiSelect;
     },
+    resetListWithSelectedDomains() {
+      if (this.domainsSelected.length === 0) {
+        this.list = [];
+        this.list.push(...this.participants);
+      } else {
+        this.list = [];
+        const domainName = this.domainsSelected.map((d) => d.domain);
+        this.participants.forEach((participant) => {
+          if (domainName.indexOf(participant.domain) !== -1) {
+            this.list.push(participant);
+          }
+        });
+      }
+    }
   },
   created() {
     fetch("./data/participants.csv")
@@ -138,28 +152,21 @@ export default {
   },
   mounted() {
     this.$watch("search", () => {
+      this.resetListWithSelectedDomains();
+      if (this.search === '') { return }
+
       this.resuls = this.searchIndex.search(this.search + "* " + this.search);
+      const originalList = this.list;
       this.list = [];
       this.resuls.forEach((d) => {
-        this.participants.forEach((p) => {
+        originalList.forEach((p) => {
           if (d.ref === p.name) this.list.push(p);
         });
       });
     });
 
     this.$watch("domainsSelected", () => {
-      if (this.domainsSelected.length === 0) {
-        this.list = [];
-        this.list.push(...this.participants);
-      } else {
-        this.list = [];
-        const domainName = this.domainsSelected.map((d) => d.domain);
-        this.participants.forEach((participant) => {
-          if (domainName.indexOf(participant.domain) !== -1) {
-            this.list.push(participant);
-          }
-        });
-      }
+      this.resetListWithSelectedDomains();
       if (this.domainsSelected.length > 0) {
         this.buttonText = "Domaines (" + this.domainsSelected.length + ")";
       } else {
