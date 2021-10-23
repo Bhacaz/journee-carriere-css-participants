@@ -3,23 +3,23 @@
       <div class="card-content">
         <div class="media">
           <div class="media-content">
-            <p class="title is-4"><WordHighlighter :query="search">{{ participant.title }}</WordHighlighter></p>
-            <p class="subtitle is-5"><WordHighlighter :query="search">{{ participant.name }}</WordHighlighter></p>
-            <p class="subtitle is-6"><WordHighlighter :query="search">{{ participant.formation }}</WordHighlighter></p>
+            <p class="title is-4"><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.title }}</WordHighlighter></p>
+            <p class="subtitle is-5"><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.name }}</WordHighlighter></p>
+            <p class="subtitle is-6"><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.formation }}</WordHighlighter></p>
           </div>
         </div>
 
         <div class="content">
-          <p><WordHighlighter :query="search">{{ participant.description }}</WordHighlighter></p>
+          <p><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.description }}</WordHighlighter></p>
           <p>
             <span
                 class="tag"
                 :style="{ backgroundColor: domainToTag(participant.domain) }"
-            ><WordHighlighter :query="search">{{ participant.domain }}</WordHighlighter></span
+            ><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.domain }}</WordHighlighter></span
             >
           </p>
           <p>
-            <span class="tag is-info"><WordHighlighter :query="search">{{ participant.period }}</WordHighlighter></span>
+            <span class="tag is-info"><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.period }}</WordHighlighter></span>
           </p>
         </div>
       </div>
@@ -61,5 +61,13 @@ export default {
 .card {
   margin: 0.5em;
   height: 100%;
+}
+
+.highlighted-text {
+  font-size: 125%;
+  background-color: #48c78e22;
+  padding: 0.1em;
+  border-radius: 10px;
+;
 }
 </style>
