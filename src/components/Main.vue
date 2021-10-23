@@ -34,29 +34,34 @@
                 </button>
               </div>
             </div>
-          </div>
 
-          <VueMultiselect
-            v-if="showMultiSelect"
-            v-model="domainsSelected"
-            :options="domains"
-            :close-on-select="false"
-            :multiple="true"
-            track-by="domain"
-            label="name"
-            placeholder="Domaine"
-          >
-          </VueMultiselect>
+            <VueMultiselect
+              id="multiselect-domains"
+              v-if="showMultiSelect"
+              v-model="domainsSelected"
+              :options="domains"
+              :close-on-select="false"
+              :multiple="true"
+              track-by="domain"
+              label="name"
+              placeholder="Domaine"
+            >
+            </VueMultiselect>
+          </div>
         </section>
       </div>
     </section>
-    <section class="section flex-container">
-      <Card
-        v-for="participant in list"
-        :key="participant.name"
-        :participant="participant"
-      >
-      </Card>
+    <section v-if="list.length > 0" class="section flex-container">
+      <masonry-wall :items="list" :column-width="325" :padding="16">
+        <template #default="{ item, index }">
+          <Card
+              :key="item.name"
+              :participant="item"
+          >
+          </Card>
+        </template>
+      </masonry-wall>
+
     </section>
   </div>
 </template>
@@ -65,11 +70,13 @@
 import csvJSON from "@/scripts/csvJSON.js";
 import Card from "@/components/Card.vue";
 import VueMultiselect from "vue-multiselect";
+import MasonryWall from '@yeger/vue-masonry-wall'
 
 export default {
   components: {
     Card,
     VueMultiselect,
+    MasonryWall
   },
   data() {
     return {
@@ -179,7 +186,8 @@ export default {
 }
 
 #search-section .field {
-  max-width: 24em;
+  max-width: 35em;
 }
+
 </style>
 <style src="vue-multiselect/dist/vue-multiselect.css"></style>
