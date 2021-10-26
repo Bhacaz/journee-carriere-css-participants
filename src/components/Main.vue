@@ -3,12 +3,11 @@
     <section id="header-section" class="hero is-primary">
       <div class="hero-body">
         <p class="title">Journée Carrière - Collège Saint-Sacrement</p>
-        <p class="subtitle">Novembre 2021</p>
+        <p class="subtitle">16 Novembre 2021</p>
+        <p class="subtitle">Liste et descriptions des professionnels participants.</p>
 
         <section class="section" id="search-section">
           <div class="field container">
-            <div class="columns">
-              <div class="column is-three-quarters">
                 <p class="control has-icons-left">
                   <input
                     class="input is-rounded"
@@ -21,30 +20,36 @@
                     <i class="fa fa-search" aria-hidden="true"></i>
                   </span>
                 </p>
+
+            <div id="filters-container">
+              <div id="buttons-periods-container" class="buttons has-addons" >
+                <button class="button is-success is-inverted is-rounded" @click="radioSelectPeriod('P2')">P2</button>
+                <button class="button is-success is-inverted is-rounded" @click="radioSelectPeriod('P3')">P3</button>
+                <button class="button is-success is-inverted is-rounded" @click="radioSelectPeriod('P5')">P5</button>
+                <button class="button is-success is-inverted is-rounded" @click="radioSelectPeriod('P6')">P6</button>
               </div>
-              <div class="column">
-                <button
+
+              <button
                   class="button is-success is-inverted is-rounded"
                   @click="toggleMultiSelect"
-                >
+              >
                   <span class="icon">
                     <i class="fa fa-filter"></i>
                   </span>
-                  <span>{{ buttonText }}</span>
-                </button>
-              </div>
+                <span>{{ buttonText }}</span>
+              </button>
             </div>
 
             <VueMultiselect
-              id="multiselect-domains"
-              v-if="showMultiSelect"
-              v-model="domainsSelected"
-              :options="domains"
-              :close-on-select="false"
-              :multiple="true"
-              track-by="domain"
-              label="name"
-              placeholder="Domaine"
+                id="multiselect-domains"
+                v-if="showMultiSelect"
+                v-model="domainsSelected"
+                :options="domains"
+                :close-on-select="false"
+                :multiple="true"
+                track-by="domain"
+                label="name"
+                placeholder="Domaine"
             >
             </VueMultiselect>
           </div>
@@ -88,9 +93,9 @@ export default {
       searchIndex: null,
       domains: [],
       domainsSelected: [],
-      selectedDomains: [],
       showMultiSelect: false,
       buttonText: "Domaines",
+      selectedPeriod: null
     };
   },
   methods: {
@@ -126,6 +131,43 @@ export default {
             }
           })
         });
+      }
+    },
+    radioSelectPeriod(periodValue) {
+      if (this.selectedPeriod === periodValue) {
+        this.selectedPeriod = null
+        this.list = this.participantFromDomainsFilter()
+      } else {
+        this.selectedPeriod = periodValue;
+        console.log(this.participantFromDomainsFilter())
+        this.list = this.participantFromDomainsFilter().filter(participant => {
+          return participant.period === this.selectedPeriod;
+        })
+      }
+    },
+    participantFromDomainsFilter() {
+      if (this.domainsSelected.length === 0) {
+        return this.participants
+      } else {
+        const domainName = this.domainsSelected.map((d) => d.domain);
+        const tmpParticipants = [];
+        this.participants.filter((participant) => {
+          participant.domain.forEach((domain) => {
+            if (domainName.indexOf(domain) !== -1) {
+              tmpParticipants.push(participant);
+            }
+          })
+        });
+        return tmpParticipants;
+      }
+    },
+    participantsFromSelectedPeriod() {
+      if (this.selectedPeriod) {
+        return this.list.filter(participant => {
+          return participant.period === this.selectedPeriod;
+        })
+      } else {
+        return this.participants
       }
     }
   },
@@ -203,6 +245,12 @@ export default {
 
 #search-section .field {
   max-width: 35em;
+}
+
+#filters-container {
+  justify-content: space-around;
+  display: flex;
+  padding-top: 1.5em;
 }
 
 </style>
