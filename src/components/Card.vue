@@ -45,11 +45,25 @@ export default {
   methods: {
     domainToTag(domain) {
       return {
-        Arts: "#f48fb1",
-        Science: "#b39ddb",
-        Social: "#80deea",
-        Santé: "#c5e1a5",
-        Construction: "#fff59d",
+        "Relation d’aide": "#f8bbd0",
+        "Science de la santé humaine et animal": "#e1bee7",
+        "Administration": "#c5cae9",
+        "Commerce": "#c5e1a5",
+        "Enseignement": "#b2ebf2",
+        "Ingénierie et science pure": "#c8e6c9",
+        "Science de la santé et animal": "#fff9c4",
+        "Sciences humaines": "#ffe082",
+        "Politique, justice et sécurité": "#ffab91",
+        "Arts": "#c7a4ff",
+        "Transport et entretien d'équipement motorisé": "#aab6fe",
+        "Informatique et multimédia": "#88ffff",
+        "Génie et science pure": "#b2fab4",
+        "Gestion": "#ff7961",
+        "Services administratifs et bureautique": "#6ec6ff",
+        "Bâtiment et travaux publics": "#52c7b8",
+        "Fabrication et transformation": "#ffff6b",
+        "Sports, loisirs et divertissements": "#ffc046",
+        "Agroalimentaire": "#6abf69",
       }[domain];
     },
     periodToColorTag(period) {
@@ -88,6 +102,7 @@ export default {
 
 .domain-tag {
   margin-right: 1em;
+  margin-bottom: 1em;
 }
 
 .period-tag {
