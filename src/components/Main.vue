@@ -72,6 +72,7 @@ import csvJSON from "@/scripts/csvJSON.js";
 import Card from "@/components/Card.vue";
 import VueMultiselect from "vue-multiselect";
 import MasonryWall from '@yeger/vue-masonry-wall'
+import * as domain from "domain";
 
 export default {
   components: {
@@ -119,26 +120,33 @@ export default {
         this.list = [];
         const domainName = this.domainsSelected.map((d) => d.domain);
         this.participants.forEach((participant) => {
-          if (domainName.indexOf(participant.domain) !== -1) {
-            this.list.push(participant);
-          }
+          participant.domain.forEach((domain) => {
+            if (domainName.indexOf(domain) !== -1) {
+              this.list.push(participant);
+            }
+          })
         });
       }
     }
   },
   created() {
-    fetch("./data/participants.csv")
-      .then((res) => res.text())
+    fetch("./data/participants.json")
+      .then((res) => res.json())
       .then((data) => {
-        this.participants.push(...csvJSON(data));
+        data.forEach((participant) => {
+          participant.domain = participant.domain.split("\n\n")
+        })
+        this.participants.push(...data);
         this.list.push(...this.participants);
         const listOfDomaines = {};
         this.participants.forEach((participant) => {
-          if (listOfDomaines[participant.domain]) {
-            listOfDomaines[participant.domain] += 1;
-          } else {
-            listOfDomaines[participant.domain] = 1;
-          }
+          participant.domain.forEach((domain) => {
+            if (listOfDomaines[domain]) {
+              listOfDomaines[domain] += 1;
+            } else {
+              listOfDomaines[domain] = 1;
+            }
+          })
         });
         Object.entries(listOfDomaines).forEach((entry) => {
           const [domain, count] = entry;

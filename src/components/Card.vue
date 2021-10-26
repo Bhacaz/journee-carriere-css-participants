@@ -13,9 +13,11 @@
           <p><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.description }}</WordHighlighter></p>
           <p>
             <span
-                class="tag"
-                :style="{ backgroundColor: domainToTag(participant.domain) }"
-            ><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.domain }}</WordHighlighter></span
+                v-for="domain of participant.domain"
+                :key="domain"
+                class="tag domain-tag"
+                :style="{ backgroundColor: domainToTag(domain) }"
+            ><WordHighlighter highlightClass="highlighted-text" :query="search">{{ domain }}</WordHighlighter></span
             >
           </p>
           <p>
@@ -69,5 +71,9 @@ export default {
   padding: 0.1em;
   border-radius: 10px;
 ;
+}
+
+.domain-tag {
+  margin-right: 1em;
 }
 </style>
