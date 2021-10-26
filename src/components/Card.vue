@@ -1,5 +1,6 @@
 <template>
-  <div class="card card-width">
+  <div class="card card-width"
+       :style="{ background: 'linear-gradient(165deg, rgba(255,255,255,1) 86%,' + periodToColorTag(participant.period) + '33 100%)' }">
       <div class="card-content">
         <div class="media">
           <div class="media-content">
@@ -16,12 +17,16 @@
                 v-for="domain of participant.domain"
                 :key="domain"
                 class="tag domain-tag"
-                :style="{ backgroundColor: domainToTag(domain) }"
-            ><WordHighlighter highlightClass="highlighted-text" :query="search">{{ domain }}</WordHighlighter></span
+                :style="{ backgroundColor: domainToTag(domain) }">
+              <WordHighlighter highlightClass="highlighted-text" :query="search">{{ domain }}</WordHighlighter></span
             >
           </p>
           <p>
-            <span class="tag is-info"><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.period }}</WordHighlighter></span>
+            <span class="tag is-info period-tag"
+                  :style="{ backgroundColor: periodToColorTag(participant.period) }"
+            >
+              <WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.period }}</WordHighlighter>
+            </span>
           </p>
         </div>
       </div>
@@ -47,6 +52,14 @@ export default {
         Construction: "#fff59d",
       }[domain];
     },
+    periodToColorTag(period) {
+      return {
+        P2: "#1976d2",
+        P3: "#ba2d65",
+        P5: "#087f23",
+        P6: "#ab47bc",
+      }[period];
+    }
   },
 };
 </script>
@@ -76,4 +89,9 @@ export default {
 .domain-tag {
   margin-right: 1em;
 }
+
+.period-tag {
+  color: white;
+}
+
 </style>
