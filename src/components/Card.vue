@@ -1,6 +1,7 @@
 <template>
   <div class="card card-width"
-       :style="{ background: 'linear-gradient(165deg, rgba(255,255,255,1) 86%,' + periodToColorTag(participant.period) + '33 100%)' }">
+       :style="{ background: 'linear-gradient(165deg, rgba(255,255,255,1) 86%,' + periodToColorTag(participant.period) + '33 100%)' }"
+  @click="showModal = !showModal">
       <div class="card-content">
         <div class="media">
           <div class="media-content">
@@ -11,7 +12,7 @@
         </div>
 
         <div class="content">
-          <p><WordHighlighter highlightClass="highlighted-text" :query="search">{{ participant.description }}</WordHighlighter></p>
+          <p><WordHighlighter highlightClass="highlighted-text" :query="search">{{ cropDescription() }}</WordHighlighter></p>
           <p>
             <span
                 v-for="domain of participant.domain"
@@ -30,6 +31,29 @@
           </p>
         </div>
       </div>
+
+    <div class="modal" :class=" { 'is-active': showModal }">
+      <div class="modal-background"></div>
+      <div class="modal-card">
+        <header class="modal-card-head">
+          <p class="modal-card-title">{{ participant.name }}</p>
+          <button class="delete" aria-label="close"></button>
+        </header>
+        <section class="modal-card-body">
+          <h3 class="title is-5">{{ participant.title }}</h3>
+          <p>{{ participant.description }}</p>
+          <p style="padding-top: 2em;">
+                      <span
+                          v-for="domain of participant.domain"
+                          :key="domain"
+                          class="tag domain-tag"
+                          :style="{ backgroundColor: domainToTag(domain) }">
+            {{ domain }}</span>
+          </p>
+        </section>
+      </div>
+      <button class="modal-close is-large" aria-label="close"></button>
+    </div>
   </div>
 </template>
 
@@ -39,6 +63,11 @@ import WordHighlighter from "vue-word-highlighter";
 export default {
   name: "Card",
   props: ["participant", "search"],
+  data() {
+    return {
+      showModal: false
+    }
+  },
   components: {
     WordHighlighter,
   },
@@ -73,6 +102,13 @@ export default {
         P5: "#087f23",
         P6: "#ab47bc",
       }[period];
+    },
+    cropDescription() {
+      if (this.participant.description && this.participant.description.length >= 300) {
+        return this.participant.description.substring(0, 300) + '...'
+      } else {
+        return this.participant.description
+      }
     }
   },
 };
@@ -107,6 +143,10 @@ export default {
 
 .period-tag {
   color: white;
+}
+
+.modal-card-body {
+  padding-bottom: 2.5em;
 }
 
 </style>
