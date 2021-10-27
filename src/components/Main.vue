@@ -23,10 +23,10 @@
 
             <div id="filters-container">
               <div id="buttons-periods-container" class="buttons has-addons" >
-                <button class="button is-success is-inverted is-rounded" @click="radioSelectPeriod('P2')">P2</button>
-                <button class="button is-success is-inverted is-rounded" @click="radioSelectPeriod('P3')">P3</button>
-                <button class="button is-success is-inverted is-rounded" @click="radioSelectPeriod('P5')">P5</button>
-                <button class="button is-success is-inverted is-rounded" @click="radioSelectPeriod('P6')">P6</button>
+                <button id="p2" class="button is-success is-rounded" :class="{ 'is-inverted': selectedPeriod !== 'P2' }" @click="radioSelectPeriod('P2')">P2</button>
+                <button id="p3" class="button is-success is-rounded" :class="{ 'is-inverted': selectedPeriod !== 'P3' }" @click="radioSelectPeriod('P3')">P3</button>
+                <button id="p5" class="button is-success is-rounded" :class="{ 'is-inverted': selectedPeriod !== 'P5' }" @click="radioSelectPeriod('P5')">P5</button>
+                <button id="p6" class="button is-success is-rounded" :class="{ 'is-inverted': selectedPeriod !== 'P6' }" @click="radioSelectPeriod('P6')">P6</button>
               </div>
 
               <button
@@ -120,11 +120,11 @@ export default {
     resetListWithSelectedDomains() {
       if (this.domainsSelected.length === 0) {
         this.list = [];
-        this.list.push(...this.participants);
+        this.list.push(...this.participantsFromSelectedPeriod());
       } else {
         this.list = [];
         const domainName = this.domainsSelected.map((d) => d.domain);
-        this.participants.forEach((participant) => {
+        this.participantsFromSelectedPeriod().forEach((participant) => {
           participant.domain.forEach((domain) => {
             if (domainName.indexOf(domain) !== -1) {
               this.list.push(participant);
@@ -139,7 +139,6 @@ export default {
         this.list = this.participantFromDomainsFilter()
       } else {
         this.selectedPeriod = periodValue;
-        console.log(this.participantFromDomainsFilter())
         this.list = this.participantFromDomainsFilter().filter(participant => {
           return participant.period === this.selectedPeriod;
         })
@@ -163,13 +162,13 @@ export default {
     },
     participantsFromSelectedPeriod() {
       if (this.selectedPeriod) {
-        return this.list.filter(participant => {
+        return this.participants.filter(participant => {
           return participant.period === this.selectedPeriod;
         })
       } else {
         return this.participants
       }
-    }
+    },
   },
   created() {
     fetch("./data/participants.json")
@@ -225,6 +224,15 @@ export default {
       }
     });
   },
+  computed: {
+    buttonStyle(periodValue) {
+      if (this.selectedPeriod === periodValue) {
+        return 'is-selected';
+      } else {
+        return ''
+      }
+    }
+  }
 };
 </script>
 
@@ -251,6 +259,53 @@ export default {
   justify-content: space-around;
   display: flex;
   padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.buttons {
+  flex-wrap: nowrap;
+}
+
+#p2 {
+  color: white;
+  background-color: #1976d2;
+}
+
+#p2.is-inverted {
+  color: #1976d2;
+  background-color: white;
+}
+
+#p3 {
+  color: white;
+  background-color: #ba2d65;
+}
+
+#p3.is-inverted {
+  color: #ba2d65;
+  background-color: white;
+}
+
+#p5 {
+  color: white;
+  background-color: #087f23;
+}
+
+#p5.is-inverted {
+  color: #087f23;
+  background-color: white;
+}
+
+#p6 {
+  color: white;
+  background-color: #ab47bc;
+}
+
+#p6.is-inverted {
+  color: #ab47bc;
+  background-color: white;
 }
 
 </style>
