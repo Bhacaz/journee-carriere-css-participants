@@ -4,7 +4,7 @@
       <div class="hero-body">
         <p class="title">Journée Carrière - Collège Saint-Sacrement</p>
         <p class="subtitle">Aide aux choix : liste et descriptions des professionnels participants à la journée carrière.
-          <br>16 Novembre 2021
+          <br>16 novembre 2021
         </p>
 
         <section class="section" id="search-section">
