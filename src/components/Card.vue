@@ -35,7 +35,7 @@
     <div class="modal" :class=" { 'is-active': showModal }">
       <div class="modal-background"></div>
       <div class="modal-card">
-        <header class="modal-card-head">
+        <header class="modal-card-head" :class="{ 'color-animation': participant.name === 'Jean-Francis Bastien' }">
           <p class="modal-card-title">{{ participant.name }}</p>
           <button class="delete" aria-label="close"></button>
         </header>
@@ -147,6 +147,16 @@ export default {
 
 .modal-card-body {
   padding-bottom: 2.5em;
+}
+
+.color-animation {
+  animation: animateBg 10s linear infinite;
+  background-image: linear-gradient(0deg,#cf5c5c,#c19b4a,#def2a0,#c6ee4a,#42eca6,#64b3d9,#208ea2,#498ada,#5b73df,#897ed3,#cf5c5c,#c19b4a);
+  background-size: 100% 1100%;
+}
+@keyframes animateBg {
+  0% { background-position: 0% 0%; }
+  100% { background-position: 0% 100%; }
 }
 
 </style>
