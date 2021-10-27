@@ -112,6 +112,8 @@ export default {
     clickOnModal() {
       this.showModal = !this.showModal
       this.$router.replace('/#' + this.participant.name)
+      gtag('set', 'page_location', '/participant/' + this.participant.name);
+      gtag('event', 'page_view');
     }
   },
 };
