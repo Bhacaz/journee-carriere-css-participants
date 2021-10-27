@@ -1,7 +1,7 @@
 <template>
   <div class="card card-width"
        :style="{ background: 'linear-gradient(165deg, rgba(255,255,255,1) 86%,' + periodToColorTag(participant.period) + '33 100%)' }"
-  @click="showModal = !showModal">
+  @click="clickOnModal()">
       <div class="card-content">
         <div class="media">
           <div class="media-content">
@@ -37,7 +37,6 @@
       <div class="modal-card">
         <header class="modal-card-head" :class="{ 'color-animation': participant.name === 'Jean-Francis Bastien' }">
           <p class="modal-card-title">{{ participant.name }}</p>
-          <button class="delete" aria-label="close"></button>
         </header>
         <section class="modal-card-body">
           <h3 class="title is-5">{{ participant.title }}</h3>
@@ -109,6 +108,10 @@ export default {
       } else {
         return this.participant.description
       }
+    },
+    clickOnModal() {
+      this.showModal = !this.showModal
+      this.$router.replace('/#' + this.participant.name)
     }
   },
 };
