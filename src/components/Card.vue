@@ -110,10 +110,11 @@ export default {
       }
     },
     clickOnModal() {
+      // track event only if modal was closed.
+      if (!this.showModal) {
+        umami.trackEvent(this.participant.name, 'participant-click')
+      }
       this.showModal = !this.showModal
-      this.$router.replace('/#' + this.participant.name)
-      gtag('set', 'page_location', '/participant/' + this.participant.name);
-      gtag('event', 'page_view');
     }
   },
 };
