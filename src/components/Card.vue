@@ -161,6 +161,7 @@ export default {
     clickOnModal() {
       // track event only if modal was closed.
       if (!this.showModal && typeof umami !== "undefined") {
+        // eslint-disable-next-line no-undef
         umami.trackEvent(this.participant.name, "participant-click");
       }
       this.showModal = !this.showModal;

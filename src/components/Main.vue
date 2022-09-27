@@ -3,54 +3,83 @@
     <section id="header-section" class="hero is-primary">
       <div class="hero-body">
         <p class="title">Journée Carrière - Collège Saint-Sacrement</p>
-        <p class="subtitle">Aide aux choix : Description des professionnel(le)s participants à la journée carrière.
-          <br>16 novembre 2021
+        <p class="subtitle">
+          Aide aux choix : Description des professionnel(le)s participants à la
+          journée carrière. <br />16 novembre 2021
         </p>
 
         <section class="section" id="search-section">
           <div class="field container">
-                <p class="control has-icons-left">
-                  <input
-                    class="input is-rounded"
-                    type="text"
-                    placeholder="Recherche"
-                    v-model="search"
-                    @input="$emit('update:search', $event.target.value)"
-                  />
-                  <span class="icon is-small is-left">
-                    <i class="fa fa-search" aria-hidden="true"></i>
-                  </span>
-                </p>
+            <p class="control has-icons-left">
+              <input
+                class="input is-rounded"
+                type="text"
+                placeholder="Recherche"
+                v-model="search"
+                @input="$emit('update:search', $event.target.value)"
+              />
+              <span class="icon is-small is-left">
+                <i class="fa fa-search" aria-hidden="true"></i>
+              </span>
+            </p>
 
             <div id="filters-container">
-              <div id="buttons-periods-container" class="buttons has-addons" >
-                <button id="p2" class="button is-success is-rounded" :class="{ 'is-inverted': selectedPeriod !== 'P2' }" @click="radioSelectPeriod('P2')">P2</button>
-                <button id="p3" class="button is-success is-rounded" :class="{ 'is-inverted': selectedPeriod !== 'P3' }" @click="radioSelectPeriod('P3')">P3</button>
-                <button id="p5" class="button is-success is-rounded" :class="{ 'is-inverted': selectedPeriod !== 'P5' }" @click="radioSelectPeriod('P5')">P5</button>
-                <button id="p6" class="button is-success is-rounded" :class="{ 'is-inverted': selectedPeriod !== 'P6' }" @click="radioSelectPeriod('P6')">P6</button>
+              <div id="buttons-periods-container" class="buttons has-addons">
+                <button
+                  id="p2"
+                  class="button is-success is-rounded"
+                  :class="{ 'is-inverted': selectedPeriod !== 'P2' }"
+                  @click="radioSelectPeriod('P2')"
+                >
+                  P2
+                </button>
+                <button
+                  id="p3"
+                  class="button is-success is-rounded"
+                  :class="{ 'is-inverted': selectedPeriod !== 'P3' }"
+                  @click="radioSelectPeriod('P3')"
+                >
+                  P3
+                </button>
+                <button
+                  id="p5"
+                  class="button is-success is-rounded"
+                  :class="{ 'is-inverted': selectedPeriod !== 'P5' }"
+                  @click="radioSelectPeriod('P5')"
+                >
+                  P5
+                </button>
+                <button
+                  id="p6"
+                  class="button is-success is-rounded"
+                  :class="{ 'is-inverted': selectedPeriod !== 'P6' }"
+                  @click="radioSelectPeriod('P6')"
+                >
+                  P6
+                </button>
               </div>
 
               <button
-                  class="button is-success is-inverted is-rounded"
-                  @click="toggleMultiSelect"
+                class="button is-success is-inverted is-rounded"
+                @click="toggleMultiSelect"
               >
-                  <span class="icon">
-                    <i class="fa fa-filter"></i>
-                  </span>
+                <span class="icon">
+                  <i class="fa fa-filter"></i>
+                </span>
                 <span>{{ buttonText }}</span>
               </button>
             </div>
 
             <VueMultiselect
-                id="multiselect-domains"
-                v-if="showMultiSelect"
-                v-model="domainsSelected"
-                :options="domains"
-                :close-on-select="false"
-                :multiple="true"
-                track-by="domain"
-                label="name"
-                placeholder="Domaine"
+              id="multiselect-domains"
+              v-if="showMultiSelect"
+              v-model="domainsSelected"
+              :options="domains"
+              :close-on-select="false"
+              :multiple="true"
+              track-by="domain"
+              label="name"
+              placeholder="Domaine"
             >
             </VueMultiselect>
           </div>
@@ -59,32 +88,24 @@
     </section>
     <section v-if="list.length > 0" class="section flex-container">
       <masonry-wall :items="list" :column-width="325" :padding="16">
-        <template #default="{ item, index }">
-          <Card
-              :key="item.name"
-              :participant="item"
-              :search="search"
-          >
-          </Card>
+        <template #default="{ item }">
+          <Card :key="item.name" :participant="item" :search="search"> </Card>
         </template>
       </masonry-wall>
-
     </section>
   </div>
 </template>
 
 <script>
-import csvJSON from "@/scripts/csvJSON.js";
 import Card from "@/components/Card.vue";
 import VueMultiselect from "vue-multiselect";
-import MasonryWall from '@yeger/vue-masonry-wall'
-import * as domain from "domain";
+import MasonryWall from "@yeger/vue-masonry-wall";
 
 export default {
   components: {
     Card,
     VueMultiselect,
-    MasonryWall
+    MasonryWall,
   },
   data() {
     return {
@@ -96,12 +117,13 @@ export default {
       domainsSelected: [],
       showMultiSelect: false,
       buttonText: "Domaines",
-      selectedPeriod: null
+      selectedPeriod: null,
     };
   },
   methods: {
     buildIndex() {
       var documents = this.participants;
+      // eslint-disable-next-line no-undef
       this.searchIndex = lunr(function () {
         this.ref("name");
         this.field("name");
@@ -130,24 +152,26 @@ export default {
             if (domainName.indexOf(domain) !== -1) {
               this.list.push(participant);
             }
-          })
+          });
         });
       }
     },
     radioSelectPeriod(periodValue) {
       if (this.selectedPeriod === periodValue) {
-        this.selectedPeriod = null
-        this.list = this.participantFromDomainsFilter()
+        this.selectedPeriod = null;
+        this.list = this.participantFromDomainsFilter();
       } else {
         this.selectedPeriod = periodValue;
-        this.list = this.participantFromDomainsFilter().filter(participant => {
-          return participant.period === this.selectedPeriod;
-        })
+        this.list = this.participantFromDomainsFilter().filter(
+          (participant) => {
+            return participant.period === this.selectedPeriod;
+          }
+        );
       }
     },
     participantFromDomainsFilter() {
       if (this.domainsSelected.length === 0) {
-        return this.participants
+        return this.participants;
       } else {
         const domainName = this.domainsSelected.map((d) => d.domain);
         const tmpParticipants = [];
@@ -156,18 +180,18 @@ export default {
             if (domainName.indexOf(domain) !== -1) {
               tmpParticipants.push(participant);
             }
-          })
+          });
         });
         return tmpParticipants;
       }
     },
     participantsFromSelectedPeriod() {
       if (this.selectedPeriod) {
-        return this.participants.filter(participant => {
+        return this.participants.filter((participant) => {
           return participant.period === this.selectedPeriod;
-        })
+        });
       } else {
-        return this.participants
+        return this.participants;
       }
     },
   },
@@ -176,8 +200,8 @@ export default {
       .then((res) => res.json())
       .then((data) => {
         data.forEach((participant) => {
-          participant.domain = participant.domain.split("\n\n")
-        })
+          participant.domain = participant.domain.split("\n\n");
+        });
         this.participants.push(...data);
         this.list.push(...this.participants);
         const listOfDomaines = {};
@@ -188,7 +212,7 @@ export default {
             } else {
               listOfDomaines[domain] = 1;
             }
-          })
+          });
         });
         Object.entries(listOfDomaines).forEach((entry) => {
           const [domain, count] = entry;
@@ -204,7 +228,9 @@ export default {
   mounted() {
     this.$watch("search", () => {
       this.resetListWithSelectedDomains();
-      if (this.search === '') { return }
+      if (this.search === "") {
+        return;
+      }
 
       this.resuls = this.searchIndex.search(this.search + "* " + this.search);
       const originalList = this.list;
@@ -228,12 +254,12 @@ export default {
   computed: {
     buttonStyle(periodValue) {
       if (this.selectedPeriod === periodValue) {
-        return 'is-selected';
+        return "is-selected";
       } else {
-        return ''
+        return "";
       }
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -308,6 +334,5 @@ export default {
   color: #ab47bc;
   background-color: white;
 }
-
 </style>
 <style src="vue-multiselect/dist/vue-multiselect.css"></style>
