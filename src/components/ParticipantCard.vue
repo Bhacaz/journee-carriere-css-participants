@@ -12,7 +12,7 @@
       <div class="media">
         <div class="media-content">
           <div class="columns is-mobile">
-            <div class="column">
+            <div class="column" @click="clickOnModal()">
                 <h5 class="title is-5">
                   <WordHighlighter
                       highlightClass="highlighted-text"
@@ -27,14 +27,14 @@
               </span>
           ️</div>
           </div>
-          <p class="subtitle is-5">
+          <p class="subtitle is-5" @click="clickOnModal()">
             <WordHighlighter
               highlightClass="highlighted-text"
               :query="search"
               >{{ participant.name }}</WordHighlighter
             >
           </p>
-          <p class="subtitle is-6">
+          <p class="subtitle is-6" @click="clickOnModal()">
             <WordHighlighter
               highlightClass="highlighted-text"
               :query="search"
@@ -44,7 +44,7 @@
         </div>
       </div>
 
-      <div class="content">
+      <div class="content" @click="clickOnModal()">
         <p>
           <WordHighlighter highlightClass="highlighted-text" :query="search">{{
             cropDescription()
@@ -80,7 +80,7 @@
     </div>
 
     <div class="modal" :class="{ 'is-active': showModal }">
-      <div class="modal-background"></div>
+      <div class="modal-background" @click="clickCloseModal()"></div>
       <div class="modal-card">
         <header
           class="modal-card-head"
@@ -105,7 +105,7 @@
           </p>
         </section>
       </div>
-      <button class="modal-close is-large" aria-label="close"></button>
+      <button class="modal-close is-large" aria-label="close" @click="clickCloseModal()"></button>
     </div>
   </div>
 </template>
@@ -174,6 +174,9 @@ export default {
       }
       this.showModal = !this.showModal;
     },
+    clickCloseModal() {
+      this.showModal = false;
+    },
     clickOnStars() {
       this.participant.toggleStar();
     },
@@ -220,6 +223,10 @@ export default {
 
 .full-width {
   width: 100%;
+}
+
+.modal-card {
+  max-height: calc(100vh - 120px);
 }
 
 .color-animation {
