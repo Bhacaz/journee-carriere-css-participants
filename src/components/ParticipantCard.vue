@@ -7,18 +7,26 @@
         periodToColorTag(participant.period) +
         '33 100%)',
     }"
-    @click="clickOnModal()"
   >
     <div class="card-content">
       <div class="media">
         <div class="media-content">
-          <p class="title is-4">
-            <WordHighlighter
-              highlightClass="highlighted-text"
-              :query="search"
-              >{{ participant.title }}</WordHighlighter
-            >
-          </p>
+          <div class="columns is-mobile">
+            <div class="column">
+                <h5 class="title is-5">
+                  <WordHighlighter
+                      highlightClass="highlighted-text"
+                      :query="search"
+                  >{{ participant.title }}</WordHighlighter
+                  >
+                </h5>
+            </div>
+            <div class="column has-text-right is-2 pl-0 pr-0 mr-3" style="width: 1rem;">
+              <span class="icon is-small is-left" @click="this.participant.toggleStar()">
+                  <i class="fa fa-lg" :class="[starIcon()]" aria-hidden="true"></i>
+              </span>
+          ️</div>
+          </div>
           <p class="subtitle is-5">
             <WordHighlighter
               highlightClass="highlighted-text"
@@ -106,7 +114,7 @@
 import WordHighlighter from "vue-word-highlighter";
 
 export default {
-  name: "Card",
+  name: "ParticipantCard",
   props: ["participant", "search"],
   data() {
     return {
@@ -166,6 +174,12 @@ export default {
       }
       this.showModal = !this.showModal;
     },
+    clickOnStars() {
+      this.participant.toggleStar();
+    },
+    starIcon() {
+      return this.participant.star ? "fa-star has-text-warning" : "fa-star-o";
+    },
   },
 };
 </script>
@@ -202,6 +216,10 @@ export default {
 
 .modal-card-body {
   padding-bottom: 2.5em;
+}
+
+.full-width {
+  width: 100%;
 }
 
 .color-animation {

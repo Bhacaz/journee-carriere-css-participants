@@ -89,7 +89,7 @@
     <section v-if="list.length > 0" class="section flex-container">
       <masonry-wall :items="list" :column-width="325" :padding="16">
         <template #default="{ item }">
-          <Card :key="item.name" :participant="item" :search="search"> </Card>
+          <ParticipantCard :key="item.name" :participant="item" :search="search"> </ParticipantCard>
         </template>
       </masonry-wall>
     </section>
@@ -97,13 +97,16 @@
 </template>
 
 <script>
-import Card from "@/components/Card.vue";
+import ParticipantCard from "@/components/ParticipantCard.vue";
 import VueMultiselect from "vue-multiselect";
 import MasonryWall from "@yeger/vue-masonry-wall";
+import Participant from "@/models/participant";
 
 export default {
+  // eslint-disable-next-line vue/multi-word-component-names
+  name: "Main",
   components: {
-    Card,
+    ParticipantCard,
     VueMultiselect,
     MasonryWall,
   },
@@ -199,10 +202,9 @@ export default {
     fetch("./data/participants.json")
       .then((res) => res.json())
       .then((data) => {
-        data.forEach((participant) => {
-          participant.domain = participant.domain.split("\n\n");
+        this.participants = data.map((d) => {
+          return new Participant(d);
         });
-        this.participants.push(...data);
         this.list.push(...this.participants);
         const listOfDomaines = {};
         this.participants.forEach((participant) => {
@@ -334,5 +336,10 @@ export default {
   color: #ab47bc;
   background-color: white;
 }
+
+.media-content {
+  overflow-x: visible;
+}
+
 </style>
 <style src="vue-multiselect/dist/vue-multiselect.css"></style>
