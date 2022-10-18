@@ -1,5 +1,5 @@
 {
-  "name": "journee-carriere-css-2021-participant",
+  "name": "journee-carriere-css-participants",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -37,12 +37,8 @@
     },
     "extends": [
       "plugin:vue/vue3-essential",
-      "eslint:recommended",
-      "@vue/prettier"
+      "eslint:recommended"
     ],
-    "parserOptions": {
-      "parser": "babel-eslint"
-    },
     "rules": {}
   },
   "browserslist": [
