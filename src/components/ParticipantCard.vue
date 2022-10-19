@@ -180,8 +180,7 @@ export default {
     },
     clickOnStars() {
       this.participant.toggleStar();
-      console.log("click on stars " + this.participant.name);
-      this.$emit("star-clicked", this.participant)
+      this.$emit("star-clicked")
     },
     starIcon() {
       return this.participant.star ? "fa-star has-text-warning" : "fa-star-o";

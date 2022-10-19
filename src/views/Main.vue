@@ -86,20 +86,13 @@
         </section>
       </div>
     </section>
-    <section class="section">
-      <h5 class="title is-5">Favorites</h5>
-<!--      <masonry-wall v-if="participantStars.length > 0" :items="participantStars" :column-width="325" :padding="16">-->
-<!--        <template #default="{ item }">-->
-<!--          <ParticipantCard :key="item.name" :participant="item" :search="search" @star-clicked="starClicked"> </ParticipantCard>-->
-<!--        </template>-->
-<!--      </masonry-wall>-->
-
-      <div class="columns">
-        <div class="column" v-for="participant in participantStars" :key="participant.name">
-          <ParticipantCard :key="participant.name" :participant="participant" :search="search" @star-clicked="starClicked"> </ParticipantCard>
-        </div>
-      </div>
-
+    <section class="section" v-if="participantStars.length > 0">
+      <h5 class="title is-5 pl-4">Favoris ({{participantStars.length}})</h5>
+      <masonry-wall :items="participantStars" :column-width="325" :padding="16">
+        <template #default="{ item }">
+          <ParticipantCard :key="item.name" :participant="item" :search="search" @star-clicked="starClicked"> </ParticipantCard>
+        </template>
+      </masonry-wall>
     </section>
     <section v-if="list.length > 0" class="section flex-container">
       <masonry-wall :items="list" :column-width="325" :padding="16">
@@ -213,15 +206,10 @@ export default {
         return this.participants;
       }
     },
-    starClicked(participant) {
-      if(participant.star) {
-        this.participantStars.push(participant);
-      } else {
-        this.participantStars = this.participantStars.filter((p) => {
-          return p.name !== participant.name;
-        });
-      }
-      console.log(this.participantStars);
+    starClicked() {
+      this.participantStars = this.participants.filter(
+        (participant) => participant.star === true
+      );
     }
   },
   created() {
