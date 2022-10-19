@@ -86,10 +86,25 @@
         </section>
       </div>
     </section>
+    <section class="section">
+      <h5 class="title is-5">Favorites</h5>
+<!--      <masonry-wall v-if="participantStars.length > 0" :items="participantStars" :column-width="325" :padding="16">-->
+<!--        <template #default="{ item }">-->
+<!--          <ParticipantCard :key="item.name" :participant="item" :search="search" @star-clicked="starClicked"> </ParticipantCard>-->
+<!--        </template>-->
+<!--      </masonry-wall>-->
+
+      <div class="columns">
+        <div class="column" v-for="participant in participantStars" :key="participant.name">
+          <ParticipantCard :key="participant.name" :participant="participant" :search="search" @star-clicked="starClicked"> </ParticipantCard>
+        </div>
+      </div>
+
+    </section>
     <section v-if="list.length > 0" class="section flex-container">
       <masonry-wall :items="list" :column-width="325" :padding="16">
         <template #default="{ item }">
-          <ParticipantCard :key="item.name" :participant="item" :search="search"> </ParticipantCard>
+          <ParticipantCard :key="item.name" :participant="item" :search="search" @star-clicked="starClicked"> </ParticipantCard>
         </template>
       </masonry-wall>
     </section>
@@ -113,6 +128,7 @@ export default {
   data() {
     return {
       participants: [],
+      participantStars: [],
       list: [],
       search: "",
       searchIndex: null,
@@ -197,6 +213,16 @@ export default {
         return this.participants;
       }
     },
+    starClicked(participant) {
+      if(participant.star) {
+        this.participantStars.push(participant);
+      } else {
+        this.participantStars = this.participantStars.filter((p) => {
+          return p.name !== participant.name;
+        });
+      }
+      console.log(this.participantStars);
+    }
   },
   created() {
     fetch("./data/participants.json")
@@ -243,7 +269,6 @@ export default {
         });
       });
     });
-
     this.$watch("domainsSelected", () => {
       this.resetListWithSelectedDomains();
       if (this.domainsSelected.length > 0) {

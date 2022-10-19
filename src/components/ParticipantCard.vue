@@ -22,7 +22,7 @@
                 </h5>
             </div>
             <div class="column has-text-right is-2 pl-0 pr-0 mr-3" style="width: 1rem;">
-              <span class="icon is-small is-left" @click="this.participant.toggleStar()">
+              <span class="icon is-small is-left" @click="clickOnStars()">
                   <i class="fa fa-lg" :class="[starIcon()]" aria-hidden="true"></i>
               </span>
           ️</div>
@@ -116,6 +116,7 @@ import WordHighlighter from "vue-word-highlighter";
 export default {
   name: "ParticipantCard",
   props: ["participant", "search"],
+  emits: ["star-clicked"],
   data() {
     return {
       showModal: false,
@@ -179,6 +180,8 @@ export default {
     },
     clickOnStars() {
       this.participant.toggleStar();
+      console.log("click on stars " + this.participant.name);
+      this.$emit("star-clicked", this.participant)
     },
     starIcon() {
       return this.participant.star ? "fa-star has-text-warning" : "fa-star-o";
