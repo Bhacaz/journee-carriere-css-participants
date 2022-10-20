@@ -1,4 +1,4 @@
-# journee-carriere-css-2021-participant
+# journee-carriere-css-participants
 
 ## Project setup
 ```
