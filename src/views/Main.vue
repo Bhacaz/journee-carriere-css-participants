@@ -109,6 +109,7 @@ import ParticipantCard from "@/components/ParticipantCard.vue";
 import VueMultiselect from "vue-multiselect";
 import MasonryWall from "@yeger/vue-masonry-wall";
 import Participant from "@/models/participant";
+import { saveFavorites, getFavorites } from "@/utils/localStorageUtils";
 
 export default {
   // eslint-disable-next-line vue/multi-word-component-names
@@ -210,6 +211,7 @@ export default {
       this.participantStars = this.participants.filter(
         (participant) => participant.star === true
       );
+      saveFavorites(this.participantStars);
     }
   },
   created() {
@@ -238,6 +240,14 @@ export default {
           });
         });
         this.buildIndex();
+        this.participantStars = this.participants.filter(
+          (participant) => {
+             if (getFavorites().includes(participant.name)) {
+               participant.star = true;
+               return participant;
+             }
+          }
+        );
       })
       .catch((err) => console.log(err));
   },
