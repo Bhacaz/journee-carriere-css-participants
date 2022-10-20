@@ -7,26 +7,34 @@
         periodToColorTag(participant.period) +
         '33 100%)',
     }"
-    @click="clickOnModal()"
   >
     <div class="card-content">
       <div class="media">
         <div class="media-content">
-          <p class="title is-4">
-            <WordHighlighter
-              highlightClass="highlighted-text"
-              :query="search"
-              >{{ participant.title }}</WordHighlighter
-            >
-          </p>
-          <p class="subtitle is-5">
+          <div class="columns is-mobile">
+            <div class="column" @click="clickOnModal()">
+                <h5 class="title is-5">
+                  <WordHighlighter
+                      highlightClass="highlighted-text"
+                      :query="search"
+                  >{{ participant.title }}</WordHighlighter
+                  >
+                </h5>
+            </div>
+            <div class="column has-text-right is-2 pl-0 pr-0 mr-3" style="width: 1rem;">
+              <span class="icon is-small is-left" @click="clickOnStars()">
+                  <i class="fa fa-lg" :class="[starIcon()]" aria-hidden="true"></i>
+              </span>
+          ️</div>
+          </div>
+          <p class="subtitle is-5" @click="clickOnModal()">
             <WordHighlighter
               highlightClass="highlighted-text"
               :query="search"
               >{{ participant.name }}</WordHighlighter
             >
           </p>
-          <p class="subtitle is-6">
+          <p class="subtitle is-6" @click="clickOnModal()">
             <WordHighlighter
               highlightClass="highlighted-text"
               :query="search"
@@ -36,7 +44,7 @@
         </div>
       </div>
 
-      <div class="content">
+      <div class="content" @click="clickOnModal()">
         <p>
           <WordHighlighter highlightClass="highlighted-text" :query="search">{{
             cropDescription()
@@ -72,7 +80,7 @@
     </div>
 
     <div class="modal" :class="{ 'is-active': showModal }">
-      <div class="modal-background"></div>
+      <div class="modal-background" @click="clickCloseModal()"></div>
       <div class="modal-card">
         <header
           class="modal-card-head"
@@ -97,7 +105,7 @@
           </p>
         </section>
       </div>
-      <button class="modal-close is-large" aria-label="close"></button>
+      <button class="modal-close is-large" aria-label="close" @click="clickCloseModal()"></button>
     </div>
   </div>
 </template>
@@ -106,8 +114,9 @@
 import WordHighlighter from "vue-word-highlighter";
 
 export default {
-  name: "Card",
+  name: "ParticipantCard",
   props: ["participant", "search"],
+  emits: ["star-clicked"],
   data() {
     return {
       showModal: false,
@@ -166,6 +175,16 @@ export default {
       }
       this.showModal = !this.showModal;
     },
+    clickCloseModal() {
+      this.showModal = false;
+    },
+    clickOnStars() {
+      this.participant.toggleStar();
+      this.$emit("star-clicked")
+    },
+    starIcon() {
+      return this.participant.star ? "fa-star has-text-warning" : "fa-star-o";
+    },
   },
 };
 </script>
@@ -202,6 +221,14 @@ export default {
 
 .modal-card-body {
   padding-bottom: 2.5em;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.modal-card {
+  max-height: calc(100vh - 120px);
 }
 
 .color-animation {
