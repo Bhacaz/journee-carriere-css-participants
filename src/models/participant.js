@@ -1,3 +1,5 @@
+import participants from "./participants.json";
+
 export default class Participant {
     constructor({ name, title, domain, formation, description, period }) {
         this.name = name;
@@ -11,5 +13,9 @@ export default class Participant {
 
     toggleStar() {
         this.star = !this.star;
+    }
+
+    static fromJson() {
+        return participants.map((participant) => new Participant(participant));
     }
 }

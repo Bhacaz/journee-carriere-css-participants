@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sara Bouffard",
+    "title": "Psychoéducatrice",
+    "domain": "Relation d’aide",
+    "formation": "Maîtrise en psychoéducation",
+    "description": "Le psychoéducateur dépiste, évalue et intervient sur les capacités et difficultés d'adaptation des personnes de tous âges. Son action se situe principalement dans leurs différents milieux de vie, en utilisant leurs forces et leur quotidien comme leviers d'intervention. Dans le cadre de son travail, il évalue différentes problématiques et propose des solutions propres aux besoins de chacun des individus à qui il vient en aide.",
+    "period": "P2",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=12&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=12&NoPage=1&NoResultat=7&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1839",
+    "holland_codes": ["E", "S", "C"]
+  },
+  {
+    "name": "Caroline Pineault",
+    "title": "Pharmacienne",
+    "domain": "Science de la santé humaine et animal",
+    "formation": "Doctorat",
+    "description": "En tant que pharmacienne, mon rôle premier est de m'assurer de la sécurité et de l’efficacité des traitements pharmacologiques de mes patients (indication, dose, etc) et d’éviter les interactions médicamenteuses. Je dois ensuite fournir des explications complètes aux patients sur leurs nouvelles médications. Cette responsabilité est de loin ma préférée puisqu’elle me permet de faire de l’enseignement et de créer des liens avec mes patients.\n\nJe peux aussi prescrire certains traitements pour des conditions mineures (ex : infection urinaire, feux sauvages, infection vaginale, rhinite allergique.) Je fournis des conseils de santé générale, traite des blessures mineures et, depuis peu de temps, j’ai la possibilité de faire des injections de médicaments et de vaccins. Je suis une professionnelle facilement accessible et je contribue grandement au système de santé.\n\nJe communique régulièrement avec d’autres professionnels de la santé (infirmière, médecin, inhalothérapeute, travailleur social) afin d’optimiser la thérapie des patients. Ce sont des échanges qui sont très enrichissants sur un point de vue professionnel et qui permettent de changer pour le mieux la situation de mes patients!\n\nJe dois aussi faire un travail de gestion en étant en charge du laboratoire, des techniciennes et des inventaires.\n\nC’est une profession qui demande beaucoup de capacité d’adaptation, de vivacité d’esprit, de flexibilité, de travail d’équipe et d’empathie. C’est une profession qui évolue constamment et qui permet une grande variété au niveau des tâches à accomplir.\n\nÊtre pharmacienne, c’est avoir beaucoup de responsabilités, mais c’est aussi une profession extrêmement valorisante sur le plan professionnel et sur le plan humain.\n\nEt on manque de relève!",
+    "period": "P2",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=97",
+    "holland_codes":  ["E", "I", "A"]
+  }
+]

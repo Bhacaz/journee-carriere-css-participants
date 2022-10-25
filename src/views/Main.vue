@@ -215,41 +215,35 @@ export default {
     }
   },
   created() {
-    fetch("./data/participants.json")
-      .then((res) => res.json())
-      .then((data) => {
-        this.participants = data.map((d) => {
-          return new Participant(d);
-        });
-        this.list.push(...this.participants);
-        const listOfDomaines = {};
-        this.participants.forEach((participant) => {
-          participant.domain.forEach((domain) => {
-            if (listOfDomaines[domain]) {
-              listOfDomaines[domain] += 1;
-            } else {
-              listOfDomaines[domain] = 1;
-            }
-          });
-        });
-        Object.entries(listOfDomaines).forEach((entry) => {
-          const [domain, count] = entry;
-          this.domains.push({
-            name: domain + " (" + count + ")",
-            domain: domain,
-          });
-        });
-        this.buildIndex();
-        this.participantStars = this.participants.filter(
-          (participant) => {
-             if (getFavorites().includes(participant.name)) {
-               participant.star = true;
-               return participant;
-             }
+    this.participants = Participant.fromJson();
+
+    this.list.push(...this.participants);
+    const listOfDomaines = {};
+    this.participants.forEach((participant) => {
+      participant.domain.forEach((domain) => {
+        if (listOfDomaines[domain]) {
+          listOfDomaines[domain] += 1;
+        } else {
+          listOfDomaines[domain] = 1;
+        }
+      });
+    });
+    Object.entries(listOfDomaines).forEach((entry) => {
+      const [domain, count] = entry;
+      this.domains.push({
+        name: domain + " (" + count + ")",
+        domain: domain,
+      });
+    });
+    this.buildIndex();
+    this.participantStars = this.participants.filter(
+        (participant) => {
+          if (getFavorites().includes(participant.name)) {
+            participant.star = true;
+            return participant;
           }
-        );
-      })
-      .catch((err) => console.log(err));
+        }
+    );
   },
   mounted() {
     this.$watch("search", () => {
