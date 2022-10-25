@@ -82,16 +82,24 @@
     <div class="modal" :class="{ 'is-active': showModal }">
       <div class="modal-background" @click="clickCloseModal()"></div>
       <div class="modal-card">
-        <header
-          class="modal-card-head"
-          :class="{
-            'color-animation': participant.name === 'Jean-Francis Bastien',
-          }"
-        >
+        <header class="modal-card-head">
           <p class="modal-card-title">{{ participant.name }}</p>
         </header>
         <section class="modal-card-body">
-          <h3 class="title is-5">{{ participant.title }}</h3>
+          <div class="level">
+            <div class="level-left">
+              <div class="level-item">
+                <h3 class="title is-5">{{ participant.title }}</h3>
+              </div>
+            </div>
+            <div class="level-right">
+              <div class="level-item">
+                <a :href="participant.link_reperes" target="_blank">
+                  <img src="/img/reperes.png" alt="Répères" style="width: 3em;" />
+                </a>
+              </div>
+            </div>
+          </div>
           <p>{{ participant.description }}</p>
           <p style="padding-top: 2em">
             <span
@@ -231,25 +239,6 @@ export default {
   max-height: calc(100vh - 120px);
 }
 
-.color-animation {
-  animation: animateBg 10s linear infinite;
-  background-image: linear-gradient(
-    0deg,
-    #cf5c5c,
-    #c19b4a,
-    #def2a0,
-    #c6ee4a,
-    #42eca6,
-    #64b3d9,
-    #208ea2,
-    #498ada,
-    #5b73df,
-    #897ed3,
-    #cf5c5c,
-    #c19b4a
-  );
-  background-size: 100% 1100%;
-}
 @keyframes animateBg {
   0% {
     background-position: 0% 0%;
