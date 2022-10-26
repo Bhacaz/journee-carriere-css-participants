@@ -111,6 +111,9 @@
               {{ domain }}</span
             >
           </p>
+          <div>
+            <HollandCode :codes="participant.holland_codes" />
+          </div>
         </section>
       </div>
       <button class="modal-close is-large" aria-label="close" @click="clickCloseModal()"></button>
@@ -120,6 +123,7 @@
 
 <script>
 import WordHighlighter from "vue-word-highlighter";
+import HollandCode from "@/components/HollandCode";
 
 export default {
   name: "ParticipantCard",
@@ -132,6 +136,7 @@ export default {
   },
   components: {
     WordHighlighter,
+    HollandCode,
   },
   methods: {
     domainToTag(domain) {
