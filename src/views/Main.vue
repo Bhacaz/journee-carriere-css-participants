@@ -7,6 +7,8 @@
           Aide aux choix : Description des professionnel(le)s participants à la
           journée carrière. <br />1er novembre 2022
         </p>
+        <strong>Formulaire d'inscription:  </strong>
+        <a href="">Google Forms</a><br />
 
         <section class="section" id="search-section">
           <div class="field container">
