@@ -5,7 +5,7 @@
     "domain": "Administration",
     "formation": "Baccalauréat",
     "description": "Ce gestionnaire est responsable de la livraison de projets en technologies de l'information et télécommunications et agit davantage comme un chef d'orchestre que comme un expert technique. Il/elle communique avec les clients et guide son équipe afin d'atteindre les objectifs des projets selon le calendrier et le budget prévus.",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=12&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=12&NoPage=1&NoResultat=7&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1839",
     "holland_codes": [
       "E",
@@ -33,7 +33,7 @@
     "domain": "Administration",
     "formation": "Baccalauréat",
     "description": "Je travaille avec des gestionnaires de grandes entreprises afin de les aider à résoudre leurs problèmes d'affaires pressants (par ex.: devrions-nous entrer/sortir d'un certain marché? À quel prix devrions-nous vendre un nouveau produit? Devrions-nous investir dans une nouvelle technologie?)",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=41&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=41&NoPage=1&NoResultat=12&Provenance=10&Niveau=4&IdFiltre=0&IdDon=105",
     "holland_codes": [
       "E",
@@ -47,7 +47,7 @@
     "domain": "Agriculture",
     "formation": "Baccalauréat",
     "description": "Accompagner toutes personnes qui souhaitent démarrer un projet agricole ou une ferme. J'aide aussi des producteurs agricoles à trouver une relève à leur entreprise.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=14&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=14&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=735",
     "holland_codes": [
       "E",
@@ -61,7 +61,7 @@
     "domain": "Armée",
     "formation": "Diplôme d'étude secondaire (préférablement + Math SN de secondaire 5) ",
     "description": "En tant qu'officier commissionné: \r\nPlanification d' exercices militaires\r\nDéploiement(guerre, aide humanitaire)\r\n  \r\n\"Les officiers(ères) d’artillerie assurent l’appui-feu indirect, la défense aérienne, la surveillance et l’acquisition d’objectifs au combat.\"\r\n\r\n''Les officier(ère)s des Forces armées canadiennes (FAC) occupent des postes d’autorité inspirant le respect. Ils sont responsables de la sécurité, du bien-être et du bon moral d’un groupe de soldats, de marins ou d’aviateurs. Leurs tâches comprennent l’analyse, la planification, la prise de décisions et la prestation de conseils.''\r\n\r\nEn tant qu'élève officier:\r\nFormation militaire de base\r\nExercices militaires (exemple: Leadership Conquérant)\r\nCours de métier\r\nS'assurer de la sécurité et du bien être de tous et chacun\r\nÉtude (payer)\r\nPerfectionnement militaire",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=38&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=38&NoPage=1&NoResultat=13&Provenance=10&Niveau=4&IdFiltre=0&IdDon=70",
     "holland_codes": [
       "E",
@@ -75,7 +75,7 @@
     "domain": "Arts",
     "formation": "Aucune formation spécifique requise",
     "description": "J’accompagne des chanteurs en tournée et la télévision ",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=840",
     "holland_codes": [
       "A",
@@ -89,7 +89,7 @@
     "domain": "Avocat",
     "formation": "Baccalauréat",
     "description": "Tu jongles avec l’idée de devenir avocat ? Viens me rencontrer et on discutera de la réalité, qui n’est pas tout à fait celle que tu vois dans les films! Il existe différentes façons de faire carrière comme avocat. La plus connue est de travailler en cabinet, comme Harvey Specter dans la série Suits sur Netflix. Je l’ai essayé, mais je n’ai pas vraiment aimé. J’ai donc opté pour un autre type de carrière, celle de conseiller juridique en entreprise. Puisque que l’entreprise est notre seul client, nous touchons plusieurs domaines du droit. Pour ma part, je fais notamment de la négociation de contrats, du droit des technologies de l’information et de la protection de la vie privée, en étant aussi gestionnaire d’une équipe d’avocats. Nous travaillons souvent avec des équipes de projet, ce qui nous permet d’apprendre beaucoup sur les opérations de notre entreprise. C’est une combinaison intéressante entre le droit et le monde des affaires. Je t’invite à participer à l’atelier dans lequel je t’expliquerai ce qu’un conseiller juridique en entreprise fait du lundi au vendredi. Un métier cool qui comporte plusieurs avantages auxquels tu n’as peut-être pas pensé. Au plaisir de t’y rencontrer.",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
     "holland_codes": [
       "E",
@@ -117,7 +117,7 @@
     "domain": "Avocat",
     "formation": "Baccalauréat",
     "description": "Mon mandat est de piloter un projet qui vise à améliorer\r\nla pratique des différents acteurs (policier.ère.s, procureur.e.s, avocat.e.s, agent.e.s des services correctionnels, juges, etc.) pour lever les obstacles auxquels les femmes victimes de violence conjugale font face dans le système judiciaire lorsqu’elles tentent d’échapper à cette violence. Parmi mes tâches: mobilisation des partenaires, représentation auprès d'instances politiques, recherche et identification des meilleures pratiques, développement d'outils, sensibilisation et formation des acteurs via des conférences et séminaires régionaux.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
     "holland_codes": [
       "E",
@@ -131,7 +131,7 @@
     "domain": "Biologiste",
     "formation": "Maîtrise ou DESS",
     "description": "Faire connaitre aux Biochimistes Cliniques et, Medecin les nouveautés en diagnostique ce qui inclus les tests PCR pour la COVID 19. ",
-    "period": "10h40 à 11h40, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -159,7 +159,7 @@
     "domain": "Informatique",
     "formation": "Diplôme d'études professionnelles (DEP)",
     "description": "J’ai un cabinet de services administratifs sur le web! \r\n\r\nJ’offre mes services 360 degrés en administration de tout genre pour les entreprises et les entrepreneurs qui ont besoin de déléguer! ",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=12&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=12&NoPage=1&NoResultat=7&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1839",
     "holland_codes": [
       "E",
@@ -173,7 +173,7 @@
     "domain": "Ingénieur",
     "formation": "Maîtrise ou DESS",
     "description": "Je onstruis des programmes d'intelligence artificielle afin de contrôler des robots, incluant les voitures.",
-    "period": "10h40 à 11h40, 11h55 à 12h55",
+    "period": "10h40 à 11h40",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=30&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=30&NoPage=1&NoResultat=29&Provenance=10&Niveau=4&IdFiltre=0&IdDon=148770",
     "holland_codes": [
       "I",
@@ -187,7 +187,7 @@
     "domain": "Ingénieur",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "Je bombarde les nouveaux logiciels de mon entreprise chaque mois pour vérifier leur bon fonctionnement avant de les rendre disponibles au grand public.",
-    "period": "11h00 à 11h45, 14h00 à 14h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=369",
     "holland_codes": [
       "I",
@@ -201,7 +201,7 @@
     "domain": "Lettres",
     "formation": "Baccalauréat",
     "description": "Dans un monde de plus en plus connecté, les langues servent à faire voyager non seulement les mots et les personnes, mais aussi les idées, les produits et les services. Dans cette perspective, la traduction professionnelle devient incontournable et essentielle au bon fonctionnement de nos sociétés modernes. Au Canada et au Québec, les services linguistiques comme la traduction, mais aussi la révision et la rédaction de contenu tiennent une place singulière dans notre économie, mais aussi notre identité. Dans cette conférence, nous ferons donc une belle et stimulante incursion dans l'univers de la traduction et des traducteurs professionnels, qui contribuent concrètement à chaque jour au rapprochement des cultures, à la promotion de la diversité des expressions linguistiques, et, au final, à la prospérité des différentes communautés.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=820",
     "holland_codes": [
       "I",
@@ -215,7 +215,7 @@
     "domain": "Médecin",
     "formation": "Doctorat",
     "description": "Je suis médecin et rendue à la 5e année sur 5 de la résidence en chirurgie générale pour devenir chirurgienne générale. Un chirurgien général est un médecin spécialiste qui pratique des interventions chirurgicales (opérations) afin de traiter ou diagnostiquer des maladies principalement du tube digestif (estomac, pancréas, intestins, vésicule biliaire, foie, rate, oesophage, appendice), mais également des maladies de peau, du sein, des glandes endocrines et des tissus mous. Le chirurgien général est aussi un spécialiste de première ligne pour les polytraumatisés. Il existe plusieurs sur-spécialités de la chirurgie générale comme la chirurgie oncologique (pour les cancers), colorectale, hépato-biliaire et pancréatique, bariatrique (pour traiter l’obésité), thoracique, pédiatrique (enfants) et traumatologique. Notre travail ne se limite toutefois pas au geste chirurgical pendant l’opération, il inclue également la période pré-opératoire (pour déterminer si le patient a besoin d’une chirurgie ou non et choisir laquelle est appropriée) et la période postopératoire (avec la gestion des complications). Si vous voulez en apprendre davantage sur cette spécialité stimulante et gratifiante, venez me voir ! Au plaisir de vous rencontrer, Léamarie ",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=11&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=11&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=572",
     "holland_codes": [
       "I",
@@ -229,7 +229,7 @@
     "domain": "Médias sociaux",
     "formation": "Baccalauréat",
     "description": "Je suis responsable des comptes de médias sociaux d'entreprises dans une agence de marketing numérique. Je gère le département de réseaux sociaux. \r\n\r\nEn collaboration avec le directeur marketing, j'élabore la stratégie de contenu que nous allons publier. Je fais la rédaction des contenus et parfois la création de contenu. J'anime et gère la communauté sur les différentes plateformes de médias sociaux. Je fais beaucoup de gestion de projets, je planifie et coordonne les journées de tournage et les prises de photo. Je suis aussi l'intermédiaire entre le client et notre équipe. (Graphiste, rédacteur,  photographe,etc)",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=95280",
     "holland_codes": [
       "E",
@@ -243,7 +243,7 @@
     "domain": "Nutritionniste",
     "formation": "Baccalauréat",
     "description": "L’alimentation est la base de la vie et les diététistes-nutritionnistes sont les seules expertes dans ce domaine. La plupart d'entre nous exerçons en nutrition clinique, afin d'aider les gens de tous âges à garder ou améliorer leur santé et leur bien-être. Elles travaillent surtout en prévention, en conseillant les personnes sur leur alimentation, en tenant compte de leurs besoins et de leurs valeurs. Si les aspects social, culturel, physiologique et psychologique de l'humain vous intéressent, devenir nutritionniste est la profession tout indiquée! \r\nDe plus, il est possible de travailler en gestion de projets dans des organismes, auprès d'athlètes, au gouvernement afin de réduire les inégalités en santé, en recherche pour mieux comprendre l'effet des aliments sur le corps humain, en chimie alimentaire et même en communications. ",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=601",
     "holland_codes": [
       "I",
@@ -285,7 +285,7 @@
     "domain": "Police",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "J’ai servi comme policière durant 27 ans au SPVM! J’ai fait plusieurs conférences  auprès de élèves du primaire, secondaire et adulte! Alors je pourrais parler de mon expérience en tant que femme policière. Le déroulement d’une journée type avec les réponses aux appels d’urgence. Le travail en prévention, le travail communautaire. La composition des équipes, les quarts de travail, la hiérarchie. Les différents  postes comme les  motards, les cavaliers, les enquêteurs, escouade tactique, etc!!!   ",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1008",
     "holland_codes": [
       "E",
@@ -299,7 +299,7 @@
     "domain": "",
     "formation": "Fromation au Collège National situé à Rigaud, Qc",
     "description": "Plus de 25 ans d'expérience au sein de l'ASFC dans l'examen de marchandise, de personnes arrivant au Canada",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=126",
     "holland_codes": [
       "C",
@@ -313,7 +313,7 @@
     "domain": "Politique",
     "formation": "Baccalauréat",
     "description": "Un élu municipal fait valoir les intérêts de la communauté et il participe à la prise de décision au sein de la municipalité. L’élu a trois principaux rôles à jouer : représenter ses électeurs, élaborer des politiques et gérer les ressources financières et administratives de la Ville.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1894",
     "holland_codes": [
       "E",
@@ -341,7 +341,7 @@
     "domain": "Ressources humaines",
     "formation": "Baccalauréat",
     "description": "Responsable de diriger une équipe qui s’assure d’attirer de nouveaux candidats, qui favorise la rétention et l’évaluation de ceux-ci. Mettre en place des politiques au sein de l’ensemble de l’entreprise permettant une meilleure gestion ainsi qu’un climat de travail propice à une meilleure performance . Faire évoluer l’ensemble de l’entreprise à être un employeur attrayant et mettre en place une marque employeur attirante. Guider l’ensemble des gestionnaires et des propriétaires dans leurs décisions relatives à la gestion de personnel. Prendre des décisions stratégiques face au positionnement de l’entreprise .",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=9",
     "holland_codes": [
       "E",
@@ -355,7 +355,7 @@
     "domain": "Santé",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "L’inhalothérapeute s'occupe des soins du système cardiorespiratoire. Il intervient dans toute situation d'urgence (arrêt cardiaque ou respiratoire, urgence traumatologique) et dans le traitement de certaines maladies respiratoires comme l’asthme, l’emphysème ou la fibrose kystique. Il agit pour maintenir, rétablir ou assister la fonction des voies respiratoires par l'utilisation d'un respirateur artificiel ou de tout autre appareil d'oxygénation ou par l'administration de médicaments par les voies respiratoires.\r\n\r\nL’inhalothérapeute travaille dans les diverses unités de soins d'un centre hospitalier : urgence, soins intensifs, néonatalogie, physiologie respiratoire, bloc opératoire, etc.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=621",
     "holland_codes": [
       "I",
@@ -383,7 +383,7 @@
     "domain": "Administration",
     "formation": "DEP, CSC, BACC, Maitrîse (il y a beaucoup d’avenues)",
     "description": "Je rends les marchés financiers (Bourse et Crypto) plus accessibles en fournissant de l’information, des outils et des opportunités à tous et toutes pour atteindre une liberté et richesse financière.",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=129",
     "holland_codes": [
       "C",
@@ -397,7 +397,7 @@
     "domain": "Administration",
     "formation": "Baccalauréat",
     "description": "Conseiller les particuliers et les entreprises dans la gestion de leur patrimoine. Gérer un portefeuille de placements, conseiller les gens avec l’assurance de personne! Un planificateur financier est un peu comme le médecin général de la finance!",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&IdDon=97&TypeDonnee=P&EnButinage=1",
     "holland_codes": [
       "E",
@@ -411,7 +411,7 @@
     "domain": "Administration",
     "formation": "Baccalauréat",
     "description": "En tant qu’analyste financier, je m’assure que Bombardier récolte les revenus pour les services que l’on rend à nos clients",
-    "period": "12h00 à 12h45, 15h00 à 15h45",
+    "period": "12h00 à 12h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&IdDon=88&TypeDonnee=P&EnButinage=1",
     "holland_codes": [
       "C",
@@ -425,7 +425,7 @@
     "domain": "Arts",
     "formation": "DEC et ou BACC",
     "description": "J'œuvre depuis près de vingt ans, principalement dans les domaines du branding, la direction artistique, le design graphique, les campagnes de publicités intégrées ainsi que la gestion de projet. Mes aptitudes de gestionnaire d’équipe graphique ont été peaufinées pendant 9 ans grâce à de nombreuses formations, notamment sur le leadership, la stratégie et le coaching. J'ai eu la chance de trvailler pour des compagnies telles que CAE, CCM Hockey (Shoot Photos avec des joueurs professionnels), ADIDAS, CF Montréal et depuis un an en \"startup\" chez Taiga Motors (Entreprise Québécois, premier au monde à électrifier les motoneiges et motomarine).\r\n\r\nAu final, mes réalisations doivent être visuellement impeccables, simples et basées sur l’analyse des enjeux et objectifs du client, afin de créer des solutions originales et pertinentes.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=829",
     "holland_codes": [
       "A",
@@ -439,7 +439,7 @@
     "domain": "Avocat",
     "formation": "Maîtrise ou DESS",
     "description": "Je suis en charge du service juridique pour les investissements chez BDC Capital.  Nous investissons principalement en capital de risque (venture capital), soit dans des sociétés technologiques novatrices.  Dans le passé, j’ai également travaillé pour un cabinet d’avocats national à titre d’avocat en financement corporatif.",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
     "holland_codes": [
       "E",
@@ -453,7 +453,7 @@
     "domain": "Avocat",
     "formation": "Baccalauréat",
     "description": "J'ai pratiqué le droit de la famille en cabinet privé pendant 20 ans, dont 13 ans à mon compte. J'ai plaidé devant la Cour supérieure et la Cour d'appel. J'ai représenté des adultes, mais aussi des enfants pris dans le conflit de séparation de leurs parents. \r\n\r\nJe suis maintenant directrice de la Clinique juridique du Barreau du Québec, où je suis gestionnaire depuis 3 ans. Avec la participation des étudiants de l'École du Barreau, la Clinique juridique offre des services de consultation et de conseils juridiques gratuits aux citoyens du Québec.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
     "holland_codes": [
       "E",
@@ -481,7 +481,7 @@
     "domain": "Biologiste",
     "formation": "Baccalauréat",
     "description": "Je suis microbiologiste agréé depuis 35 ans. Je suis un ancien de Saint-Sacrement et j'ai étudié au Collège Jean-de-Brébeuf, à l'Université de Montréal, à l'INRS-Institut Armand-Frappier, à McGill et à l'UQAM. J'ai eu deux carrières parallèles : une comme microbiologiste dans des laboratoires accrédités par le MELCC et l'autre comme professeur de microbiologie au niveau collégial et en sciences de l'éducation à l'université. Je suis membre du conseil d'administration de mon association professionnelle depuis 26 ans. J'ai fait de la recherche en microbiologie et en didactique des sciences. Je vais vous présenter ma profession et les raisons pour lesquelles je l'ai choisie et pourquoi je l'aime encore après 35 ans.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=268",
     "holland_codes": [
       "I",
@@ -495,7 +495,7 @@
     "domain": "Criminologie",
     "formation": "Baccalauréat",
     "description": "Je fais le suivi communautaire d’hommes adultes judiciarisés dans le cadre d’une sentence provinciale (probation, sursis et libération conditionnelle) ",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=762",
     "holland_codes": [
       "S",
@@ -509,7 +509,7 @@
     "domain": "Enseignement",
     "formation": "Maîtrise ou DESS",
     "description": "Je suis chargée d'enseignement à l'École des sciences infirmières de l'Université de McGill. J'enseigne aux futures infirmières la théorie nécessaire pour qu'elles développement leurs compétences et expertises afin d'offrir des soins de qualité aux patients dans divers milieux de soins de santé.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=7&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=7&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=614",
     "holland_codes": [
       "S",
@@ -523,7 +523,7 @@
     "domain": "Entrepreneur",
     "formation": "Aucune formation spécifique requise",
     "description": "Mon rôle consiste à diriger une entreprise en collaboration avec des équipes multi disciplinaires.  Être un dirigeant est un rôle avec des tâches extrêmement variées.  Je veille au bon déroulement de plusieurs aspects de la vie active d’une entreprise au quotidien (gestion des employés, finance, vente, marketing, opérations, etc), à sa croissance, sa pérennité ainsi que de m’assurer de rester compétitif et se démarquer de la concurrence.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=46&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=46&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=13",
     "holland_codes": [
       "E",
@@ -551,7 +551,7 @@
     "domain": "Informatique",
     "formation": "Aucune formation spécifique requise",
     "description": "Concevoir les éléments de « gameplay » et de guidance au sein du jeu vidéo. Le travail d’un designer de jeu, c’est surtout de se mettre à la place du joueur pour créer la meilleure expérience de jeu possible.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=207697",
     "holland_codes": [
       "E",
@@ -565,7 +565,7 @@
     "domain": "Ingénieur",
     "formation": "Baccalauréat",
     "description": "Mon rôle principal est de m'assurer que tous les occupants d'un avion (incluant les passagers, les agents de bord et les pilotes) soient en sécurité, autant durant un vol normal que lors d'une situation d'urgence. Je dois donc m'assurer que tous les règlements du transport aérien reliés à la sécurité des occupants soient respectés lors de la conception des intérieurs des avions. Je participe à plusieurs étapes de conception et de configuration de la cabine, aux tests de sièges (pour s'assurer que tous les sièges demeurent sécuritaires lors d'un accident) et aux tests d'évacuation d'urgence (pour s'assurer que tous les occupants puissent sortir à temps de l'avion dans les pires conditions).  Je suis aussi responsable de l'inspection finale de chaque avion, juste avant la livraison au client.",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=329",
     "holland_codes": [
       "I",
@@ -579,7 +579,7 @@
     "domain": "Ingénieur",
     "formation": "Baccalauréat",
     "description": "Je suis responsable de la gestion des projets de construction. De la phase estimation, la planification, la gestion d'un projet jusqu'à sa livraison.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=292",
     "holland_codes": [
       "I",
@@ -607,7 +607,7 @@
     "domain": "Médecin",
     "formation": "Doctorat",
     "description": "Médecin d’urgence à l’hôpital de St-Jérôme, mon travail consiste à traiter des patients de 0 à 100 ans se présentant avec une multitudes de problèmes de santé différents.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=577",
     "holland_codes": [
       "I",
@@ -635,7 +635,7 @@
     "domain": "Pharmacie",
     "formation": "Doctorat de 1er cycle ",
     "description": "Le pharmacien, c'est l'expert du médicament. Il joue un rôle central dans notre système de santé, car c'est à lui que revient la responsabilité de vérifier le bon usage des médicaments auprès de la population.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=598",
     "holland_codes": [
       "I",
@@ -649,7 +649,7 @@
     "domain": "Pilote",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "Je parcours le monde à transporter des gens d’affaires, personnalités publiques, médecins (Transport d’organes) ou encore des patients (Évacuations aéromédicales).",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=8&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=8&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=533",
     "holland_codes": [
       "I",
@@ -663,7 +663,7 @@
     "domain": "Police",
     "formation": "Maîtrise ou DESS",
     "description": "Mon emploi consiste à gérer la division des enquêtes d’un service de police au niveau opérationnel et administratif. Veillez au bon fonctionnement des opérations. Implication dans des comités d’enjeux provinciaux. ",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1008",
     "holland_codes": [
       "E",
@@ -677,7 +677,7 @@
     "domain": "Police",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "Un emploi dans le domaine juridique, sur la route, à effectuer des évictions de domicile, distribuer des documents importants en personne faire des gardes hospitalières. Faire des constats d’immeuble etc.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1079",
     "holland_codes": [
       "E",
@@ -691,7 +691,7 @@
     "domain": "Pompier",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "Venir en aide aux citoyens lors de toutes sortes de situations d'urgence. Incendie, accident de la route, inondation, médical, sauvetage, fuite de gaz, etc. Aucune journée n'est pareille, mais ce qui est certain, c'est que l'on travaille en équipe.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1010",
     "holland_codes": [
       "R",
@@ -705,7 +705,7 @@
     "domain": "Relation d'aide",
     "formation": "Maîtrise ou DESS",
     "description": "Le psychoéducateur en milieu scolaire dépiste, évalue et accompagne les personnes vivant des difficultés d'adaptation ou étant susceptibles d'en présenter.  Il agit également en rôle-conseil auprès des autres intervenants scolaires et des parents.  Venez en apprendre plus sur cette merveilleuse profession !",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=698",
     "holland_codes": [
       "S",
@@ -719,7 +719,7 @@
     "domain": "Ressources humaines",
     "formation": "Baccalauréat",
     "description": "L'essence de notre rôle est de faire évoluer la culture, les structures et, surtout, les individus grâce à un service à multiples facettes. En tant que professionnels des RH, nous avons toujours trois têtes : les gestionnaires de talents, les consultants et les facilitateurs du changement. Notre quotidien est diversifié et maintient chaque jour un bon équilibre entre les éléments stratégiques, le soutien opérationnel et l'exécution et la mise en œuvre des initiatives.",
-    "period": "11h00 à 11h45, 12h00 à 12h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=9",
     "holland_codes": [
       "E",
@@ -733,7 +733,7 @@
     "domain": "Santé",
     "formation": "Maîtrise ou DESS",
     "description": "L’ergothérapeute est un professionnel de la santé qui peut travailler autant en santé physique qu’en santé mentale, avec une clientèle de tous âges (allant du nouveau-né à la personne âgée). Ce professionnel est un spécialiste de l’activité (soins personnels, domestique, de loisir, de travail, etc.). Il fait les liens entre les différentes sphères de la personne et propose un plan d’intervention qui permet à la personne d’actualiser son potentiel.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=606",
     "holland_codes": [
       "S",
@@ -747,7 +747,7 @@
     "domain": "Sciences",
     "formation": "Baccalauréat",
     "description": "Je fais un stage de recherche à temps partiel au MILA dans le groupe de Yoshua Bengio. Au sein de l'équipe Bengio, mes collègues et moi étudions différents algorithmes d'intelligence artificielle afin d'améliorer leurs performances et de les mettre à profits pour rendre le monde meilleur. La conférence vous donnera un avant-goût de plusieurs sujets de recherche en vogue en intelligence artificielle et vous initiera au monde de la recherche en général.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=191211",
     "holland_codes": [
       "I",
@@ -761,7 +761,7 @@
     "domain": "Vente",
     "formation": "Baccalauréat",
     "description": "Fonctions principales ; Vente au détail (alimentation), négociation, stratégies promotionnelles, distribution, prévision des ventes. Mon travail consiste à m’assurer d’optimiser les ventes d’un producteur manufacturier à travers une chaîne d’épicerie de la façon la plus efficace et rentable possible pour chacun des joueurs impliqués.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=35&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=35&NoPage=1&NoResultat=18&Provenance=10&Niveau=4&IdFiltre=0&IdDon=61",
     "holland_codes": [
       "E",
@@ -775,7 +775,7 @@
     "domain": "Administration",
     "formation": "Baccalauréat",
     "description": "Je souhaite surtout leur parler du travail dans les organismes communautaires, des différentes possibilités, de ce que ça amène,  des tremplins, des causes et missions. Pour ma part, je gère l'organisme, les finances, les ressources humaines, les communications, les projets et financement et je travaille avec les bénévoles et le conseil d'administration.  ",
-    "period": "14h30 à 15h20, 15h30 à 16h30",
+    "period": "14h30 à 15h20",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=35&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=35&NoPage=1&NoResultat=18&Provenance=10&Niveau=4&IdFiltre=0&IdDon=61",
     "holland_codes": [
       "E",
@@ -789,7 +789,7 @@
     "domain": "Administration",
     "formation": "Maîtrise ou DESS",
     "description": "Associée et propriétaire d’un petit cabinet, j’ai débuté ma carrière dans un des plus grand cabinet comptable mondial. Le titre de CPA ouvre des portes sur une multitude de carrières possibles, chose souvent méconnue de la majorité des gens. Je serai accompagnée par mon fils, ancien élève du collège, étudiant au hec en comptabilité et stagiaire l’été dernier dans un grand cabinet. ",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=88939",
     "holland_codes": [
       "C",
@@ -803,7 +803,7 @@
     "domain": "Armée",
     "formation": "Baccalauréat",
     "description": "Je suis responsable des communications au sein des Forces armées canadiennes. Je dois préparer les portes-paroles afin qu’ils donnent de bonnes entrevues aux médias. Je dois également trouver des moyens de faire comprendre notre quotidien à la population en utilisant la majorité des plateformes offertes.",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=38&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=38&NoPage=1&NoResultat=18&Provenance=10&Niveau=4&IdFiltre=0&IdDon=2018",
     "holland_codes": [
       "E",
@@ -817,7 +817,7 @@
     "domain": "Arts",
     "formation": "Aucune formation spécifique requise",
     "description": "Le/la styliste fournit des conseils vestimentaires et de direction artistique ; choisit et coordonne les tenues des mannequins pour les séances photo d’éditoriaux de magazines et/ou de publicités et/ou des artistes ; et supervise le vêtement lors de son utilisation. ",
-    "period": "12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "12h00 à 12h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=922",
     "holland_codes": [
       "A",
@@ -831,7 +831,7 @@
     "domain": "Arts",
     "formation": "Aucune formation spécifique requise",
     "description": "Le rôle de l'assistant à la caméra consiste à aider les directeurs de la photographie, les cadreurs et les caméramans avec l'équipement caméra sur un plateau de tournage (objectifs, trépied, batteries, cartes mémoires, éclairage, etc.). Que ce soit en cinéma, en télévision, en documentaire ou en direct, son rôle est essentiel au bon fonctionnement d'un plateau de tournage. Il fait partie d'une grande équipe de techniciens sans qui un film ou une émission ne serait pas possible (réalisateur, assistant à la réalisation, directeur de la photographie, preneur de son, accessoiriste, régisseur, éclairagiste, monteur, etc). C'est un métier parfait pour les gens qui adorent la technologie et les arts. C'est aussi un métier rempli de défis, non-routinier et qui nous permet de participer activement à la culture de notre société.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=2172",
     "holland_codes": [
       "A",
@@ -845,7 +845,7 @@
     "domain": "Avocat",
     "formation": "Baccalauréat et une année à l'École du Barreau du Québec",
     "description": "Je représente des clients dans le cadre de leur séparation, pour la garde de leurs enfants, le partage des biens. Je rencontre des clients, négocie ou les représente devant la Cour.",
-    "period": "14h30 à 15h20, 15h30 à 16h30",
+    "period": "14h30 à 15h20",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
     "holland_codes": [
       "E",
@@ -873,7 +873,7 @@
     "domain": "Avocat",
     "formation": "Baccalauréat",
     "description": "Le procureur de la couronne est un avocat qui pratique exclusivement en droit criminel.  Le procureur s'occupe d'autoriser le dépôt d'accusations en matière criminelle, s'occupe des procès, allant du vol au meurtre (incluant les procès devant jury), et plaide la sentence des individus accusés de crimes. C'est au procureur que revient la charge de démontrer hors de tout doute raisonnable la culpabilité d'un individu. Il travaille à la cour du Palais de justice et accompagne les victimes dans le cadre du processus judiciaire.  ",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
     "holland_codes": [
       "E",
@@ -887,7 +887,7 @@
     "domain": "Dentiste",
     "formation": "Doctorat",
     "description": "Je fais de la chirurgie dentaire, je reconstruis les dents brisées, je fais des greffes de gencives, je fais de l’orthodontie qui replace les dents croches et fais de beaux sourires",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=587",
     "holland_codes": [
       "I",
@@ -943,7 +943,7 @@
     "domain": "Informatique",
     "formation": "Baccalauréat",
     "description": "Le design de jeu est un domaine qui en couvre large au centre duquel trône l'expérience de jeu. Le design de jeu peut englober l'élaboration des règles du jeu, la création de niveaux, le fonctionnement des menus de jeu, la création de quête et missions et bien plus encore. Dans le cadre de leur travail, les concepteurs font équipe avec des programmeurs et des artistes.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -957,7 +957,7 @@
     "domain": "Ingénieur",
     "formation": "Baccalauréat",
     "description": "J'ai fais ma formation au cégep en science humaine administration, mon bac en génie mécanique à l'ETS. Je suis présentement chargé projet pour des systèmes de traitement d'eau et de récupération d'eau de pluie pour tout projet en Amérique du Nord. Mon travail m'amène à me promener un peu partout au Québec et une partie des États-Unis. Étant un grand indécis durant mon parcours académique, je crois être une bonne voix, afin de bien éclairer les élèves sur le monde du génie et pas seulement génie mécanique.\r\n\r\nMes tâches au quotidien sont très pluridisciplinaire. En résumé je dirais que je suis le point central de communication afin que projet se passe bien du début à la fin.\r\n\r\nUne de mes grandes satisfactions dans mon travail est que je travaille afin de préserver l'environnement et participer à la lutte contre les changement climatique.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -971,7 +971,7 @@
     "domain": "Médecin",
     "formation": "Doctorat",
     "description": "En tant que médecin de famille, j'ai plusieurs rôles variés. Je travaille dans une clinique où je soigne des patients de 0 à 100 ans, je travaille à l'hôpital et je fais aussi de l'enseignement aux étudiants en première année de médecine. C'est à la fois un travail qui demande d'aimer la science, d'aimer apprendre tous les jours, de travailler en équipe et surtout, d'aimer la relation d'aide avec les humains. ",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -985,7 +985,7 @@
     "domain": "Nutritionniste",
     "formation": "Baccalauréat",
     "description": "Je suis nutritionniste en milieu hospitalier et consultation privée. Je travaille avec différentes populations pour les aider à améliorer leur santé et atteindre leurs objectifs au niveau nutritionnel!",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -999,7 +999,7 @@
     "domain": "Pharmacie",
     "formation": "Doctorat",
     "description": "Être pharmacien c’est faire partie intégrante de l’équipe qui s’occupe de la santé des patients notamment en analysant le dossier pharmacologique (bon médicament pour la bonne personne pour la bonne indication à la bonne dose) tout en gérant les interactions et en remettant le conseil approprié. Le pharmacien prescrit aussi des médicaments pour certains problèmes de santé, vaccine, et Collabore avec les autres professionnels de la santé. En tant que chef, on ajoute toutes les tâches de gestion d’un laboratoire (horaire, évaluation….) en s’assurant de la qualité du circuit du médicament  ",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1013,7 +1013,7 @@
     "domain": "Police",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "Je suis policier à la ville de Terrebonne. Cet emploie permet de bouger énormément, d’aider les autres et d’avoir des journées qui sont toujours différentes. Le travail d’équipe est primordial et les avancements de carrière sont infinis. Cet emploie s’adresse à ceux qui veulent faire une différence en intervention avec les nombreux problèmes de santé mentale et qui aiment parler avec les gens.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1027,7 +1027,7 @@
     "domain": "Relation d'aide",
     "formation": "Maîtrise ou DESS",
     "description": "La psychoéducation est une discipline propre au Québec qui vise l'adaptation ou la réadaptation d'un individu dans son environement psychosocial.\r\n\r\n",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1041,7 +1041,7 @@
     "domain": "Ressources humaines",
     "formation": "Baccalauréat",
     "description": "Nous voulons venir en tandem Marion Chartier-Lefrançois (diplômée 2010) et moi, nous travaillons pour la même firme. Nous pourrions exposer deux jalons de carrière, un plus junior et un plus expérimenté. Nous aidons les entreprises à résoudre leurs enjeux liés à la main-d’oeuvre, par le design d’outils et de processus pour attirer et fidéliser les employés. Par exemple, cela peut être par des structures de rémunération, des programme de gestion de la relève, la rémunération à base d’actions, la communication de ces programmes aux employés, etc etc. J'ai oeuvré plus de 20 ans en entreprise avant de passer à la consultation, je peux parler de ces deux univers aussi. Au plaisir !",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1055,7 +1055,7 @@
     "domain": "Santé",
     "formation": "Maîtrise ou DESS",
     "description": "L’ergothérapeute en pédiatrie aide à promouvoir le bon développement des enfants et vient en aide aux enfants qui vivent des défis dans leur fonctionnement quotidien.  En réadaptant les habiletés déficitaires, en adaptant les tâches ou l’environnement, notre but est de rendre les enfants les plus autonomes dans leur quotidien. \r\nA titre de propriétaire-associée de mon entreprise/clinique je dois également gérer toute la partie administrative d’une compagnie. ",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1069,7 +1069,7 @@
     "domain": "Santé",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "Le technologue en électrophysiologie médicale travaille majoritairement dans les centres hospitaliers en cardiologie et en neurologie. Les tâches principales consistent à faire passer des examens qui enregistrent l’activité électrique du corps à l’aide d’électrodes (électrocardiogrammes, tapis roulants, électroencéphalogrammes…). Il agit donc auprès des patients et travaille en étroite collaboration avec les cardiologues et neurologues. ",
-    "period": "14h30 à 15h20, 15h30 à 16h30",
+    "period": "14h30 à 15h20",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1083,7 +1083,7 @@
     "domain": "Sciences",
     "formation": "Doctorat",
     "description": "Mon métier c'est la recherche scientifique. Mon domaine c'est la Recherche Opérationnelle, une sous discipline de l'intelligence artificielle se trouvant à l'intersection entre les mathématiques et de l'informatique. En deux mots, ma recherche consiste à modéliser, à l'aide d'outils mathématiques, des problèmes d'optimisation industrielle (p. ex., la conception d'un réseau logistique, la planification de la maintenance d'un parc de machines) et à concevoir des algorithmes pour résoudre ces modèles. J'exerce mon métier de chercheur dans deux structures: HEC Montréal et IVADO LABS (IL). À l'université, ma mission consiste à faire de la recherche fondamentale et à former de futurs chercheurs (c.-à-d., des doctorants et des postdoctorants). Chez IL nous nous avons une mission complètement différente: sortir des labos universitaires les technologies de pointe de l’IA afin de les mettre à l’œuvre dans le monde réel.",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20",
+    "period": "10h40 à 11h40",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1097,7 +1097,7 @@
     "domain": "Vente",
     "formation": "Maîtrise ou DESS",
     "description": "Responsable des stratégies de marketing, ventes, inventaires, de la relation avec les fournisseurs ainsi que de l’analyse de données relativement aux lignes de produits offertes par un distributeur/ grossiste. Ce type de poste est présent dans toutes les industries (mode, cosmétiques, alimentations, produits pharmaceutiques, produits et pièces pour automobiles, matériaux de construction, etc.)",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1111,7 +1111,7 @@
     "domain": "Administration",
     "formation": "Maîtrise ou DESS",
     "description": "Aider les entrepreneurs à comprendre et à améliorer leurs résultats et le développement de centre commercial.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1125,7 +1125,7 @@
     "domain": "Arts",
     "formation": "Baccalauréat",
     "description": "Les salles de spectacle du Québec, animées par des équipes polyvalentes, dynamiques et passionnées, font face à des défis contemporains tout aussi stimulants que variés. Découvrez le quotidien du coordonnateur aux arts de la scène de L'Anglicane à Lévis, qui veille à ce que la programmation, les communications, le développement de public, les opérations, la billetterie, l'accueil du public et des artistes, les ressources humaines ainsi que 1001 autres aspects se déroulent rondement et évoluent au fil du temps.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1139,7 +1139,7 @@
     "domain": "Arts",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "Rencontre avec des clients, choix de matériaux pour leurs projets, faire les plans, présenter le projet en 3D, faire la soumission ",
-    "period": "12h00 à 12h45, 15h00 à 15h45",
+    "period": "12h00 à 12h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1153,7 +1153,7 @@
     "domain": "Avocat",
     "formation": "Baccalauréat",
     "description": "Je représente des citoyens qui font l'objet d'accusations criminelles devant les tribunaux. Le rôle d'un avocat de la défense est d'utiliser tous les moyens légaux disponibles afin de faire acquitter son client des infractions criminelles qui pèsent contre lui, ou de négocier une sentence sur plaidoyer de culpabilité. J'accomplis cette tâche en faisant une analyse des dossiers d'enquêtes criminelles et dénichant les moindres erreurs de fond ou de forme qui pourraient bénéficier à mon client et présente le tout à un juge lors d'un procès. Le champ de spécialité de notre étude se concentre sur les dossiers de meurtre, les enquête impliquant le crime organisé, ainsi que les dossiers de fraude.  ",
-    "period": "14h30 à 15h20, 15h30 à 16h30",
+    "period": "14h30 à 15h20",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1167,7 +1167,7 @@
     "domain": "Avocat",
     "formation": "Barreau",
     "description": "Communément appelés procureurs de la Couronne, nous veillons au maintien d une société juste et sure en intentant au nom de l Etat des poursuites criminelles contre les suspects d infractions criminelles, contre lesquels nous estimons etre en mesure de faire une preuve hors de tout doute raisonnable de leur culpabilité. Apres avoir oeuvré une quinzaine d années dans les salles de cour, je m occupe maintenant exclusivement des infractions a caractère sexuel, en coordonnant le traitement des dossiers, tant em concertation avec des ministères et organismes partenaires, qu a l interne, au Directeur des poursuites criminelles et pénales. Je m assure tout particulièrement de défendre l intérêt légitime des victimes dabs le casre du traitement des dossiers de nature sexuelle. ",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1209,7 +1209,7 @@
     "domain": "Entrepreneur",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "Directeur d'une compagnie en amélioration énergétique et résidentielle à Québec. Domaine des ventes, entreprenariat et service client. ",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1223,7 +1223,7 @@
     "domain": "Infirmière",
     "formation": "Maîtrise ou DESS",
     "description": "Je suis infirmière de famille. Je fais des suivis de patients de 0 à 100 ans. J’ai une spécialité en santé des femmes et avec la clientèle immigrante/réfugiée. ",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1237,7 +1237,7 @@
     "domain": "Ingénieur",
     "formation": "Baccalauréat",
     "description": "Gestion et approbation des changements sur le système de carburant du A220 (avion commercial). Travail avec dessins assistés par ordinateur et multiples outils de gestion de données. Principalement un travail de bureau avec des collaborateurs de partout dans le monde.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1251,7 +1251,7 @@
     "domain": "Ingénieur",
     "formation": "Baccalauréat",
     "description": "Vous rêvez de travailler à l'étranger? Après un peu moins de 2 ans sur le marché du travail, j'ai sauté sur l'opportunité de me relocaliser en Allemagne au sein de CAE. Je suis maintenamt responsable de tout l'aspect technique (coordination, développement, déploiement, acceptance avec le client) des simulateurs de vol de l'armée allemande. C'est avec grand plaisir que je vous partegrai mon cheminement entre le CSS, Trois-Rivières, Ottawa, Montreal et enfin Aix-la-Chapelle. Si l'expérience d'expat vous intéresse, c'est par ici!",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1265,7 +1265,7 @@
     "domain": "Médecin",
     "formation": "Doctorat",
     "description": "Je suis médecin résidente en urologie, une des nombreuses spécialités chirurgicales. Plus précisément, l'urologie est la spécialité médico-chirurgicale spécifique aux reins, aux voies urinaires des femmes ou des hommes, ainsi qu'au système reproducteur masculin.\r\n\r\nDurant la conférence, je vous parlerai de ma spécialité, mais surtout du parcours scolaire nécessaire pour devenir chirurgien(ne), des différentes options de carrières en spécialités chirurgicales et des considérations à avoir avant de choisir cette voie de carrière.\r\n\r\nComme je suis une jeune résidente, j'espère pouvoir vous transmettre des informations plus réalistes et à jour sur ce parcours (J'étais à votre place il n'y a pas si longtemps!)",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1279,7 +1279,7 @@
     "domain": "Pharmacie",
     "formation": "Baccalauréat",
     "description": "Mon travail consiste à rencontrer des médecins et des pharmaciens pour faire la promotion des produits de la compagnie pour laquelle je travaille (GSK). Je dois donc vendre les médicaments, informer les intervenants en santé, en faire des clients et les garder.",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1293,7 +1293,7 @@
     "domain": "Pharmacie",
     "formation": "Doctorat professionnel en pharmacie + Maîtrise en pharmacothérapie avancée",
     "description": "Le pharmacien, c’est l’expert du médicament. Il joue un rôle central dans notre système de santé, car c’est à lui que revient la responsabilité de vérifier le bon usage des médicaments auprès de la population.\r\n\r\nPour devenir pharmacien, une formation universitaire d’au moins quatre ans est nécessaire. Une fois docteurs en pharmacie, tous les diplômés doivent adhérer à l’Ordre des pharmaciens du Québec et respecter le Code de déontologie des pharmaciens ainsi que les lois et règlements se rapportant à la pratique de la pharmacie. Par la suite, pour une pratique en milieu hospitalier, une maîtrise de un an et demi est nécessaire afin de se spécialiser.\r\n\r\nQue fait le pharmacien?\r\nLe pharmacien travaille en collaboration avec les médecins, les infirmières, son équipe technique ainsi que les autres professionnels de la santé.\r\n\r\nIl vérifie que vos médicaments sont sécuritaires pour vous, mais surtout, que ceux-ci répondent aux objectifs thérapeutiques. Le pharmacien se pose plusieurs questions, notamment :\r\n\r\nAvez-vous besoin d’une thérapie médicamenteuse que vous ne recevez pas?\r\nPrenez-vous un médicament dont vous n’avez plus besoin?\r\nPrenez-vous un médicament qui n’est pas approprié à votre condition?\r\nPrenez-vous un médicament à une dose trop élevée ou trop faible?\r\nEtc.\r\nVotre pharmacien peut aussi :\r\n\r\nVous prescrire des médicaments pour des problèmes de santé simples, comme les allergies saisonnières ou l’eczéma, ou à des fins préventives comme la cessation tabagique.\r\nAjuster l’ordonnance du médecin pour s’assurer que le dosage est adéquat, par exemple.\r\nDemander des analyses de laboratoire pour surveiller l’efficacité et la sécurité des médicaments.\r\nProcéder à la vaccination.\r\nBien entendu, tout cela se fait dans une relation de confiance avec le patient.\r\n\r\nDifférents milieux de pratique\r\nLe pharmacien peut choisir de travailler dans une multitude de milieux, en plus de la pharmacie de quartier, établissements de santé, groupes de médecine de famille (GMF) et autres (organismes gouvernementaux, compagnies pharmaceutiques, armée, etc.).\r\n\r\nDescription tirée du site web : Ordre des pharmaciens du Québec\r\nhttps://www.opq.org/protection-du-public/votre-pharmacien-et-vous/role-du-pharmacien/",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1307,7 +1307,7 @@
     "domain": "Police",
     "formation": "Diplôme d'études collégiales (DEC)",
     "description": "L’enquêteur entreprend toutes les démarches nécessaires pour élucider un crime.  Il prend en charge la scène de crime et s'assure de collecter toutes les informations possibles sur les lieux en faisant appel aux témoins, aux patrouilleurs et au service d'identification judiciaire.\r\n\r\nSelon le type de crime, l’enquêteur :\r\n- Participe à l’élaboration de la stratégie d’enquête\r\n- Recueille les informations pertinentes qui lui permettent de bâtir la preuve\r\n- Procède aux interrogatoires \r\n- Fait des recherches et dirige le dossier lors des différentes étapes judiciaires\r\n- Encadre et informe les victimes, témoins et autres intervenants concernés tout au long des procédures et prend soin de sécuriser les victimes\r\n- Tente d’anticiper toute activité criminelle pouvant perturber la sécurité publique.  Il fait équipe avec le personnel des autres unités du Service (postes de quartier, services à la communauté, etc.)\r\n- Témoigne lors des procès pour des dossiers qu'il a travaillés",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1321,7 +1321,7 @@
     "domain": "Relation d'aide",
     "formation": "Doctorat",
     "description": "Accompagnement de plus de 30 médaillés olympiques et participation à plus de 4 jeux olympiques dans un rôle de psychologue sportif. J'aide, j'écoute, j'enseigne, je pose des questions. Mes sujets : le stress, l'anxiété de performance, la confiance, la motivation, etc.",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1335,7 +1335,7 @@
     "domain": "Relation d'aide",
     "formation": "Maîtrise ou DESS",
     "description": "La psychoéducation est un métier d'intervention psychosociale. Le psychoéducateur ou la psychoéducatrice intervient auprès de clientèles de tous âges présentant des problématiques diverses (santé mentale, déficience intellectuelle, trouble du spectre de l'autisme, troubles du comportement, etc.) afin de favoriser leur adaptation au sein de leur environnement. Après sa maîtrise, il ou elle fait partie de l'OPPQ (Ordre professionnel des psychoéducateurs et psychoéducatrices du Québec.",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1349,7 +1349,7 @@
     "domain": "Santé",
     "formation": "Doctorat",
     "description": "Chiropraticienne du sport\r\nJe suis une professionnelle de la santé qui agit aux premiers plans lors d’une douleur ou d’un inconfort. Je travaille avec une clientèle variée avec un expertise pour le monde du sport. Du hockeyeur professionnel à l’athlète de tennis junior en passant par des compétitions de gymnastique régionales, on peut traiter de tout avec la chiropratique !",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1363,7 +1363,7 @@
     "domain": "Sciences",
     "formation": "Soit DEC ou Baccalauréat (2 chemins possibles)",
     "description": "Travailler en recherche et développement de produits alimentaires c'est comprendre comment sont fabriqués les aliments que nous consommons: Crème glacée, chocolats, croustilles, boissons etc... C'est aussi participer à développer de nouveaux produits en collaboration avec les équipes marketing, faire des tests sensoriels, physico-chimiques ou organoleptiques. ",
-    "period": "10h40 à 11h40, 11h55 à 12h55, 14h30 à 15h20, 15h30 à 16h30",
+    "period": "10h40 à 11h40",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1377,7 +1377,7 @@
     "domain": "Sciences",
     "formation": "Baccalauréat",
     "description": "Mon rôle est de faire découvrir à nos clients ou clients potentiels, notre gamme d'instruments de haute technologie.\r\nJe dois bien sonder leur besoins de mesures exactes, pour leurs laboratoires d'analyses (ou usines de transformation).\r\n\r\nJe pourrai aborder mon labyrinthe de carrière en décrivant brievement mes rôles précédents: chercheur scientifique,  chimiste R&D, et représentant de service en spectrométrie de masse.\r\n\r\nTout ceci grâce à ma curiosité et... au hockey!",
-    "period": "11h00 à 11h45, 12h00 à 12h45, 14h00 à 14h45, 15h00 à 15h45",
+    "period": "11h00 à 11h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1391,7 +1391,7 @@
     "domain": "Sciences",
     "formation": "Baccalauréat, en vue d'accéder aux études supérieurs",
     "description": "Je suis présentement en 3e année du Baccalauréat en Microbiologie et Immunologie de la faculté de médecine de l’Université de Montréal. Je suis également stagiaire en recherche au Centre de Recherche du CHUM, dans le laboratoire de Dre. Bourgeois-Daigneault, où nous étudions l’utilisation des virus (oncolytiques) comme traitement immunothérapeutique contre le cancer. Je me spécialise en plusieurs techniques qui portent sur le traitement du cancer du sein et des effets des hormones lors de ces traitements. J’ai aussi une expertise en microscopie à immunofluorescence, ce qui apporte un côté artistique à mon travail scientifique, ce qui je pense pourrait intéresser plusieurs jeunes. Je fais également partie du comité institutionnel des bonnes pratiques animales en recherche du centre de recherche de l’hôpital Sainte-Justine. \r\nJe souhaite venir parler aux jeunes de l’importance de persévérer lorsqu’on a une passion même si on a des embûches, car j’ai eu beaucoup de difficultés en mathématiques et en physique tout au long de mon parcours. Je veux aussi leur transmettre un peu ma passion pour la recherche. Finalement, je veux leur communiquer l’importance de ne pas craindre d’aller chercher ce qu’on veut, puisque j’ai obtenu mon poste au sein de mon labo ainsi que mon poste au sein du comité éthique à la fin de ma première année de BAC, alors que plusieurs pensaient cela impossible. J’espère vraiment avoir la chance de prendre part à cette super journée, que j’ai beaucoup apprécié lors de mes années au CSS! ",
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": null,
     "holland_codes": [
       null,
@@ -1405,7 +1405,7 @@
     "domain": "Médecin",
     "formation": null,
     "description": null,
-    "period": "14h00 à 14h45, 15h00 à 15h45",
+    "period": "14h00 à 14h45",
     "link_reperes": null,
     "holland_codes": [
       null,
