@@ -17,6 +17,10 @@ export default class Participant {
         this.star = !this.star;
     }
 
+    hourPeriod() {
+        return this.period.split('00')[0]
+    }
+
     static fromJson() {
         return participants.map((participant) => new Participant(participant));
     }

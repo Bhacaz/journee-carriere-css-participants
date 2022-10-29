@@ -4,7 +4,7 @@
     :style="{
       background:
         'linear-gradient(165deg, rgba(255,255,255,1) 86%,' +
-        periodToColorTag(participant.period) +
+        periodToColorTag(participant.hourPeriod()) +
         '33 100%)',
     }"
   >
@@ -67,7 +67,7 @@
         <p>
           <span
             class="tag is-info period-tag"
-            :style="{ backgroundColor: periodToColorTag(participant.period) }"
+            :style="{ backgroundColor: periodToColorTag(participant.hourPeriod()) }"
           >
             <WordHighlighter
               highlightClass="highlighted-text"
@@ -164,10 +164,10 @@ export default {
     },
     periodToColorTag(period) {
       return {
-        P2: "#1976d2",
-        P3: "#ba2d65",
-        P5: "#087f23",
-        P6: "#ab47bc",
+        "11h": "#1976d2",
+        "12h": "#ba2d65",
+        "14h": "#087f23",
+        "15h": "#ab47bc",
       }[period];
     },
     cropDescription() {
