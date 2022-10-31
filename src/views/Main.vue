@@ -5,7 +5,7 @@
         <p class="title">Journée Carrière - Collège Saint-Sacrement</p>
         <p class="subtitle">
           Aide aux choix : Description des professionnel(le)s participants à la
-          journée carrière. <br />16 novembre 2021
+          journée carrière. <br />22 novembre 2022
         </p>
         <strong>Formulaire d'inscription:  </strong>
         <a href="">Google Forms</a><br />
@@ -28,36 +28,36 @@
             <div id="filters-container">
               <div id="buttons-periods-container" class="buttons has-addons">
                 <button
-                  id="p2"
+                  id="h11"
                   class="button is-success is-rounded"
-                  :class="{ 'is-inverted': selectedPeriod !== 'P2' }"
-                  @click="radioSelectPeriod('P2')"
+                  :class="{ 'is-inverted': selectedPeriod !== '11h' }"
+                  @click="radioSelectPeriod('11h')"
                 >
-                  P2
+                  11h
                 </button>
                 <button
-                  id="p3"
+                  id="h12"
                   class="button is-success is-rounded"
-                  :class="{ 'is-inverted': selectedPeriod !== 'P3' }"
-                  @click="radioSelectPeriod('P3')"
+                  :class="{ 'is-inverted': selectedPeriod !== '12h' }"
+                  @click="radioSelectPeriod('12h')"
                 >
-                  P3
+                  12h
                 </button>
                 <button
-                  id="p5"
+                  id="h14"
                   class="button is-success is-rounded"
-                  :class="{ 'is-inverted': selectedPeriod !== 'P5' }"
-                  @click="radioSelectPeriod('P5')"
+                  :class="{ 'is-inverted': selectedPeriod !== '14h' }"
+                  @click="radioSelectPeriod('14h')"
                 >
-                  P5
+                  14h
                 </button>
                 <button
-                  id="p6"
+                  id="h15"
                   class="button is-success is-rounded"
-                  :class="{ 'is-inverted': selectedPeriod !== 'P6' }"
-                  @click="radioSelectPeriod('P6')"
+                  :class="{ 'is-inverted': selectedPeriod !== '15h' }"
+                  @click="radioSelectPeriod('15h')"
                 >
-                  P6
+                  15h
                 </button>
               </div>
 
@@ -179,7 +179,7 @@ export default {
         this.selectedPeriod = periodValue;
         this.list = this.participantFromDomainsFilter().filter(
           (participant) => {
-            return participant.period === this.selectedPeriod;
+            return participant.hourPeriod() === this.selectedPeriod;
           }
         );
       }
@@ -217,41 +217,35 @@ export default {
     }
   },
   created() {
-    fetch("./data/participants.json")
-      .then((res) => res.json())
-      .then((data) => {
-        this.participants = data.map((d) => {
-          return new Participant(d);
-        });
-        this.list.push(...this.participants);
-        const listOfDomaines = {};
-        this.participants.forEach((participant) => {
-          participant.domain.forEach((domain) => {
-            if (listOfDomaines[domain]) {
-              listOfDomaines[domain] += 1;
-            } else {
-              listOfDomaines[domain] = 1;
-            }
-          });
-        });
-        Object.entries(listOfDomaines).forEach((entry) => {
-          const [domain, count] = entry;
-          this.domains.push({
-            name: domain + " (" + count + ")",
-            domain: domain,
-          });
-        });
-        this.buildIndex();
-        this.participantStars = this.participants.filter(
-          (participant) => {
-             if (getFavorites().includes(participant.name)) {
-               participant.star = true;
-               return participant;
-             }
+    this.participants = Participant.fromJson();
+
+    this.list.push(...this.participants);
+    const listOfDomaines = {};
+    this.participants.forEach((participant) => {
+      participant.domain.forEach((domain) => {
+        if (listOfDomaines[domain]) {
+          listOfDomaines[domain] += 1;
+        } else {
+          listOfDomaines[domain] = 1;
+        }
+      });
+    });
+    Object.entries(listOfDomaines).forEach((entry) => {
+      const [domain, count] = entry;
+      this.domains.push({
+        name: domain + " (" + count + ")",
+        domain: domain,
+      });
+    });
+    this.buildIndex();
+    this.participantStars = this.participants.filter(
+        (participant) => {
+          if (getFavorites().includes(participant.name)) {
+            participant.star = true;
+            return participant;
           }
-        );
-      })
-      .catch((err) => console.log(err));
+        }
+    );
   },
   mounted() {
     this.$watch("search", () => {
@@ -322,42 +316,42 @@ export default {
   flex-wrap: nowrap;
 }
 
-#p2 {
+#h11 {
   color: white;
   background-color: #1976d2;
 }
 
-#p2.is-inverted {
+#h11.is-inverted {
   color: #1976d2;
   background-color: white;
 }
 
-#p3 {
+#h12 {
   color: white;
   background-color: #ba2d65;
 }
 
-#p3.is-inverted {
+#h12.is-inverted {
   color: #ba2d65;
   background-color: white;
 }
 
-#p5 {
+#h14 {
   color: white;
   background-color: #087f23;
 }
 
-#p5.is-inverted {
+#h14.is-inverted {
   color: #087f23;
   background-color: white;
 }
 
-#p6 {
+#h15 {
   color: white;
   background-color: #ab47bc;
 }
 
-#p6.is-inverted {
+#h15.is-inverted {
   color: #ab47bc;
   background-color: white;
 }
