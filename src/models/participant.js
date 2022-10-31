@@ -15,6 +15,10 @@ export default class Participant {
 
     toggleStar() {
         this.star = !this.star;
+        if (this.star && typeof umami !== "undefined") {
+            // eslint-disable-next-line no-undef
+            umami.trackEvent(this.name, "participant-starred");
+        }
     }
 
     hourPeriod() {
