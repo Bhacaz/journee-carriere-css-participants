@@ -184,7 +184,7 @@ export default {
       // track event only if modal was closed.
       if (!this.showModal && typeof umami !== "undefined") {
         // eslint-disable-next-line no-undef
-        umami.trackEvent(this.participant.name, "participant-click");
+        umami.trackEvent("participant-click - " + this.participant.name, { type: "participant-click" } );
       }
       this.showModal = !this.showModal;
     },

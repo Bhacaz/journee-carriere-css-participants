@@ -17,7 +17,7 @@ export default class Participant {
         this.star = !this.star;
         if (this.star && typeof umami !== "undefined") {
             // eslint-disable-next-line no-undef
-            umami.trackEvent(this.name, "participant-starred");
+            umami.trackEvent("participant-starred - " + this.name, { type:  "participant-starred" });
         }
     }
 
