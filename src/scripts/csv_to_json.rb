@@ -11,7 +11,7 @@ CSV.open('./data/data.csv', 'r', headers: true) do |csv|
       domain: row['Métier'] || '',
       formation: row["Le niveau d'études pour occuper cet emploi habituellement."],
       description: row[ "Afin d'aider les élèves à comprendre et à s'intéresser à votre emploi, décrivez-nous brièvement ce que vous faites. Ce texte servira aux élèves lorsqu'ils devront choisir leurs conférences."],
-      period: row["À quel(s) moment(s) seriez-vous disponible pour animer votre atelier/conférence le 22 novembre ? (atelier de 45 minutes) *Vous pouvez cocher plusieurs cases"].split(',').first,
+      period: row["HEURE"].split(',').first,
       link_reperes: row["Lien repères"],
       holland_codes: [row["CODE HOLLAND 1"], row["CODE HOLLAND 2"], row["CODE HOLLAND 3"]],
     }
