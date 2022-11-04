@@ -532,20 +532,6 @@
     ]
   },
   {
-    "name": "William Robitaille",
-    "title": "Designer de Jeux Vidéo (Game Designer)",
-    "domain": "Informatique et multimédia",
-    "formation": "Aucune formation spécifique requise",
-    "description": "Concevoir les éléments de « gameplay » et de guidance au sein du jeu vidéo. Le travail d’un designer de jeu, c’est surtout de se mettre à la place du joueur pour créer la meilleure expérience de jeu possible.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=207697",
-    "holland_codes": [
-      "E",
-      "S",
-      "I"
-    ]
-  },
-  {
     "name": "Ariane Carrière-Roberge",
     "title": "Ingénieure en Aéronautique, Spécialiste en Sécurité des Occupants",
     "domain": "Génie et sciences pures",
@@ -1103,20 +1089,6 @@
       "A",
       "E",
       "R"
-    ]
-  },
-  {
-    "name": "Laurie Chouinard ",
-    "title": "Designer cuisiniste ",
-    "domain": "Arts",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "Rencontre avec des clients, choix de matériaux pour leurs projets, faire les plans, présenter le projet en 3D, faire la soumission ",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=97352",
-    "holland_codes": [
-      "A",
-      "I",
-      "S"
     ]
   },
   {
