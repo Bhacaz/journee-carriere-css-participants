@@ -8,7 +8,7 @@
           journée carrière. <br />22 novembre 2022
         </p>
         <strong>Formulaire d'inscription:  </strong>
-        <a href="">Google Forms</a><br />
+        <a href="https://forms.gle/yMcLrsiHUZhUhQj7A">Google Forms</a><br />
 
         <section class="section" id="search-section">
           <div class="field container">
