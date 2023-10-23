@@ -1,516 +1,12 @@
 [
   {
-    "name": "Yves Gingras",
-    "title": "Directeur de programmes et projets TIC",
-    "domain": "Administration",
+    "name": "Anthoni Vézina",
+    "title": "Biologiste",
+    "domain": "TBD",
     "formation": "Baccalauréat",
-    "description": "Ce gestionnaire est responsable de la livraison de projets en technologies de l'information et télécommunications et agit davantage comme un chef d'orchestre que comme un expert technique. Il/elle communique avec les clients et guide son équipe afin d'atteindre les objectifs des projets selon le calendrier et le budget prévus.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=12&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=12&NoPage=1&NoResultat=7&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1839",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Jean Marchand",
-    "title": "Gestionnaire de portefeuille / Conseiller en placement ",
-    "domain": "Administration",
-    "formation": "Baccalauréat",
-    "description": "Nous aidons les familles fortunées dans la gestion de leurs investissements et de leurs patrimoine.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=97",
-    "holland_codes": [
-      "E",
-      "C",
-      "S"
-    ]
-  },
-  {
-    "name": "Gabriel Brassard",
-    "title": "Consultant en stratégie d'entreprise",
-    "domain": "Administration",
-    "formation": "Baccalauréat",
-    "description": "Je travaille avec des gestionnaires de grandes entreprises afin de les aider à résoudre leurs problèmes d'affaires pressants (par ex.: devrions-nous entrer/sortir d'un certain marché? À quel prix devrions-nous vendre un nouveau produit? Devrions-nous investir dans une nouvelle technologie?)",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=41&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=41&NoPage=1&NoResultat=12&Provenance=10&Niveau=4&IdFiltre=0&IdDon=105",
-    "holland_codes": [
-      "E",
-      "C",
-      "I"
-    ]
-  },
-  {
-    "name": "Isabelle Hardy",
-    "title": "Agente régionale de développement agricole",
-    "domain": "Agroalimentaire",
-    "formation": "Baccalauréat",
-    "description": "Accompagner toutes personnes qui souhaitent démarrer un projet agricole ou une ferme. J'aide aussi des producteurs agricoles à trouver une relève à leur entreprise.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=14&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=14&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=735",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Chloé Martin ",
-    "title": "Officier d'artillerie(éleve)",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Diplôme d'étude secondaire (préférablement + Math SN de secondaire 5) ",
-    "description": "En tant qu'officier commissionné: \r\nPlanification d' exercices militaires\r\nDéploiement(guerre, aide humanitaire)\r\n  \r\n\"Les officiers(ères) d’artillerie assurent l’appui-feu indirect, la défense aérienne, la surveillance et l’acquisition d’objectifs au combat.\"\r\n\r\n''Les officier(ère)s des Forces armées canadiennes (FAC) occupent des postes d’autorité inspirant le respect. Ils sont responsables de la sécurité, du bien-être et du bon moral d’un groupe de soldats, de marins ou d’aviateurs. Leurs tâches comprennent l’analyse, la planification, la prise de décisions et la prestation de conseils.''\r\n\r\nEn tant qu'élève officier:\r\nFormation militaire de base\r\nExercices militaires (exemple: Leadership Conquérant)\r\nCours de métier\r\nS'assurer de la sécurité et du bien être de tous et chacun\r\nÉtude (payer)\r\nPerfectionnement militaire",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=38&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=38&NoPage=1&NoResultat=13&Provenance=10&Niveau=4&IdFiltre=0&IdDon=70",
-    "holland_codes": [
-      "E",
-      "R",
-      "S"
-    ]
-  },
-  {
-    "name": "Catherine Maurais",
-    "title": "Musicienne",
-    "domain": "Arts",
-    "formation": "Aucune formation spécifique requise",
-    "description": "J’accompagne des chanteurs en tournée et la télévision ",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=840",
-    "holland_codes": [
-      "A",
-      "I",
-      "S"
-    ]
-  },
-  {
-    "name": "Mathieu Belleville",
-    "title": "Vice-Président adjoint, Services Juridiques, Banque de Développement du Canada",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat",
-    "description": "Tu jongles avec l’idée de devenir avocat ? Viens me rencontrer et on discutera de la réalité, qui n’est pas tout à fait celle que tu vois dans les films! Il existe différentes façons de faire carrière comme avocat. La plus connue est de travailler en cabinet, comme Harvey Specter dans la série Suits sur Netflix. Je l’ai essayé, mais je n’ai pas vraiment aimé. J’ai donc opté pour un autre type de carrière, celle de conseiller juridique en entreprise. Puisque que l’entreprise est notre seul client, nous touchons plusieurs domaines du droit. Pour ma part, je fais notamment de la négociation de contrats, du droit des technologies de l’information et de la protection de la vie privée, en étant aussi gestionnaire d’une équipe d’avocats. Nous travaillons souvent avec des équipes de projet, ce qui nous permet d’apprendre beaucoup sur les opérations de notre entreprise. C’est une combinaison intéressante entre le droit et le monde des affaires. Je t’invite à participer à l’atelier dans lequel je t’expliquerai ce qu’un conseiller juridique en entreprise fait du lundi au vendredi. Un métier cool qui comporte plusieurs avantages auxquels tu n’as peut-être pas pensé. Au plaisir de t’y rencontrer.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Valery Gauthier",
-    "title": "Avocate en droit municipal et en droit de l’environnement",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat",
-    "description": "Je suis avocate en droit municipal et en droit de l’environnement pratiquant à Montréal, mais aussi à l’échelle de la province. La pratique du droit municipal et de l’environnement amène aussi à devoir travailler en interdisciplinarité, notamment avec des ingénieurs, des biologistes, des chimistes, etc. Le droit ouvre plusieurs portes et permet de développer des compétences en matière de rédaction, de développement de la pensée juridique et critique, etc. ",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Karine Barrette",
-    "title": "Chargée de projet au Regroupement des maisons pour femmes victimes de violence conjugale (également avocate)",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat",
-    "description": "Mon mandat est de piloter un projet qui vise à améliorer\r\nla pratique des différents acteurs (policier.ère.s, procureur.e.s, avocat.e.s, agent.e.s des services correctionnels, juges, etc.) pour lever les obstacles auxquels les femmes victimes de violence conjugale font face dans le système judiciaire lorsqu’elles tentent d’échapper à cette violence. Parmi mes tâches: mobilisation des partenaires, représentation auprès d'instances politiques, recherche et identification des meilleures pratiques, développement d'outils, sensibilisation et formation des acteurs via des conférences et séminaires régionaux.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Robert Majeau",
-    "title": "PDG de Division Sports-Rep et PDG de Les CampsRep",
-    "domain": "Administration; Sports, loirisir et diverstissement",
-    "formation": "Baccalauréat",
-    "description": "Être en affaires, c'est une question d'attitude, de passion et de rigueur!\r\nLors de cette conférence, je vais vous parler de mon cheminement pour devenir un homme d'affaires qui m'a mené à créer le plus important camp de vacances spécialisé en gymnastique et en acrobaties au Canada!\r\nJe vais vous expliquer la stratégie que j'utilise pour maximiser l'efficacité entre mes différentes compagnies!\r\nEn affaires, il y a 2 façons de faire de l'argent, nous en parlerons!\r\nComment saisir les opportunités qui s'offrent à nous pour se démarquer en affaires?\r\nQuels sont les avantages et les défis qui vous attendent quand vous serez une femme ou un homme d'affaires!\r\nVous pourrez me poser vos questions!\r\nJe vous attends en grand nombre!\r\nRobert Majeau",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1876",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Stéphanie  Majeau",
-    "title": "CEO - entrepreneur sur le web",
-    "domain": "Informatique et multimédia",
-    "formation": "Diplôme d'études professionnelles (DEP)",
-    "description": "J’ai un cabinet de services administratifs sur le web! \r\n\r\nJ’offre mes services 360 degrés en administration de tout genre pour les entreprises et les entrepreneurs qui ont besoin de déléguer! ",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=12&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=12&NoPage=1&NoResultat=7&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1839",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Anthony Courchesne",
-    "title": "Ingénieur en Intelligence Artificielle & Robotique",
-    "domain": "Génie et sciences pures",
-    "formation": "Maîtrise ou DESS",
-    "description": "Je onstruis des programmes d'intelligence artificielle afin de contrôler des robots, incluant les voitures.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=30&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=30&NoPage=1&NoResultat=29&Provenance=10&Niveau=4&IdFiltre=0&IdDon=148770",
-    "holland_codes": [
-      "I",
-      "R",
-      "E"
-    ]
-  },
-  {
-    "name": "patrick  chouinard",
-    "title": "Développeur de tests automatisés de logiciels",
-    "domain": "Génie et sciences pures",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "Je bombarde les nouveaux logiciels de mon entreprise chaque mois pour vérifier leur bon fonctionnement avant de les rendre disponibles au grand public.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=369",
-    "holland_codes": [
-      "I",
-      "R",
-      "C"
-    ]
-  },
-  {
-    "name": "Ludovic Fortin-Turmel",
-    "title": "Traducteur agréé de l'anglais vers le français, spécialisé en finance",
-    "domain": "Lettres",
-    "formation": "Baccalauréat",
-    "description": "Dans un monde de plus en plus connecté, les langues servent à faire voyager non seulement les mots et les personnes, mais aussi les idées, les produits et les services. Dans cette perspective, la traduction professionnelle devient incontournable et essentielle au bon fonctionnement de nos sociétés modernes. Au Canada et au Québec, les services linguistiques comme la traduction, mais aussi la révision et la rédaction de contenu tiennent une place singulière dans notre économie, mais aussi notre identité. Dans cette conférence, nous ferons donc une belle et stimulante incursion dans l'univers de la traduction et des traducteurs professionnels, qui contribuent concrètement à chaque jour au rapprochement des cultures, à la promotion de la diversité des expressions linguistiques, et, au final, à la prospérité des différentes communautés.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=820",
-    "holland_codes": [
-      "I",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Léamarie Meloche-Dumas",
-    "title": "Médecin résidente en chirurgie générale (5e année)",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat",
-    "description": "Je suis médecin et rendue à la 5e année sur 5 de la résidence en chirurgie générale pour devenir chirurgienne générale. Un chirurgien général est un médecin spécialiste qui pratique des interventions chirurgicales (opérations) afin de traiter ou diagnostiquer des maladies principalement du tube digestif (estomac, pancréas, intestins, vésicule biliaire, foie, rate, oesophage, appendice), mais également des maladies de peau, du sein, des glandes endocrines et des tissus mous. Le chirurgien général est aussi un spécialiste de première ligne pour les polytraumatisés. Il existe plusieurs sur-spécialités de la chirurgie générale comme la chirurgie oncologique (pour les cancers), colorectale, hépato-biliaire et pancréatique, bariatrique (pour traiter l’obésité), thoracique, pédiatrique (enfants) et traumatologique. Notre travail ne se limite toutefois pas au geste chirurgical pendant l’opération, il inclue également la période pré-opératoire (pour déterminer si le patient a besoin d’une chirurgie ou non et choisir laquelle est appropriée) et la période postopératoire (avec la gestion des complications). Si vous voulez en apprendre davantage sur cette spécialité stimulante et gratifiante, venez me voir ! Au plaisir de vous rencontrer, Léamarie ",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=11&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=11&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=572",
-    "holland_codes": [
-      "I",
-      "S",
-      "A"
-    ]
-  },
-  {
-    "name": "Julia Demers",
-    "title": "Gestionnaire médias sociaux",
-    "domain": "Informatique et multimédia; Arts",
-    "formation": "Baccalauréat",
-    "description": "Je suis responsable des comptes de médias sociaux d'entreprises dans une agence de marketing numérique. Je gère le département de réseaux sociaux. \r\n\r\nEn collaboration avec le directeur marketing, j'élabore la stratégie de contenu que nous allons publier. Je fais la rédaction des contenus et parfois la création de contenu. J'anime et gère la communauté sur les différentes plateformes de médias sociaux. Je fais beaucoup de gestion de projets, je planifie et coordonne les journées de tournage et les prises de photo. Je suis aussi l'intermédiaire entre le client et notre équipe. (Graphiste, rédacteur,  photographe,etc)",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=95280",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Laurence Michel",
-    "title": "Diététiste-nutritionniste",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Baccalauréat",
-    "description": "L’alimentation est la base de la vie et les diététistes-nutritionnistes sont les seules expertes dans ce domaine. La plupart d'entre nous exerçons en nutrition clinique, afin d'aider les gens de tous âges à garder ou améliorer leur santé et leur bien-être. Elles travaillent surtout en prévention, en conseillant les personnes sur leur alimentation, en tenant compte de leurs besoins et de leurs valeurs. Si les aspects social, culturel, physiologique et psychologique de l'humain vous intéressent, devenir nutritionniste est la profession tout indiquée! \r\nDe plus, il est possible de travailler en gestion de projets dans des organismes, auprès d'athlètes, au gouvernement afin de réduire les inégalités en santé, en recherche pour mieux comprendre l'effet des aliments sur le corps humain, en chimie alimentaire et même en communications. ",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=601",
-    "holland_codes": [
-      "I",
-      "S",
-      "E"
-    ]
-  },
-  {
-    "name": "Caroline Pineault",
-    "title": "Pharmacienne",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat professionnel ",
-    "description": "Expert du médicament, le pharmacien s’assure du bon usage du médicament. Il peut prescrire et ajuster la dose de certains médicaments. Il peut traiter des problèmes de santé mineurs. Il joue un rôle important dans le système de santé en étant disponible et facile d’accès. Il fait la promotion de la santé via divers programmes. Il travaille en collaboration avec son équipe de techniciennes et avec différents  professionnels de la santé. Les choix de carrières avec des études en pharmacie sont nombreux et une panoplie d’option s’offre à vous! ",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=598",
-    "holland_codes": [
-      "I",
-      "E",
-      "S"
-    ]
-  },
-  {
-    "name": "Jean-François  Lavoie ",
-    "title": "Pilote Commandant de bord",
-    "domain": "Transport et entretien d'équipement motiorisé",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "\r\nPilote commandant de bord sur Airbus 330, instructeur et pilote vérificateur, je fais aussi des vols internationaux. Je suis finissant du Cégep de Chicoutimi (CQFA). Je crois avoir une bonne expertise pour vous partager ma passion de l’Aviation et vous expliquer toutes les facettes de ce domaine fascinant qui offre un avenir prometteur.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=8&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=8&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=533",
-    "holland_codes": [
-      "I",
-      "R",
-      "C"
-    ]
-  },
-  {
-    "name": "Nancy Wiseman",
-    "title": "Policière ( retraité du mois de mai) ",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "J’ai servi comme policière durant 27 ans au SPVM! J’ai fait plusieurs conférences  auprès de élèves du primaire, secondaire et adulte! Alors je pourrais parler de mon expérience en tant que femme policière. Le déroulement d’une journée type avec les réponses aux appels d’urgence. Le travail en prévention, le travail communautaire. La composition des équipes, les quarts de travail, la hiérarchie. Les différents  postes comme les  motards, les cavaliers, les enquêteurs, escouade tactique, etc!!!   ",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1008",
-    "holland_codes": [
-      "E",
-      "R",
-      "C"
-    ]
-  },
-  {
-    "name": "Valérie-Anne Côté",
-    "title": "Surintendante Agence des services frontaliers",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Fromation au Collège National situé à Rigaud, Qc",
-    "description": "Plus de 25 ans d'expérience au sein de l'ASFC dans l'examen de marchandise, de personnes arrivant au Canada",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=126",
-    "holland_codes": [
-      "C",
-      "S",
-      "Z"
-    ]
-  },
-  {
-    "name": "Marie-Eve Couturier",
-    "title": "Conseillère municipale",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat",
-    "description": "Un élu municipal fait valoir les intérêts de la communauté et il participe à la prise de décision au sein de la municipalité. L’élu a trois principaux rôles à jouer : représenter ses électeurs, élaborer des politiques et gérer les ressources financières et administratives de la Ville.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1894",
-    "holland_codes": [
-      "E",
-      "S",
-      "I"
-    ]
-  },
-  {
-    "name": "Julianne Savoie ",
-    "title": "Intervenante psychosociale ",
-    "domain": "Relation d'aide",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "J'accompagne au quotidien des jeunes vivant une situation difficile nécessitant un hébergement temporaire dans un organisme communautaire. J'anime des ateliers de prévention avec eux et je les encadre dans un suivi qui vise l'atteinte de leurs objectifs, que ce soit un retour dans la famille ou une démarche d'autonomie. Je suis aussi étudiante au baccalauréat en psychoéducation. ",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=698",
-    "holland_codes": [
-      "S",
-      "I",
-      "A"
-    ]
-  },
-  {
-    "name": "Raphaël Grégoire",
-    "title": "Directeur Ressources Humaines",
-    "domain": "Relation d'aide; Administration",
-    "formation": "Baccalauréat",
-    "description": "Responsable de diriger une équipe qui s’assure d’attirer de nouveaux candidats, qui favorise la rétention et l’évaluation de ceux-ci. Mettre en place des politiques au sein de l’ensemble de l’entreprise permettant une meilleure gestion ainsi qu’un climat de travail propice à une meilleure performance . Faire évoluer l’ensemble de l’entreprise à être un employeur attrayant et mettre en place une marque employeur attirante. Guider l’ensemble des gestionnaires et des propriétaires dans leurs décisions relatives à la gestion de personnel. Prendre des décisions stratégiques face au positionnement de l’entreprise .",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=9",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Rosalie Dath",
-    "title": "inhalothérapeute",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "L’inhalothérapeute s'occupe des soins du système cardiorespiratoire. Il intervient dans toute situation d'urgence (arrêt cardiaque ou respiratoire, urgence traumatologique) et dans le traitement de certaines maladies respiratoires comme l’asthme, l’emphysème ou la fibrose kystique. Il agit pour maintenir, rétablir ou assister la fonction des voies respiratoires par l'utilisation d'un respirateur artificiel ou de tout autre appareil d'oxygénation ou par l'administration de médicaments par les voies respiratoires.\r\n\r\nL’inhalothérapeute travaille dans les diverses unités de soins d'un centre hospitalier : urgence, soins intensifs, néonatalogie, physiologie respiratoire, bloc opératoire, etc.",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=621",
-    "holland_codes": [
-      "I",
-      "R",
-      "S"
-    ]
-  },
-  {
-    "name": "Kim Lefebvre ",
-    "title": "Vétérinaire ",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat de 1er cycle ",
-    "description": "Je suis vétérinaire généraliste en pratique des animaux de compagnie, c'est-à-dire avec les chiens et les chats",
-    "period": "11h00 à 11h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=590",
-    "holland_codes": [
-      "I",
-      "R",
-      "S"
-    ]
-  },
-  {
-    "name": "Charles-Olivier Gauthier",
-    "title": "Planificateur financier",
-    "domain": "Administration",
-    "formation": "Baccalauréat",
-    "description": "Conseiller les particuliers et les entreprises dans la gestion de leur patrimoine. Gérer un portefeuille de placements, conseiller les gens avec l’assurance de personne! Un planificateur financier est un peu comme le médecin général de la finance!",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&IdDon=97&TypeDonnee=P&EnButinage=1",
-    "holland_codes": [
-      "E",
-      "C",
-      "S"
-    ]
-  },
-  {
-    "name": "Mylene LEFEBVRE",
-    "title": "Analyste financier senior",
-    "domain": "Administration",
-    "formation": "Baccalauréat",
-    "description": "En tant qu’analyste financier, je m’assure que Bombardier récolte les revenus pour les services que l’on rend à nos clients",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&IdDon=88&TypeDonnee=P&EnButinage=1",
-    "holland_codes": [
-      "C",
-      "E",
-      "I"
-    ]
-  },
-  {
-    "name": "Sébastien Darche",
-    "title": "Directeur Artistique, Chef de Studio et Graphiste Senior",
-    "domain": "Arts; Administration",
-    "formation": "DEC et ou BACC",
-    "description": "J'œuvre depuis près de vingt ans, principalement dans les domaines du branding, la direction artistique, le design graphique, les campagnes de publicités intégrées ainsi que la gestion de projet. Mes aptitudes de gestionnaire d’équipe graphique ont été peaufinées pendant 9 ans grâce à de nombreuses formations, notamment sur le leadership, la stratégie et le coaching. J'ai eu la chance de trvailler pour des compagnies telles que CAE, CCM Hockey (Shoot Photos avec des joueurs professionnels), ADIDAS, CF Montréal et depuis un an en \"startup\" chez Taiga Motors (Entreprise Québécois, premier au monde à électrifier les motoneiges et motomarine).\r\n\r\nAu final, mes réalisations doivent être visuellement impeccables, simples et basées sur l’analyse des enjeux et objectifs du client, afin de créer des solutions originales et pertinentes.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=829",
-    "holland_codes": [
-      "A",
-      "E",
-      "R"
-    ]
-  },
-  {
-    "name": "Rui Barao",
-    "title": "Vice-président adjoint, Affaires juridiques",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Maîtrise ou DESS",
-    "description": "Je suis en charge du service juridique pour les investissements chez BDC Capital.  Nous investissons principalement en capital de risque (venture capital), soit dans des sociétés technologiques novatrices.  Dans le passé, j’ai également travaillé pour un cabinet d’avocats national à titre d’avocat en financement corporatif.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Maryse Belanger",
-    "title": "Avocate - Directrice de la Clinique juridique du Barreau du Québec",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat",
-    "description": "J'ai pratiqué le droit de la famille en cabinet privé pendant 20 ans, dont 13 ans à mon compte. J'ai plaidé devant la Cour supérieure et la Cour d'appel. J'ai représenté des adultes, mais aussi des enfants pris dans le conflit de séparation de leurs parents. \r\n\r\nJe suis maintenant directrice de la Clinique juridique du Barreau du Québec, où je suis gestionnaire depuis 3 ans. Avec la participation des étudiants de l'École du Barreau, la Clinique juridique offre des services de consultation et de conseils juridiques gratuits aux citoyens du Québec.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Mélanie Gauthier",
-    "title": "Notaire et Greffière ",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Maîtrise ou DESS",
-    "description": "J'ai pratiqué le droit comme notaire pendant 7 ans en pratique privée (testament, contrats de mariage, hypothèques, mandat d'inaptitude, célébration de mariages, acquisition de maisons et conseils juridiques).  Par la suite j'ai pratiqué comme notaire pour la Ville de Laval de 2005 à 2018 (travail multidisciplinaire avec le Service de l'Ingénierie, Urbanisme) puis je suis Greffière (adjointe) pour la Ville de Laval et je pratique le droit en milieu non traditionnel (être membre du Barreau ou de la Chambre des notaires est un prérequis essentiel).  J'agis comme secrétaire du Comité exécutif et du Conseil municipal, j'organise toute la logistique entourant les élections municipales, les référendums, je suis responsable de la loi sur l'accès à l'information et la rédaction de règlements d'emprunt et je suis responsable du processus des ouvertures des soumissions avec que celui ci se déroule conformément à la loi.  Je peux ainsi parler du métier de notaire, greffière et gestionnaire car je dirige une équipe de 33 employés.   ",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=655",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Michel  Pronovost ",
-    "title": "Microbiologiste, professeur-chercheur au cégep et à l'université ",
-    "domain": "Génie et sciences pures",
-    "formation": "Baccalauréat",
-    "description": "Je suis microbiologiste agréé depuis 35 ans. Je suis un ancien de Saint-Sacrement et j'ai étudié au Collège Jean-de-Brébeuf, à l'Université de Montréal, à l'INRS-Institut Armand-Frappier, à McGill et à l'UQAM. J'ai eu deux carrières parallèles : une comme microbiologiste dans des laboratoires accrédités par le MELCC et l'autre comme professeur de microbiologie au niveau collégial et en sciences de l'éducation à l'université. Je suis membre du conseil d'administration de mon association professionnelle depuis 26 ans. J'ai fait de la recherche en microbiologie et en didactique des sciences. Je vais vous présenter ma profession et les raisons pour lesquelles je l'ai choisie et pourquoi je l'aime encore après 35 ans.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=268",
-    "holland_codes": [
-      "I",
-      "R",
-      "S"
-    ]
-  },
-  {
-    "name": "Joëlle Trottier",
-    "title": "Conseillère clinique (bac spécialisé en criminologie)",
-    "domain": "Sciences humaines",
-    "formation": "Baccalauréat",
-    "description": "Je fais le suivi communautaire d’hommes adultes judiciarisés dans le cadre d’une sentence provinciale (probation, sursis et libération conditionnelle) ",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=762",
-    "holland_codes": [
-      "S",
-      "I",
-      "A"
-    ]
-  },
-  {
-    "name": "Benoit Martel",
-    "title": "Entrepreneur",
-    "domain": "Administration",
-    "formation": "Aucune formation spécifique requise",
-    "description": "Mon rôle consiste à diriger une entreprise en collaboration avec des équipes multi disciplinaires.  Être un dirigeant est un rôle avec des tâches extrêmement variées.  Je veille au bon déroulement de plusieurs aspects de la vie active d’une entreprise au quotidien (gestion des employés, finance, vente, marketing, opérations, etc), à sa croissance, sa pérennité ainsi que de m’assurer de rester compétitif et se démarquer de la concurrence.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=46&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=46&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=13",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Jose Antoine Valbrun",
-    "title": "Conseiller en affaires électroniques",
-    "domain": "Informatique et multimédia",
-    "formation": "AEC, DEP, DEC, BACC, ...",
-    "description": "Gestion (création ou refonte) des services Web (service en ligne, vente en ligne,...) et réalisation de stratégie et de tactiques de marketing numérique (campagnes Google, réfrencement naturel, marketing par courriel, médias sociaux...)",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=50&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=50&NoPage=1&NoResultat=12&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1839",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Ariane Carrière-Roberge",
-    "title": "Ingénieure en Aéronautique, Spécialiste en Sécurité des Occupants",
-    "domain": "Génie et sciences pures",
-    "formation": "Baccalauréat",
-    "description": "Mon rôle principal est de m'assurer que tous les occupants d'un avion (incluant les passagers, les agents de bord et les pilotes) soient en sécurité, autant durant un vol normal que lors d'une situation d'urgence. Je dois donc m'assurer que tous les règlements du transport aérien reliés à la sécurité des occupants soient respectés lors de la conception des intérieurs des avions. Je participe à plusieurs étapes de conception et de configuration de la cabine, aux tests de sièges (pour s'assurer que tous les sièges demeurent sécuritaires lors d'un accident) et aux tests d'évacuation d'urgence (pour s'assurer que tous les occupants puissent sortir à temps de l'avion dans les pires conditions).  Je suis aussi responsable de l'inspection finale de chaque avion, juste avant la livraison au client.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=329",
+    "description": "En tant que biologiste dans une firme d'ingénierie, j'ai l'opportunité de travailler sur de nombreux projets variés tels que l'étude des milieux naturels et des inventaires fauniques, ce qui m'amène à voyager partout au Québec et à mieux comprendre les écosystèmes qui nous entourent. C'est un emploi d'exception pour les passionné(e)s de nature et d'écologie!",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=7&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=7&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=259",
     "holland_codes": [
       "I",
       "R",
@@ -519,12 +15,12 @@
   },
   {
     "name": "Alex Théorêt",
-    "title": "Ingénieur - Chargé de projets en construction",
-    "domain": "Génie et sciences pures",
+    "title": "Ingénieur en Construction",
+    "domain": "TBD",
     "formation": "Baccalauréat",
-    "description": "Je suis responsable de la gestion des projets de construction. De la phase estimation, la planification, la gestion d'un projet jusqu'à sa livraison.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=292",
+    "description": "Gestionnaire de projets de construction",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=161842",
     "holland_codes": [
       "I",
       "R",
@@ -532,54 +28,26 @@
     ]
   },
   {
-    "name": "Thomas Larente",
-    "title": "Externe en médecine",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat",
-    "description": "Je désire me spécialiser en médecine d'urgence.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=577",
+    "name": "Kim Lefebvre ",
+    "title": "Vétérinaire ",
+    "domain": "TBD",
+    "formation": "Doctorat de premier cycle",
+    "description": "Je suis vétérinaire généraliste (ou de famille) dans le domaine des animaux de compagnie (chiens et chats).",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=590",
     "holland_codes": [
       "I",
-      "S",
-      "A"
+      "R",
+      "S"
     ]
   },
   {
-    "name": "Kevin Brazeau",
-    "title": "Médecin de famille (urgentologue)",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat",
-    "description": "Médecin d’urgence à l’hôpital de St-Jérôme, mon travail consiste à traiter des patients de 0 à 100 ans se présentant avec une multitudes de problèmes de santé différents.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=577",
-    "holland_codes": [
-      "I",
-      "S",
-      "A"
-    ]
-  },
-  {
-    "name": "Jean-Christophe  Guay",
-    "title": "Pharmacien ",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat de 1er cycle ",
-    "description": "Le pharmacien, c'est l'expert du médicament. Il joue un rôle central dans notre système de santé, car c'est à lui que revient la responsabilité de vérifier le bon usage des médicaments auprès de la population.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=598",
-    "holland_codes": [
-      "I",
-      "S",
-      "E"
-    ]
-  },
-  {
-    "name": "Philippe Doucet",
-    "title": "Pilote d’avion d’affaires",
-    "domain": "Transport et entretien d'équipement motiorisé",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "Je parcours le monde à transporter des gens d’affaires, personnalités publiques, médecins (Transport d’organes) ou encore des patients (Évacuations aéromédicales).",
-    "period": "12h00 à 12h45",
+    "name": "Alex Watson",
+    "title": "Pilote (DHC6-PREMIER OFFICIER)",
+    "domain": "TBD",
+    "formation": "Pilote commercial (MULTI-IFR)",
+    "description": "Je travaille pour une compagnie aérienne nordique appelée Air Inuit. Ma fonction est premier officier de twin otter (DHC6). Nous opérons les liaisons entre les villages du nunavik et le sud du Québec. Tous les villages inuit québecois sont déservis par Air Inuit. Nous transportons des gens ou de la marchandises pour tous ces villages qui sont démunis de routes entres eux. Nous avons également une portion évacuation médicale de jour comme de nuit.\n\nMon travail se résume à la préparation de vol, l’inspection de l’appareil, l’avitaillement en carburant, l’analyse de la météo et le pilotage.\n\nAu plaisir de répondre à vos questions\n\nAlex ",
+    "period": "11h",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=8&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=8&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=533",
     "holland_codes": [
       "I",
@@ -588,55 +56,13 @@
     ]
   },
   {
-    "name": "Audrey Bouchard",
-    "title": "Capitaine aux enquêtes criminelles et soutien opérationnel (police)",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Maîtrise ou DESS",
-    "description": "Mon emploi consiste à gérer la division des enquêtes d’un service de police au niveau opérationnel et administratif. Veillez au bon fonctionnement des opérations. Implication dans des comités d’enjeux provinciaux. ",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1008",
-    "holland_codes": [
-      "E",
-      "R",
-      "C"
-    ]
-  },
-  {
-    "name": "Jonathan St-Pierre",
-    "title": "Huissiers de justice",
-    "domain": "Politique, justice et sécurité",
+    "name": "Marie Bédard",
+    "title": "Infirmière",
+    "domain": "TBD",
     "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "Un emploi dans le domaine juridique, sur la route, à effectuer des évictions de domicile, distribuer des documents importants en personne faire des gardes hospitalières. Faire des constats d’immeuble etc.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1079",
-    "holland_codes": [
-      "E",
-      "Z",
-      "C"
-    ]
-  },
-  {
-    "name": "François-Xavier Aubé",
-    "title": "Pompier",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "Venir en aide aux citoyens lors de toutes sortes de situations d'urgence. Incendie, accident de la route, inondation, médical, sauvetage, fuite de gaz, etc. Aucune journée n'est pareille, mais ce qui est certain, c'est que l'on travaille en équipe.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1010",
-    "holland_codes": [
-      "R",
-      "E",
-      "S"
-    ]
-  },
-  {
-    "name": "Sara Bouffard",
-    "title": "Psychoéducatrice",
-    "domain": "Relation d'aide",
-    "formation": "Maîtrise ou DESS",
-    "description": "Le psychoéducateur en milieu scolaire dépiste, évalue et accompagne les personnes vivant des difficultés d'adaptation ou étant susceptibles d'en présenter.  Il agit également en rôle-conseil auprès des autres intervenants scolaires et des parents.  Venez en apprendre plus sur cette merveilleuse profession !",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=698",
+    "description": "Je suis infirmière depuis 2018. Cinq ans seulement dans ce métier m'ont permis d'explorer plusieurs spécialités. Les soins infirmiers sont un domaine qui est vaste, où l'ont peut explorer différents milieux, différentes clientèles, différentes populations, etc. \nJ'ai travaillé un peu dans la région de Montréal à mes débuts, mais j'ai réellement commencer à aimer mon travail quand je suis allée dans le Grand Nord du Québec, pour travailler dans des communautés autochtones. \nJ'aimerais partager avec vous cette expérience et vous montrer que chacun peut trouver sa place en soins infirmiers, car les possibilités sont illimitées!",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=7&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=7&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=613",
     "holland_codes": [
       "S",
       "I",
@@ -644,586 +70,26 @@
     ]
   },
   {
-    "name": "Raphaelle Cote Leduc",
-    "title": "Directrice Ressources Humaines",
-    "domain": "Relation d'aide; Administration",
+    "name": "Méghane Boisvert",
+    "title": "Conseillère juridique en éthique, conformité et gouvernance",
+    "domain": "TBD",
     "formation": "Baccalauréat",
-    "description": "L'essence de notre rôle est de faire évoluer la culture, les structures et, surtout, les individus grâce à un service à multiples facettes. En tant que professionnels des RH, nous avons toujours trois têtes : les gestionnaires de talents, les consultants et les facilitateurs du changement. Notre quotidien est diversifié et maintient chaque jour un bon équilibre entre les éléments stratégiques, le soutien opérationnel et l'exécution et la mise en œuvre des initiatives.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=9",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Caroline St-Laurent",
-    "title": "Ergothérapeute ",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Maîtrise ou DESS",
-    "description": "L’ergothérapeute est un professionnel de la santé qui peut travailler autant en santé physique qu’en santé mentale, avec une clientèle de tous âges (allant du nouveau-né à la personne âgée). Ce professionnel est un spécialiste de l’activité (soins personnels, domestique, de loisir, de travail, etc.). Il fait les liens entre les différentes sphères de la personne et propose un plan d’intervention qui permet à la personne d’actualiser son potentiel.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=606",
-    "holland_codes": [
-      "S",
-      "R",
-      "E"
-    ]
-  },
-  {
-    "name": "Vincent Quirion",
-    "title": "Stagiaire de recherche en intelligence artificielle",
-    "domain": "Génie et sciences pures",
-    "formation": "Baccalauréat",
-    "description": "Je fais un stage de recherche à temps partiel au MILA dans le groupe de Yoshua Bengio. Au sein de l'équipe Bengio, mes collègues et moi étudions différents algorithmes d'intelligence artificielle afin d'améliorer leurs performances et de les mettre à profits pour rendre le monde meilleur. La conférence vous donnera un avant-goût de plusieurs sujets de recherche en vogue en intelligence artificielle et vous initiera au monde de la recherche en général.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=191211",
-    "holland_codes": [
-      "I",
-      "R",
-      "C"
-    ]
-  },
-  {
-    "name": "Julien Forget",
-    "title": "Directeur de comptes national en alimentation",
-    "domain": "Administration",
-    "formation": "Baccalauréat",
-    "description": "Fonctions principales ; Vente au détail (alimentation), négociation, stratégies promotionnelles, distribution, prévision des ventes. Mon travail consiste à m’assurer d’optimiser les ventes d’un producteur manufacturier à travers une chaîne d’épicerie de la façon la plus efficace et rentable possible pour chacun des joueurs impliqués.",
-    "period": "12h00 à 12h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=35&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=35&NoPage=1&NoResultat=18&Provenance=10&Niveau=4&IdFiltre=0&IdDon=61",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Stéphanie Fournier",
-    "title": "Directrice générale d'un centre d'action bénévole ",
-    "domain": "Administration",
-    "formation": "Baccalauréat",
-    "description": "Je souhaite surtout leur parler du travail dans les organismes communautaires, des différentes possibilités, de ce que ça amène,  des tremplins, des causes et missions. Pour ma part, je gère l'organisme, les finances, les ressources humaines, les communications, les projets et financement et je travaille avec les bénévoles et le conseil d'administration.  ",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=35&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=35&NoPage=1&NoResultat=18&Provenance=10&Niveau=4&IdFiltre=0&IdDon=61",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Marie-Anouk Charron",
-    "title": "Comptable professionnel agréé ",
-    "domain": "Administration",
-    "formation": "Maîtrise ou DESS",
-    "description": "Associée et propriétaire d’un petit cabinet, j’ai débuté ma carrière dans un des plus grand cabinet comptable mondial. Le titre de CPA ouvre des portes sur une multitude de carrières possibles, chose souvent méconnue de la majorité des gens. Je serai accompagnée par mon fils, ancien élève du collège, étudiant au hec en comptabilité et stagiaire l’été dernier dans un grand cabinet. ",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=88939",
-    "holland_codes": [
-      "C",
-      "E",
-      "S"
-    ]
-  },
-  {
-    "name": "Frédéric  Thouin",
-    "title": "Officier des affaires publiques",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat",
-    "description": "Je suis responsable des communications au sein des Forces armées canadiennes. Je dois préparer les portes-paroles afin qu’ils donnent de bonnes entrevues aux médias. Je dois également trouver des moyens de faire comprendre notre quotidien à la population en utilisant la majorité des plateformes offertes.",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=38&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=38&NoPage=1&NoResultat=18&Provenance=10&Niveau=4&IdFiltre=0&IdDon=2018",
-    "holland_codes": [
-      "E",
-      "S",
-      "A"
-    ]
-  },
-  {
-    "name": "Camille Internoscia",
-    "title": "Styliste",
-    "domain": "Arts",
-    "formation": "Aucune formation spécifique requise",
-    "description": "Le/la styliste fournit des conseils vestimentaires et de direction artistique ; choisit et coordonne les tenues des mannequins pour les séances photo d’éditoriaux de magazines et/ou de publicités et/ou des artistes ; et supervise le vêtement lors de son utilisation. ",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=922",
-    "holland_codes": [
-      "A",
-      "E",
-      "Z"
-    ]
-  },
-  {
-    "name": "Sarah Legault",
-    "title": "Assistante à la caméra",
-    "domain": "Arts",
-    "formation": "Aucune formation spécifique requise",
-    "description": "Le rôle de l'assistant à la caméra consiste à aider les directeurs de la photographie, les cadreurs et les caméramans avec l'équipement caméra sur un plateau de tournage (objectifs, trépied, batteries, cartes mémoires, éclairage, etc.). Que ce soit en cinéma, en télévision, en documentaire ou en direct, son rôle est essentiel au bon fonctionnement d'un plateau de tournage. Il fait partie d'une grande équipe de techniciens sans qui un film ou une émission ne serait pas possible (réalisateur, assistant à la réalisation, directeur de la photographie, preneur de son, accessoiriste, régisseur, éclairagiste, monteur, etc). C'est un métier parfait pour les gens qui adorent la technologie et les arts. C'est aussi un métier rempli de défis, non-routinier et qui nous permet de participer activement à la culture de notre société.",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=2172",
-    "holland_codes": [
-      "A",
-      "E",
-      "R"
-    ]
-  },
-  {
-    "name": "Sophie Laframboise",
-    "title": "Avocate en droit familial",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat et une année à l'École du Barreau du Québec",
-    "description": "Je représente des clients dans le cadre de leur séparation, pour la garde de leurs enfants, le partage des biens. Je rencontre des clients, négocie ou les représente devant la Cour.",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "description": "En tant que conseillère juridique en éthique, conformité et gouvernance chez CDPQ Infra, mon travail consiste à mettre en place des mesures pour que l'entreprise respecte toutes les lois et réglementations liées à ses activités. Je me penche sur des enjeux tels que la fraude, la corruption, le blanchiement d’argent, l’intelligence artificielle et les renseignements personnels. Je conseille également l'entreprise sur les questions éthiques et je contribue à promouvoir une culture d'intégrité au sein de l'organisation. Mon rôle est essentiel pour garantir que l'entreprise agisse de manière responsable et éthique dans tout ce qu'elle entreprend. ",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=196928",
     "holland_codes": [
       "E",
       "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Alexandre Lussier",
-    "title": "Commissaire à la section de la protection des réfugiés",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat",
-    "description": "Je suis juge administratif pour la Commission de l’Immigration et du Statut de Réfugié, un tribunal indépendant du gouvernement fédéral. Je préside les audiences au cours desquelles les demandeurs d’asile doivent établir qu’ils feraient face à de la persécution s’ils devaient retourner dans leur pays d’origine. J’entends donc les histoires vécues dans plusieurs pays autour du globe. J’interroge les demandeurs d’asile, en présence de leur avocat et d’un interprète. Parfois, le gouvernement intervient pour s’opposer aux demandes d’asile. Après l’argumentation des avocats, j’accorde ou refuse l’asile, par décision du banc ou par écrit, après un délibéré.",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Camille Taillefer",
-    "title": "Procureure de la couronne",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat",
-    "description": "Le procureur de la couronne est un avocat qui pratique exclusivement en droit criminel.  Le procureur s'occupe d'autoriser le dépôt d'accusations en matière criminelle, s'occupe des procès, allant du vol au meurtre (incluant les procès devant jury), et plaide la sentence des individus accusés de crimes. C'est au procureur que revient la charge de démontrer hors de tout doute raisonnable la culpabilité d'un individu. Il travaille à la cour du Palais de justice et accompagne les victimes dans le cadre du processus judiciaire.  ",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Samuel Guyot",
-    "title": "Chirurgien Dentiste",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat",
-    "description": "Je fais de la chirurgie dentaire, je reconstruis les dents brisées, je fais des greffes de gencives, je fais de l’orthodontie qui replace les dents croches et fais de beaux sourires",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=587",
-    "holland_codes": [
-      "I",
-      "R",
-      "E"
-    ]
-  },
-  {
-    "name": "Bruner Nozière",
-    "title": "Consultant en affaires et Travailleur autonome",
-    "domain": "Administration",
-    "formation": "Baccalauréat",
-    "description": "Nous aidons les entrepreneurs qui démarrent en affaires à lancer et rédiger leurs projets d'affaires.",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1845",
-    "holland_codes": [
-      "S",
-      "E",
-      "I"
-    ]
-  },
-  {
-    "name": "Sarah Airoldi",
-    "title": "courtier immobilier",
-    "domain": "Administration",
-    "formation": "Formation privée ou diplôme d'études collégiales",
-    "description": "J'accompagne les gens dans la plus grosse transaction de leur vie",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=987",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Isabelle Lussier",
-    "title": "Senior Digital Designer",
-    "domain": "Arts",
-    "formation": "Baccalauréat",
-    "description": "Mon emploi consiste a créer des visuels afin de vendre des produits & logiciels à l'international. Je travaille présentement à distance aux États-Unis pour une compagnie qui a plus de 5000 employés distribués partout dans le monde. Mon équipe travaille sur une nouvelle version du site web ce qui inclue; re-penser à tous les visuels, les couleurs, les images, les placements de produits, le texte... Au paravant, j'ai travaillé dans des agence de marketing, de web et une startup. Je suis complètement ouverte à discuter des salaires, du processus relié à un visa aux USA, des études dans le domaine du design, des échanges étudiants à l'international et le monde de la technologie.",
-    "period": "14h00 à 14h45",
-    "link_reperes": null,
-    "holland_codes": [
-      null,
-      null,
-      null
-    ]
-  },
-  {
-    "name": "Claudia Ferland",
-    "title": "Conceptrice de jeu (Game Designer)",
-    "domain": "Informatique et multimédia",
-    "formation": "Baccalauréat",
-    "description": "Le design de jeu est un domaine qui en couvre large au centre duquel trône l'expérience de jeu. Le design de jeu peut englober l'élaboration des règles du jeu, la création de niveaux, le fonctionnement des menus de jeu, la création de quête et missions et bien plus encore. Dans le cadre de leur travail, les concepteurs font équipe avec des programmeurs et des artistes.",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1842",
-    "holland_codes": [
-      "E",
-      "S",
-      "I"
-    ]
-  },
-  {
-    "name": "gabriel Blanchet-Beaudoin",
-    "title": "Chargé de projet - Environnement",
-    "domain": "Génie et sciences pures",
-    "formation": "Baccalauréat",
-    "description": "J'ai fais ma formation au cégep en science humaine administration, mon bac en génie mécanique à l'ETS. Je suis présentement chargé projet pour des systèmes de traitement d'eau et de récupération d'eau de pluie pour tout projet en Amérique du Nord. Mon travail m'amène à me promener un peu partout au Québec et une partie des États-Unis. Étant un grand indécis durant mon parcours académique, je crois être une bonne voix, afin de bien éclairer les élèves sur le monde du génie et pas seulement génie mécanique.\r\n\r\nMes tâches au quotidien sont très pluridisciplinaire. En résumé je dirais que je suis le point central de communication afin que projet se passe bien du début à la fin.\r\n\r\nUne de mes grandes satisfactions dans mon travail est que je travaille afin de préserver l'environnement et participer à la lutte contre les changement climatique.",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=298",
-    "holland_codes": [
-      "I",
-      "R",
-      "E"
-    ]
-  },
-  {
-    "name": "Erika Leclerc",
-    "title": "Médecin de famille",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat",
-    "description": "En tant que médecin de famille, j'ai plusieurs rôles variés. Je travaille dans une clinique où je soigne des patients de 0 à 100 ans, je travaille à l'hôpital et je fais aussi de l'enseignement aux étudiants en première année de médecine. C'est à la fois un travail qui demande d'aimer la science, d'aimer apprendre tous les jours, de travailler en équipe et surtout, d'aimer la relation d'aide avec les humains. ",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=581",
-    "holland_codes": [
-      "I",
-      "S",
-      "A"
-    ]
-  },
-  {
-    "name": "Kiana Hagerty",
-    "title": "Nutritionniste/Diététiste ",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Baccalauréat",
-    "description": "Je suis nutritionniste en milieu hospitalier et consultation privée. Je travaille avec différentes populations pour les aider à améliorer leur santé et atteindre leurs objectifs au niveau nutritionnel!",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=601",
-    "holland_codes": [
-      "I",
-      "S",
-      "E"
-    ]
-  },
-  {
-    "name": "Veronique Croteau",
-    "title": "Pharmacienne chef",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat",
-    "description": "Être pharmacien c’est faire partie intégrante de l’équipe qui s’occupe de la santé des patients notamment en analysant le dossier pharmacologique (bon médicament pour la bonne personne pour la bonne indication à la bonne dose) tout en gérant les interactions et en remettant le conseil approprié. Le pharmacien prescrit aussi des médicaments pour certains problèmes de santé, vaccine, et Collabore avec les autres professionnels de la santé. En tant que chef, on ajoute toutes les tâches de gestion d’un laboratoire (horaire, évaluation….) en s’assurant de la qualité du circuit du médicament  ",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=598",
-    "holland_codes": [
-      "I",
-      "E",
-      "S"
-    ]
-  },
-  {
-    "name": "Claudérick Brière",
-    "title": "Policier à la ville de Terrebonne",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "Je suis policier à la ville de Terrebonne. Cet emploie permet de bouger énormément, d’aider les autres et d’avoir des journées qui sont toujours différentes. Le travail d’équipe est primordial et les avancements de carrière sont infinis. Cet emploie s’adresse à ceux qui veulent faire une différence en intervention avec les nombreux problèmes de santé mentale et qui aiment parler avec les gens.",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1008",
-    "holland_codes": [
-      "E",
-      "R",
-      "S"
-    ]
-  },
-  {
-    "name": "David Cabana",
-    "title": "Psychoéducateur",
-    "domain": "Relation d'aide",
-    "formation": "Maîtrise ou DESS",
-    "description": "La psychoéducation est une discipline propre au Québec qui vise l'adaptation ou la réadaptation d'un individu dans son environement psychosocial.\r\n\r\n",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=698",
-    "holland_codes": [
-      "S",
-      "I",
-      "A"
-    ]
-  },
-  {
-    "name": "Lucie Guindon",
-    "title": "Consultante en gestion (ressources humaines)",
-    "domain": "Relation d'aide; Administration",
-    "formation": "Baccalauréat",
-    "description": "Nous voulons venir en tandem Marion Chartier-Lefrançois (diplômée 2010) et moi, nous travaillons pour la même firme. Nous pourrions exposer deux jalons de carrière, un plus junior et un plus expérimenté. Nous aidons les entreprises à résoudre leurs enjeux liés à la main-d’oeuvre, par le design d’outils et de processus pour attirer et fidéliser les employés. Par exemple, cela peut être par des structures de rémunération, des programme de gestion de la relève, la rémunération à base d’actions, la communication de ces programmes aux employés, etc etc. J'ai oeuvré plus de 20 ans en entreprise avant de passer à la consultation, je peux parler de ces deux univers aussi. Au plaisir !",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=9",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Nathalie Dinelle",
-    "title": "Ergothérapeute-propriétaire ",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Maîtrise ou DESS",
-    "description": "L’ergothérapeute en pédiatrie aide à promouvoir le bon développement des enfants et vient en aide aux enfants qui vivent des défis dans leur fonctionnement quotidien.  En réadaptant les habiletés déficitaires, en adaptant les tâches ou l’environnement, notre but est de rendre les enfants les plus autonomes dans leur quotidien. \r\nA titre de propriétaire-associée de mon entreprise/clinique je dois également gérer toute la partie administrative d’une compagnie. ",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=606",
-    "holland_codes": [
-      "S",
-      "R",
-      "E"
-    ]
-  },
-  {
-    "name": "Marie-Anne Beauchamp",
-    "title": "Technologue en électrophysiologie médicale ",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "Le technologue en électrophysiologie médicale travaille majoritairement dans les centres hospitaliers en cardiologie et en neurologie. Les tâches principales consistent à faire passer des examens qui enregistrent l’activité électrique du corps à l’aide d’électrodes (électrocardiogrammes, tapis roulants, électroencéphalogrammes…). Il agit donc auprès des patients et travaille en étroite collaboration avec les cardiologues et neurologues. ",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=625",
-    "holland_codes": [
-      "I",
-      "R",
-      "S"
-    ]
-  },
-  {
-    "name": "Jorge Mendoza",
-    "title": "Professeur Agrégé à HEC et Conseiller Scientifique en Intelligence artificielle chez IVADO LABS",
-    "domain": "Génie et sciences pures",
-    "formation": "Doctorat",
-    "description": "Mon métier c'est la recherche scientifique. Mon domaine c'est la Recherche Opérationnelle, une sous discipline de l'intelligence artificielle se trouvant à l'intersection entre les mathématiques et de l'informatique. En deux mots, ma recherche consiste à modéliser, à l'aide d'outils mathématiques, des problèmes d'optimisation industrielle (p. ex., la conception d'un réseau logistique, la planification de la maintenance d'un parc de machines) et à concevoir des algorithmes pour résoudre ces modèles. J'exerce mon métier de chercheur dans deux structures: HEC Montréal et IVADO LABS (IL). À l'université, ma mission consiste à faire de la recherche fondamentale et à former de futurs chercheurs (c.-à-d., des doctorants et des postdoctorants). Chez IL nous nous avons une mission complètement différente: sortir des labos universitaires les technologies de pointe de l’IA afin de les mettre à l’œuvre dans le monde réel.",
-    "period": "14h00 à 14h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=657",
-    "holland_codes": [
-      "I",
-      "S",
-      "A"
-    ]
-  },
-  {
-    "name": "Virginie Riel",
-    "title": "Gestionnaire de produits / Product Manager",
-    "domain": "Administration",
-    "formation": "Maîtrise ou DESS",
-    "description": "Responsable des stratégies de marketing, ventes, inventaires, de la relation avec les fournisseurs ainsi que de l’analyse de données relativement aux lignes de produits offertes par un distributeur/ grossiste. Ce type de poste est présent dans toutes les industries (mode, cosmétiques, alimentations, produits pharmaceutiques, produits et pièces pour automobiles, matériaux de construction, etc.)",
-    "period": "14h00 à 14h45",
-    "link_reperes": null,
-    "holland_codes": [
-      null,
-      null,
-      null
-    ]
-  },
-  {
-    "name": "Pier-Samuel  Delisle ",
-    "title": "Associé fondateur CPA dans un cabinet et propriétaire d’entreprises immobilier commercial ",
-    "domain": "Administration",
-    "formation": "Maîtrise ou DESS",
-    "description": "Aider les entrepreneurs à comprendre et à améliorer leurs résultats et le développement de centre commercial.",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=88939",
-    "holland_codes": [
-      "C",
-      "E",
-      "S"
-    ]
-  },
-  {
-    "name": "Francis Patenaude",
-    "title": "Coordonnateur aux arts de la scène",
-    "domain": "Arts",
-    "formation": "Baccalauréat",
-    "description": "Les salles de spectacle du Québec, animées par des équipes polyvalentes, dynamiques et passionnées, font face à des défis contemporains tout aussi stimulants que variés. Découvrez le quotidien du coordonnateur aux arts de la scène de L'Anglicane à Lévis, qui veille à ce que la programmation, les communications, le développement de public, les opérations, la billetterie, l'accueil du public et des artistes, les ressources humaines ainsi que 1001 autres aspects se déroulent rondement et évoluent au fil du temps.",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&IdDon=829&TypeDonnee=P&EnButinage=1",
-    "holland_codes": [
-      "A",
-      "E",
-      "R"
-    ]
-  },
-  {
-    "name": "Claudia Doyle",
-    "title": "Avocate de la défense en droit criminel & pénal",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Baccalauréat",
-    "description": "Je représente des citoyens qui font l'objet d'accusations criminelles devant les tribunaux. Le rôle d'un avocat de la défense est d'utiliser tous les moyens légaux disponibles afin de faire acquitter son client des infractions criminelles qui pèsent contre lui, ou de négocier une sentence sur plaidoyer de culpabilité. J'accomplis cette tâche en faisant une analyse des dossiers d'enquêtes criminelles et dénichant les moindres erreurs de fond ou de forme qui pourraient bénéficier à mon client et présente le tout à un juge lors d'un procès. Le champ de spécialité de notre étude se concentre sur les dossiers de meurtre, les enquête impliquant le crime organisé, ainsi que les dossiers de fraude.  ",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Eliane Beaulieu",
-    "title": "Procureure aux poursuites criminelles et pénales- Coordonnatrice provinciale en violence sexuelle ",
-    "domain": "Politique, justice et sécurité",
-    "formation": "Barreau",
-    "description": "Communément appelés procureurs de la Couronne, nous veillons au maintien d une société juste et sure en intentant au nom de l Etat des poursuites criminelles contre les suspects d infractions criminelles, contre lesquels nous estimons etre en mesure de faire une preuve hors de tout doute raisonnable de leur culpabilité. Apres avoir oeuvré une quinzaine d années dans les salles de cour, je m occupe maintenant exclusivement des infractions a caractère sexuel, en coordonnant le traitement des dossiers, tant em concertation avec des ministères et organismes partenaires, qu a l interne, au Directeur des poursuites criminelles et pénales. Je m assure tout particulièrement de défendre l intérêt légitime des victimes dabs le casre du traitement des dossiers de nature sexuelle. ",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
-    "holland_codes": [
-      "E",
-      "A",
-      "S"
-    ]
-  },
-  {
-    "name": "Félicia Richard-Dorais",
-    "title": "Hygiéniste dentaire",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "L'hygiéniste dentaire est un professionnel de la santé autonome. Au coeur de ses priorités sont la promotion, la prévention et la protection contre les affections buccodentaires. L'hygiéniste dentaire peut exercer sa profession dans différents milieux stimulants.\r\n\r\nSes tâches consistent, entre autres, au dépistage des maladies buccodentaires, à enseigner les principes d'hygiène buccale, à la prise et à l'interprétation des radiogrammes, au détartrage, au polissage, à appliquer les techniques de blanchiment des dents, et bien plus encore.\r\n\r\nVous aimez le contact avec une clientèle variée, vous avez le souci du détail et de la précision... Venez en connaitre davantage sur cette belle profession!",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=632",
-    "holland_codes": [
-      "I",
-      "A",
-      "R"
-    ]
-  },
-  {
-    "name": "Nadia Perreault",
-    "title": "Enseignante au primaire",
-    "domain": "Enseignement",
-    "formation": "Baccalauréat",
-    "description": "Un(e) enseignant (e) au primaire planifie des activités d'apprentissage variées et stimulantes en se basant sur le programme de formation de l'école québécoise et sur la progression des apprentissages, les enseigne à ses élèves en utilisant différentes méthodes et les évalue afin de pouvoir porter un jugement quant à leur cheminement, en regard des attentes de fin de niveau et de fin de cycle. De plus, un enseignant au primaire doit développer des pratiques de gestion de classe efficaces afin que les élèves arrivent à s'engager activement dans leurs apprentissages et afin que le climat de classe soit harmonieux et propice aux échanges respectueux et aux apprentissages.",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=688",
-    "holland_codes": [
-      "S",
-      "A",
-      "I"
-    ]
-  },
-  {
-    "name": "Brassard Charlie",
-    "title": "Directeur de compagnie",
-    "domain": "Administration",
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "Directeur d'une compagnie en amélioration énergétique et résidentielle à Québec. Domaine des ventes, entreprenariat et service client. ",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=46&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=46&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=13",
-    "holland_codes": [
-      "E",
-      "S",
-      "C"
-    ]
-  },
-  {
-    "name": "Laurence Gour",
-    "title": "Infirmière praticienne spécialisée en première ligne ",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Maîtrise ou DESS",
-    "description": "Je suis infirmière de famille. Je fais des suivis de patients de 0 à 100 ans. J’ai une spécialité en santé des femmes et avec la clientèle immigrante/réfugiée. ",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=639",
-    "holland_codes": [
-      "S",
-      "I",
-      "A"
-    ]
-  },
-  {
-    "name": "Pierre Bouchard",
-    "title": "Ingenieur systeme - Airbus Canada",
-    "domain": "Génie et sciences pures",
-    "formation": "Baccalauréat",
-    "description": "Gestion et approbation des changements sur le système de carburant du A220 (avion commercial). Travail avec dessins assistés par ordinateur et multiples outils de gestion de données. Principalement un travail de bureau avec des collaborateurs de partout dans le monde.",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=329",
-    "holland_codes": [
-      "I",
-      "R",
-      "E"
-    ]
-  },
-  {
-    "name": "Isa Murray",
-    "title": "Ingénieure de projet - Allemagne",
-    "domain": "Génie et sciences pures",
-    "formation": "Baccalauréat",
-    "description": "Vous rêvez de travailler à l'étranger? Après un peu moins de 2 ans sur le marché du travail, j'ai sauté sur l'opportunité de me relocaliser en Allemagne au sein de CAE. Je suis maintenamt responsable de tout l'aspect technique (coordination, développement, déploiement, acceptance avec le client) des simulateurs de vol de l'armée allemande. C'est avec grand plaisir que je vous partegrai mon cheminement entre le CSS, Trois-Rivières, Ottawa, Montreal et enfin Aix-la-Chapelle. Si l'expérience d'expat vous intéresse, c'est par ici!",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=30&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=30&NoPage=1&NoResultat=25&Provenance=10&Niveau=4&IdFiltre=0&IdDon=298",
-    "holland_codes": [
-      "I",
-      "R",
-      "E"
-    ]
-  },
-  {
-    "name": "Michelle Taillefer",
-    "title": "Médecin résidente en Urologie",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat",
-    "description": "Je suis médecin résidente en urologie, une des nombreuses spécialités chirurgicales. Plus précisément, l'urologie est la spécialité médico-chirurgicale spécifique aux reins, aux voies urinaires des femmes ou des hommes, ainsi qu'au système reproducteur masculin.\r\n\r\nDurant la conférence, je vous parlerai de ma spécialité, mais surtout du parcours scolaire nécessaire pour devenir chirurgien(ne), des différentes options de carrières en spécialités chirurgicales et des considérations à avoir avant de choisir cette voie de carrière.\r\n\r\nComme je suis une jeune résidente, j'espère pouvoir vous transmettre des informations plus réalistes et à jour sur ce parcours (J'étais à votre place il n'y a pas si longtemps!)",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=573",
-    "holland_codes": [
-      "I",
-      "S",
-      "A"
-    ]
-  },
-  {
-    "name": "William Paterson",
-    "title": "Représentant pharmaceutique ",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Baccalauréat",
-    "description": "Mon travail consiste à rencontrer des médecins et des pharmaciens pour faire la promotion des produits de la compagnie pour laquelle je travaille (GSK). Je dois donc vendre les médicaments, informer les intervenants en santé, en faire des clients et les garder.",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1937",
-    "holland_codes": [
-      "E",
-      "I",
-      "S"
-    ]
-  },
-  {
-    "name": "Etienne Gendron",
-    "title": "Pharmacien en établissement de santé ",
-    "domain": "Science de la santé humaine et animal",
-    "formation": "Doctorat professionnel en pharmacie + Maîtrise en pharmacothérapie avancée",
-    "description": "Le pharmacien, c’est l’expert du médicament. Il joue un rôle central dans notre système de santé, car c’est à lui que revient la responsabilité de vérifier le bon usage des médicaments auprès de la population.\r\n\r\nPour devenir pharmacien, une formation universitaire d’au moins quatre ans est nécessaire. Une fois docteurs en pharmacie, tous les diplômés doivent adhérer à l’Ordre des pharmaciens du Québec et respecter le Code de déontologie des pharmaciens ainsi que les lois et règlements se rapportant à la pratique de la pharmacie. Par la suite, pour une pratique en milieu hospitalier, une maîtrise de un an et demi est nécessaire afin de se spécialiser.\r\n\r\nQue fait le pharmacien?\r\nLe pharmacien travaille en collaboration avec les médecins, les infirmières, son équipe technique ainsi que les autres professionnels de la santé.\r\n\r\nIl vérifie que vos médicaments sont sécuritaires pour vous, mais surtout, que ceux-ci répondent aux objectifs thérapeutiques. Le pharmacien se pose plusieurs questions, notamment :\r\n\r\nAvez-vous besoin d’une thérapie médicamenteuse que vous ne recevez pas?\r\nPrenez-vous un médicament dont vous n’avez plus besoin?\r\nPrenez-vous un médicament qui n’est pas approprié à votre condition?\r\nPrenez-vous un médicament à une dose trop élevée ou trop faible?\r\nEtc.\r\nVotre pharmacien peut aussi :\r\n\r\nVous prescrire des médicaments pour des problèmes de santé simples, comme les allergies saisonnières ou l’eczéma, ou à des fins préventives comme la cessation tabagique.\r\nAjuster l’ordonnance du médecin pour s’assurer que le dosage est adéquat, par exemple.\r\nDemander des analyses de laboratoire pour surveiller l’efficacité et la sécurité des médicaments.\r\nProcéder à la vaccination.\r\nBien entendu, tout cela se fait dans une relation de confiance avec le patient.\r\n\r\nDifférents milieux de pratique\r\nLe pharmacien peut choisir de travailler dans une multitude de milieux, en plus de la pharmacie de quartier, établissements de santé, groupes de médecine de famille (GMF) et autres (organismes gouvernementaux, compagnies pharmaceutiques, armée, etc.).\r\n\r\nDescription tirée du site web : Ordre des pharmaciens du Québec\r\nhttps://www.opq.org/protection-du-public/votre-pharmacien-et-vous/role-du-pharmacien/",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=597",
-    "holland_codes": [
-      "I",
-      "E",
       "S"
     ]
   },
   {
     "name": "Pierre-Marc Théberge",
-    "title": "Sergent-détective au SPVM",
-    "domain": "Politique, justice et sécurité",
+    "title": "Sergent-Détective SPVM",
+    "domain": "TBD",
     "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "L’enquêteur entreprend toutes les démarches nécessaires pour élucider un crime.  Il prend en charge la scène de crime et s'assure de collecter toutes les informations possibles sur les lieux en faisant appel aux témoins, aux patrouilleurs et au service d'identification judiciaire.\r\n\r\nSelon le type de crime, l’enquêteur :\r\n- Participe à l’élaboration de la stratégie d’enquête\r\n- Recueille les informations pertinentes qui lui permettent de bâtir la preuve\r\n- Procède aux interrogatoires \r\n- Fait des recherches et dirige le dossier lors des différentes étapes judiciaires\r\n- Encadre et informe les victimes, témoins et autres intervenants concernés tout au long des procédures et prend soin de sécuriser les victimes\r\n- Tente d’anticiper toute activité criminelle pouvant perturber la sécurité publique.  Il fait équipe avec le personnel des autres unités du Service (postes de quartier, services à la communauté, etc.)\r\n- Témoigne lors des procès pour des dossiers qu'il a travaillés",
-    "period": "15h00 à 15h45",
+    "description": "Sergent-Détective aux Enquêtes Criminelles du Service de Police de la Ville de Montréal ",
+    "period": "11h",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1007",
     "holland_codes": [
       "E",
@@ -1232,13 +98,755 @@
     ]
   },
   {
-    "name": "Bruno Ouellette",
-    "title": "Psychologue sportif",
-    "domain": "Relation d'aide; Sport, loisirs et divertissement",
+    "name": "Eliane Beaulieu ",
+    "title": "Procureure aux poursuites criminelles et pénales ",
+    "domain": "TBD",
+    "formation": "+ le Barreau",
+    "description": "J assure, au nom de l État, la responsabilité des poursuites criminelles et pénales. ",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Stéphan Laperriere",
+    "title": "Instrumentation Sales Specialist - Mass Spectrometry (Chemistry & Physics)",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je viens en aide aux gens de grands laboratoires à choisir le système analytique le plus approprié pour leurs analyses chimiques ou physiques. \n\nJe voyage à travers le pays pour présenter les forces de notre instrumentation et mieux comprendre les multiples applications-clients.\n\nComme la qualité de l'eau, l'intégrité des turbines, l’efficacité des panneaux solaires ou le contrôle antidopage.\n\nJe toucherai aussi aux différence entre :\nField Sales, Field Service, et Application Scientist. \n",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=27&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=27&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=235",
+    "holland_codes": [
+      "I",
+      "A",
+      "R"
+    ]
+  },
+  {
+    "name": "Robert Majeau",
+    "title": "PDG de Division Sports-Rep et PDG de Les CampsRep",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Être en affaires, c'est une question d'attitude, de passion et de rigueur!\nLors de cette conférence, je vais vous parler de mon cheminement pour devenir un homme d'affaires qui m'a mené à créer l'un des plus importants camp de vacances spécialisé en gymnastique et en acrobaties au monde!\nJe vais vous expliquer la stratégie que j'utilise pour maximiser l'efficacité entre mes différentes compagnies!\nEn affaires, il y a 2 façons de faire de l'argent, nous en parlerons!\nComment saisir les opportunités qui s'offrent à nous pour se démarquer en affaires?\nQuels sont les avantages et les défis qui vous attendent quand vous serez une femme ou un homme d'affaires?\nVous pourrez me poser vos questions!\nJe vous attends en grand nombre!\nRobert Majeau",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=46&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=46&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=13",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
+    ]
+  },
+  {
+    "name": "Charles-Olivier Gauthier",
+    "title": "Planificateur financier et conseiller en placements",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Conseiller les clients afin d'optimiser leur situation financière",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=97",
+    "holland_codes": [
+      "E",
+      "C",
+      "S"
+    ]
+  },
+  {
+    "name": "Caroline St-Laurent",
+    "title": "Ergothérapeute ",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "L’ergothérapeute est un professionnel de la réadaptation qui œuvre auprès d’une multitude de clientèles et dans une diversité de milieux pour aider les gens à accomplir et s’engager dans leurs activités au quotidien.",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=606",
+    "holland_codes": [
+      "S",
+      "R",
+      "E"
+    ]
+  },
+  {
+    "name": "Jean-Christophe Guay",
+    "title": "Pharmacie propriétaire ",
+    "domain": "TBD",
     "formation": "Doctorat",
-    "description": "Accompagnement de plus de 30 médaillés olympiques et participation à plus de 4 jeux olympiques dans un rôle de psychologue sportif. J'aide, j'écoute, j'enseigne, je pose des questions. Mes sujets : le stress, l'anxiété de performance, la confiance, la motivation, etc.",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=694",
+    "description": "Pharmacien propriétaire d’un Jean Coutu, gradué depuis 2018.\nLe quotidien du pharmacien est d’assurer la sécurité de la thérapie médicamenteuse et le suivi.",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=598",
+    "holland_codes": [
+      "I",
+      "E",
+      "S"
+    ]
+  },
+  {
+    "name": "Nathalie Bégin",
+    "title": "Dirigeante d'agente - courtier immobilier",
+    "domain": "TBD",
+    "formation": "Diplôme d'études professionnelles (DEP)",
+    "description": "Je suis courtier immobilier depuis plus de 20 ans, maintenant je dirige une agence de 300 courtiers en immobilier.   Le courtage a bien évolué depuis 20 ans mais ce métier est toujours aussi fantastique et fascinant.   Aider les gens à trouver la propriété de leur rêve ou les aider à vendre leur bien le plus précieux est extrêmement gratifiant.  C'est un travail où votre rétribution est presque sans limite.   C'est un travail également qui vous permet de gérer votre temps, d'être votre propre patron tout en faisant partie d'une agence où on vous offrira du soutien, des services, de l'aide et de la formation afin de vous aider à réaliser vos objectifs.   Le travail de courtier immobilier n'est jamais routinier.   Vous aurez à devenir des généralistes ou spécialistes dans différents domaines comme le droit, les finances, le marketing, la psychologie et bien d'autres.  Le courtage est encadré par un organisme semblable à un ordre professionnel, on doit être formé, passé un examen pour obtenir son droit de pratique et suivre un programme de formation continue pour toujours être à l'affut des nouveautés.   Auparavant, le courtage était souvent une deuxième carrière.  De nos jours,  de plus en plus de jeunes décident de débuter dans l'immobilier à un très jeune âge.  Sachez que plus vous êtes jeune et plus vite vous atteindrez des sommets.  Si vous désirez travailler dans un milieu stimulant, où la routine n'existe pas, avec des possibilités infinies au niveau salarial.  C'est pour vous !",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=987",
+    "holland_codes": [
+      "E",
+      "C",
+      "S"
+    ]
+  },
+  {
+    "name": "Gabriel Bourret",
+    "title": "Attaché politique/ recherchiste assemblée nationale du Québec ",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Mon travail est d’aider les députés à se préparer à questionner le gouvernement sur les projets de loi, à écrire des amendements lors de l’étude des lois et de conseiller les députés sur les enjeux politiques dans l’actualité. ",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1893",
+    "holland_codes": [
+      "S",
+      "E",
+      "A"
+    ]
+  },
+  {
+    "name": "Carole-Anne Ashkar",
+    "title": "Pompière ",
+    "domain": "TBD",
+    "formation": "DEP et/ou DEC",
+    "description": "Un emploi rempli d’action, de travail d’équipe et de défis! C’est la carrière de pompier/ pompière qui t’attend. Un métier qui vient en aide aux gens, qui demande un aspect physique et psychologique fort. Chaque appel est différent, chaque situation est unique. C’est un emploi qui te sort continuellement de ta zone de confort et qui te pousse à te dépasser quotidiennement. Être pompier n’est pas juste de combattre des incendies, c’est de donner les premiers soins, d’être les premiers sur un accident de la route, aider des gens pris tout en haut d’une grue ou dans un espace clos… bref être pompier/ pompière est le meilleur métier!",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1010",
+    "holland_codes": [
+      "R",
+      "E",
+      "S"
+    ]
+  },
+  {
+    "name": "Fanny  Brodeur ",
+    "title": "Avocate fiscaliste ",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Je rédige des contrats, analyse et interprète les lois, donne des conseils et fait de la planification légale et fiscale.\n\nJe passe mes journées à rédiger, lire, analyser, discuter, échanger, négocier et rencontrer des gens. Je fais des recherches, j’analyse, je forme mes opinions et en discute. Je travaille beaucoup avec les outils technologiques.",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Vanessa  Ulrich ",
+    "title": "Criminologue",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je travaille actuellement au CLSC pour les services en 1ere ligne. J’aide des gens en processus de séparation, en deuil, des femmes dans des situations de violence conjugale. Je travaille aussi avec plusieurs problèmes de santé mentale, comme les troubles anxieux, les troubles dépressifs, etc. Je peux aussi intervenir auprès de personnes suicidaires pour les aider à aller mieux et j’anime un groupe sur la gestion des émotions. En gros, mon travail, c’est de rappeler aux gens qu’ils ont plusieurs forces pour s’en sortir et de les aider à trouver des solutions pour aller mieux.",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=762",
+    "holland_codes": [
+      "S",
+      "I",
+      "A"
+    ]
+  },
+  {
+    "name": "Justin Brazeau",
+    "title": "Policier au SPVM",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Agent de quartier au sein du SPVM - Ancien étudiant au CSS",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1008",
+    "holland_codes": [
+      "E",
+      "R",
+      "C"
+    ]
+  },
+  {
+    "name": "Karelle Savard",
+    "title": "Technicienne aux décors et costumes ",
+    "domain": "TBD",
+    "formation": "Plusieurs formations sont données, mais pas nécessairement requises",
+    "description": "Je travaille en cinéma, théâtre et événementiel. Je suis technicienne aux décors et costumes. Mon métier principal est celui de peintre scénique, mais je suis aussi habilleuse(costumière), scénographe, accessoiriste et plus encore! Je suis une artiste de la grande famille du «backstage»! ",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=924",
+    "holland_codes": [
+      "A",
+      "I",
+      "S"
+    ]
+  },
+  {
+    "name": "Marc-Andre Amyot",
+    "title": "Associé fondateur - Winston Marketing",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je suis embauché par des entreprises de toutes sortes afin de les appuyer avec leur marketing, principalement leur positionnement stratégique comme employeur et la création de différents contenus (médias sociaux, site Web, rédactions variées).\n\nJe fais autant du développement des affaires que du réseautage ou de la création, et ce, chaque jour. Je gère une entreprise de bientôt 4 employés, ce qui implique aussi une capacité à administrer des budgets, gérer les payes et vivre avec les hauts et les bas de l'entrepreneuriat.",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=25&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=25&NoPage=1&NoResultat=13&Provenance=10&Niveau=4&IdFiltre=0&IdDon=7",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
+    ]
+  },
+  {
+    "name": "Elisa P.Serret ",
+    "title": "Reporter télé /Radio-Canada ",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je suis reporter pour Radio-Canada. Je couvre en grande partie l'actualité liée à l'environnement et aux changements climatiques. ",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=810",
+    "holland_codes": [
+      "A",
+      "I",
+      "S"
+    ]
+  },
+  {
+    "name": "Jean-François  Lavoie",
+    "title": "Pilote commandant de bord",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Pilote commandant de bord sur Airbus 330 et Airbus 321, instructeur et pilote vérificateur,  je fais des vols internationaux. Je suis finissant du Cégep de Chicoutimi (CQFA). Je crois avoir une bonne expertise pour vous partager ma passion de l’Aviation et vous expliquer toutes les facettes de ce domaine fascinant qui offre un avenir prometteur.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=8&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=8&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=533",
+    "holland_codes": [
+      "I",
+      "R",
+      "C"
+    ]
+  },
+  {
+    "name": "Martin Leroux",
+    "title": "Ingénieur en aéronautique / Pilote profesionnel d'avion",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Gestion de projets en aviation et instructeur-pilote pour former les aviateurs de demain ! ",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=11&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=11&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=329",
+    "holland_codes": [
+      "I",
+      "R",
+      "E"
+    ]
+  },
+  {
+    "name": "Brigitte Blanchard",
+    "title": "Chargée de cours en criminologie ",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Un criminologue est une personne qui a un baccalauréat en criminologie et membre de l'Ordre professionnel des criminologues du Québec. Il travaille auprès des personnes contrevenantes ou les victimes d'actes criminels, soit en relation d'aide ou en analyse du phénomène criminel. ",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=762",
+    "holland_codes": [
+      "S",
+      "I",
+      "A"
+    ]
+  },
+  {
+    "name": "Chloé Brassard",
+    "title": "Nutritionniste-diététiste",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Les nutritionnistes-diététistes sont les seuls experts reconnus en alimentation et en nutrition au Québec. Il ou elle peut exercer dans plusieurs domaines, notamment dans le réseau de la santé et en consultation privée. J'ai la chance de travailler dans ces 2 secteurs : en milieu hospitalier en collaboration avec l'équipe médicale (dysphagie, nutrition entérale et parentérale, covid, maladies chroniques, dénutrition) & en consultation 1-1 avec mes clients par ma propre entreprise (pédiatrie, troubles du comportement alimentaire, troubles digestifs). Être nutritionniste-diététiste, c'est varié!",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=601",
+    "holland_codes": [
+      "I",
+      "S",
+      "E"
+    ]
+  },
+  {
+    "name": "Vincent Morin",
+    "title": "Paramédic ",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Les paramédics, aussi appelés ambulanciers, interviennent auprès des personnes en détresse lorsqu'un appel est logé au 9-1-1. Ils se déplacent dans toutes sortes de milieux (domiciles, milieux de travail, événements spéciaux, etc.). Ils aident des clientèles variées qui ont souvent des besoins variés. Les interventions peuvent être de nature médicale, traumatique, psychosociale ou même préventive. Ils gèrent une mini salle d'urgence ambulante. Le tout, sans oublier qu'ils peuvent parfois brûler les feux rouges et rouler dans les voies d'accotement ! ",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=640",
+    "holland_codes": [
+      "S",
+      "I",
+      "R"
+    ]
+  },
+  {
+    "name": "Sébastien Darche",
+    "title": "Directeur Artistique - Designer Graphique SR",
+    "domain": "TBD",
+    "formation": "Possible de faire un DEC et un BACC ou les 2!",
+    "description": "Bonjour, je suis Seb, un père de 42 ans, directeur artistique et designer graphique habitant à Montréal, QC. Ma passion pour le design graphique m’a permis de voyager, rencontrer des gens intéressants et surmonter plusieurs défis depuis plus de 20 ans.\n\nJe crois fermement que chaque projet qui aboutit entre mes mains a l’opportunité de devenir excitant, unique, dramatique et inhabituel. Une marque est beaucoup plus qu’un ensemble de guides, de logos et de lettres. Les marques sont vivantes, elles sont de la musique et du son, éclairs et matériel.\n\nJ'ai eu la chance de travailler entre autres avec des joueurs de la LNH, (Crosby, Price, McDavid), pour les Canadiens de Montréal, le CF Montréal, Pajar, Reebok, Adidas et tout récemment pour une compagnie oeuvrant dans l'électrification des véhicules hors route; Taiga Motors inc.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=829",
+    "holland_codes": [
+      "A",
+      "E",
+      "R"
+    ]
+  },
+  {
+    "name": "Dany Gagné",
+    "title": "Enseignante sciences",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je vais te l’envoyer bientôt",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=679",
+    "holland_codes": [
+      "S",
+      "I",
+      "A"
+    ]
+  },
+  {
+    "name": "Rui Barao",
+    "title": "Vice-président adjoint, affaires juridiques",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Avocat travaillant en entreprise et spécialisé en financement corporatif, particulièrement en capital de risque (soit le financement d’entreprises technologiques prometteuses).  J’ai aussi de l’expérience de pratique au sein d’un cabinet privé.  ",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Raphaëlle  Côté-Leduc",
+    "title": "Directrice Ressources Humaines",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Gestion stratégique, dotation, relations de travail, rémunération, culture ou développement organisationnel? Si tu ne sais pas tout ce que ceci veut dire mais tu as toujours été intéressé à savoir ce qu'une directrice RH fait, cette conférence est pour toi! Si aussi être au cœur d’une profonde transformation du marché du travail t'interpelle, mais plus particulièrement de l’environnement de travail, qui devient un lieu d’apprentissage, de socialisation et de travail en équipe. Que ce changement soit stratégique, technologique, organisationnel, structurel ou culturel, ce qui me passionne est d’ancrer mon action dans une approche plus dynamique. ",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=9",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
+    ]
+  },
+  {
+    "name": "Martel Benoit",
+    "title": "Président (entrepreneur)",
+    "domain": "TBD",
+    "formation": "Aucune formation spécifique requise",
+    "description": "Mon rôle consiste à diriger une entreprise en collaboration avec des équipes multidisciplinaires.  Être un dirigeant est un rôle avec des tâches extrêmement variées.  Je veille au bon déroulement de plusieurs aspects de la vie active d’une entreprise au quotidien (gestion des employés, finance, vente, marketing, opérations, etc), à sa croissance, sa pérennité ainsi que de m’assurer de rester compétitif et de se démarquer de la concurrence",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=10&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=10&NoPage=1&NoResultat=6&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1839",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
+    ]
+  },
+  {
+    "name": "Maryse Belanger",
+    "title": "Avocate - Directrice de la Clinique juridique du Barreau du Québec",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "J'ai pratiqué le droit de la famille en cabinet privé pendant 20 ans, dont 13 ans à mon compte. J'ai plaidé devant la Cour supérieure et la Cour d'appel. J'ai représenté des adultes, mais aussi des enfants pris dans le conflit de séparation de leurs parents. \n\nJe suis maintenant directrice de la Clinique juridique du Barreau du Québec, où je suis gestionnaire depuis 3 ans. Avec la participation des étudiants de l'École du Barreau, la Clinique juridique offre des services de consultation et de conseils juridiques gratuits aux citoyens du Québec.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "David Bédard-Barrette",
+    "title": "Architecte",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Les architectes conceptualisent, planifient et élaborent des plans devis pour la construction et la rénovation de bâtiments commerciaux, institutionnels et résidentiels. Les architectes : \n\n•        Consultent les clients afin de déterminer le genre, le style et le but des rénovations ou de la nouvelle construction d'un édifice;\n•        Conceptualisent et conçoivent des immeubles, et établissent les bases de conception pour les plans, les devis descriptifs, les matériaux de construction, les coûts et les horaires de construction;\n•        Préparent des esquisses et des maquettes pour les clients;\n•        Préparent les dessins, les devis descriptifs et tout autre document de construction pour les entrepreneurs et le personnel de métier, ou en supervisent l'exécution;\n•        Préparent des documents d'appel d'offres, participent à la négociation de contrats et accordent des contrats de construction;\n•        Surveillent les activités sur les chantiers de construction afin d'assurer la conformité aux devis descriptifs;\n•        Exécutent des études de faisabilité et des analyses financières dans des projets de construction.\n\nPour devenir architecte, la personne peut emprunter plusieurs parcours scolaires jugés équivalents avant l’entrée à l’Université. Toutefois, elle devra successivement compléter un baccalauréat en sciences de l’architecture et une maîtrise en architecture dans l’une des 12 écoles canadiennes dont la formation est accréditée par le Conseil Canadien de Certification en Architecture (CCCA). Ces formations donnent accès au stage et aux examens de l’Ordre des Architectes du Québec, afin d’éventuellement obtenir un permis d’exercice en tant qu’architecte dans la Province du Québec\n",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=13&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=13&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=347",
+    "holland_codes": [
+      "A",
+      "I",
+      "R"
+    ]
+  },
+  {
+    "name": "Donna Michaud",
+    "title": "Surintendante aux opérations maritimes et ferroviaires",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "J'organise la planification entrante (import) et sortante(export) sur les navire en direction de l'Europe et sur les trains vers l'Ouest canadien et l'est des États-Unis. (conteneur)",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=2233",
+    "holland_codes": [
+      "I",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Ariane Carrière-Roberge",
+    "title": "Ingénieure en Aeronautique, Spécialiste en Sécurité des Occupants",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Mon travail consiste à réduire le nombre de morts et de blessés causés par des accidents aériens en prévoyant un environnement sûr pour les passagers et les membres d’équipage à l’intérieur de l’avion. La sécurité des occupants comprend le design de l’intérieur de la cabine, la configuration des sorties de secours, les évacuations d’urgences, le système d’oxygène et d’éclairage de secours, l’installation des équipements d’urgences et de sécurité dans l'avion, ainsi que l’installation et les tests de tous les sièges. Nous sommes responsables de l'inspection de la cabine de tous les avions qui quittent l'usine de fabrication, conjointement avec les autorités de Transport Canada.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=329",
+    "holland_codes": [
+      "I",
+      "R",
+      "E"
+    ]
+  },
+  {
+    "name": "Frédérique Forest",
+    "title": "Camionneuse",
+    "domain": "TBD",
+    "formation": "Diplôme d'études professionnelles (DEP)",
+    "description": "Je suis camionneuse et créatrice du groupe camionneuses Québec qui encourage et promouvoit les femmes dans l’industrie du transport et du remorquage. Je donne des formations pour avoir sa classe 1-2-3, je participe à des événements de camions et nous allons à la rencontre des gens du milieu.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1441",
+    "holland_codes": [
+      "R",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "name": "Stéphanie  Chartrand",
+    "title": "Designer d'intérieur commercial",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Le design d'intérieur consiste à concevoir l'intérieur d'espaces autant sur le plan de l'aménagement que de l'esthétisme.\nCe métier fait valoir autant la créativité que l'aspect technique de la construction. \n\nLe designer sera donc amené à faire des plans, à choisir des matériaux, des meubles, rencontrer les clients et travailler sur le chantier de construction. ",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=921",
+    "holland_codes": [
+      "A",
+      "I",
+      "S"
+    ]
+  },
+  {
+    "name": "Audrey Bouchard ",
+    "title": "Capitaine policiere division des enquêtes ",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Policière de profession, le poste de capitaine est un grade au niveau de la gestion policière. Au quotidien, je m’assure du bon déroulement des opérations et de l’administration policière de la division d’un service de police. ",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=17&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=17&NoPage=1&NoResultat=10&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1008",
+    "holland_codes": [
+      "E",
+      "R",
+      "S"
+    ]
+  },
+  {
+    "name": "Ariane Levasseur",
+    "title": "Infirmière clinicienne",
+    "domain": "TBD",
+    "formation": "Minimalement un DEC, mais la majorité des infirmières ont un baccalauréat.",
+    "description": "Être infirmière clinicienne sur une unité de soins intensifs, c’est d’évaluer un patient dans un état critique, d’utiliser son jugement clinique, de collaborer avec une grande équipe et d’utiliser de la technologie. Afin d’être en mesure de déceler les complications qui peuvent survenir chez cette clientèle. L’infirmière mobilise de multiples connaissances acquises autant en milieu scolaire que professionnel afin d’œuvrer adéquatement auprès d’une clientèle diversifiée. Par exemple, des patients en état de choc, à la suite d’un accident, des chirurgies majeures, etc. En plus d’accompagner la famille et le patient dans l’épisode de soins.  ",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=614",
+    "holland_codes": [
+      "S",
+      "I",
+      "A"
+    ]
+  },
+  {
+    "name": "Jolène Tassé",
+    "title": "Orthopédagogue",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Je travaille auprès d’élèves présentant des troubles graves d’apprentissage et des troubles associés. J’exerce depuis une douzaine d’années dans une école spécialisée sur l’île de Montréal. Mon rôle consiste à soutenir les élèves dans leurs apprentissages en travaillant en sous-groupe ou en classe. Nos élèves, âgés de 6 à 21 ans, apprennent différemment. Entourés d’une équipe bienveillante, ils progressent à leur rythme et ils redécouvrent généralement le plaisir d’apprendre.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=7&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=7&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=781",
+    "holland_codes": [
+      "S",
+      "A",
+      "I"
+    ]
+  },
+  {
+    "name": "Mathieu Belleville",
+    "title": "Vice-Président Adjoint Services Juridiques",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Tu jongles avec l’idée de devenir avocat ? Viens me rencontrer et on discutera de la réalité, qui n’est pas tout à fait celle que tu vois dans les films! Il existe différentes façons de faire carrière comme avocat. La plus connue est de travailler en cabinet, comme Harvey Specter dans la série Suits sur Netflix. Je l’ai essayé, mais je n’ai pas vraiment aimé. J’ai donc opté pour un autre type de carrière, celle de conseiller juridique en entreprise. Puisque que l’entreprise est notre seul client, nous touchons plusieurs domaines du droit. Pour ma part, je fais notamment de la négociation de contrats, du droit des technologies de l’information et de la protection de la vie privée, en étant aussi gestionnaire d’une équipe d’avocats. Nous travaillons souvent avec des équipes de projet, ce qui nous permet d’apprendre beaucoup sur les opérations de notre entreprise. C’est une combinaison intéressante entre le droit et le monde des affaires. Je t’invite à participer à l’atelier dans lequel je t’expliquerai ce qu’un conseiller juridique en entreprise fait du lundi au vendredi. Un métier cool qui comporte plusieurs avantages auxquels tu n’as peut-être pas pensé. Au plaisir de t’y rencontrer.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Danny Germain",
+    "title": "Vice-président, Affaires réglementaires",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "En tant que Vice-président, Affaires réglementaires, je suis responsable de toutes les interactions avec Santé Canada et autres agences réglementaires mondiales concernant le développement, l'approbation des nouveaux médicaments ainsi que les changements post-commercialisation. Je suis également responsable de la pharmacovigilance, de l'information médicale et à l'assurance qualité. J'ai une équipe de plus de 200 personnes à travers le monde et un portfolio de plus de 300 produits. J'ai plus de 20 ans d'expérience en développement de produits innovateurs, génériques, biologiques et de santé naturelle.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=46&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=46&NoPage=1&NoResultat=24&Provenance=10&Niveau=4&IdFiltre=0&IdDon=80",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
+    ]
+  },
+  {
+    "name": "Véronique Dufour ",
+    "title": "Directrice Informatique (développement d'applications)",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Choisir et faire croître l'équipe de développeurs, planifier et faire le suivi des tâches, résoudre les problèmes de l'équipe, s'assurer de la qualité du travail, rencontrer et analyser les besoins des clients.\nÊtre méthodique, organisé et curieux. Avoir de bonnes habiletés en communication et un bon leadership.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=42&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=42&NoPage=1&NoResultat=29&Provenance=10&Niveau=4&IdFiltre=0&IdDon=369",
+    "holland_codes": [
+      "I",
+      "R",
+      "C"
+    ]
+  },
+  {
+    "name": "Pamela Dann",
+    "title": "Physiotherapeute ",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "La physiothérapie est une science de la santé dont le rôle est de vous permettre de retrouver le maximum de vos capacités physiques afin de pouvoir réaliser vos activités quotidiennes, votre sport et votre travail. Comme physiothérapeute, j'ai eu la chance de travailler dans le domaine sportif avec des équipes telles que les carabins de l'université de Montréal, travailler dans le privé avec une clientèle active et dans le réseau public au soutien à domicile avec une clientèle âgée ou avec déficience physique en perte d'autonomie. J'ai également exercé comme gestionnaire et actuellement, je suis chargée de projets régionaux dans les Laurentides. Et comme projet à l'hiver, je planifie devenir travailleur autonome. De nombreuses portes peuvent s'ouvrir comme physiothérapeute, il me fera plaisir de vous exposer l'éventail des possibilités qui s'offrent à vous et vous faire découvrir cette profession qui évolue grandement depuis quelques années.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=605",
+    "holland_codes": [
+      "S",
+      "I",
+      "R"
+    ]
+  },
+  {
+    "name": "Audrey Aucoin",
+    "title": "Sexologue",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Dans le cadre de mon emploi au Néo, je fais de la relation d'aide et de l'animation d'ateliers et de kiosques auprès des adolescent.e.s de Lanaudière. Je travaille dans les écoles et organismes de la région.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=707",
+    "holland_codes": [
+      "S",
+      "E",
+      "I"
+    ]
+  },
+  {
+    "name": "Sarah Mongeau",
+    "title": "Éducatrice canine et bien-être animal",
+    "domain": "TBD",
+    "formation": "Aucune formation spécifique requise",
+    "description": "Cours privés d'obéissance ou de groupe, Création et présentation d'ateliers-conférences (langage canin, prévention de morsure, etc), Bain canin, Coupe de griffes à domicile, Cours de sports canins, et plusieurs autres.  ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=147039",
+    "holland_codes": [
+      "R",
+      "E",
+      "C"
+    ]
+  },
+  {
+    "name": "Maxim Lamy",
+    "title": "Agente de bord ",
+    "domain": "TBD",
+    "formation": "Formation privée",
+    "description": "Je me présente, je m’appelle Maxim et je suis agente de bord chez Air Canada. Mon travail consiste à assurer la sécurité dans un aéronef allant de 137 à 450 passagers. Mon travail m’a permis de mettre les pieds sur 4 continents différents, de parcourir le monde et de de découvrir de merveilleuses cultures. Je souhaite partager ma passion pour l’aviation et le voyage. Au plaisirs de vous rencontrer!",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1057",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
+    ]
+  },
+  {
+    "name": "Sarah Legault",
+    "title": "Assistante à la caméra/camérawoman",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Le rôle de l'assistant à la caméra consiste à aider les directeurs de la photographie, les cadreurs et les caméramans avec l'équipement caméra sur un plateau de tournage (objectifs, trépied, batteries, cartes mémoires, éclairage, etc.). Que ce soit en cinéma, en télévision, en documentaire ou en direct, son rôle est essentiel au bon fonctionnement d'un plateau de tournage. Il fait partie d'une grande équipe de techniciens sans qui un film ou une émission ne serait pas possible (réalisateur, assistant à la réalisation, directeur de la photographie, preneur de son, accessoiriste, régisseur, éclairagiste, monteur, etc). C'est un métier parfait pour les gens qui adorent la technologie et les arts. C'est aussi un métier rempli de défis, non routinier et qui nous permet de participer activement à la culture de notre société.",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=2172",
+    "holland_codes": [
+      "A",
+      "E",
+      "R"
+    ]
+  },
+  {
+    "name": "Sarah-Jeanne Hebert",
+    "title": "Étudiante à la technique en éducation à l’enfance et éducatrice ",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Je fais du remplacement en service de garde et en garderie comme éducatrice et je poursuis présentement ma formation. Je termine en 2024",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=778",
+    "holland_codes": [
+      "S",
+      "A",
+      "I"
+    ]
+  },
+  {
+    "name": "Catherine Fidiadis ",
+    "title": "Courtier immobilier ",
+    "domain": "TBD",
+    "formation": "AEC",
+    "description": "Le métier de courtier immobilier consiste à aider plusieurs personnes à vendre, acheter ou même à louer une propriété! Notre but est de faciliter les transactions immobilières et de protéger nos clients. Nos horaires sont plutôt atypiques et notre lieu de travail est très vaste! Nos journées sont remplies de nouveaux défis. Si tu as la fibre entrepreneuriale et tu aimerais être ton propre patron, ce métier est fait pour toi! Pour réussir dans le milieu immobilier, il faut être déterminé et assidu! Au plaisir de te partager ma passion! ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=987",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
+    ]
+  },
+  {
+    "name": "Philippe Deziel-Bujold",
+    "title": "Agent des Services Frontaliers du Canada",
+    "domain": "TBD",
+    "formation": "Formation de 18 semaines au collège de l'ASFC",
+    "description": "Proteger les Canadiens et Canadiennes de la contrebande d'armes à feu illégales, drogues et passages clandestins. Intercepter vehicules, bateaux, aeronefs et en faire la verification. Effectuer des renvois de migrants inadmissibles, executer des mandats d'arrestation, saisir des montants d'argent comptant à des fins de crime organisé. ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=126",
+    "holland_codes": [
+      "C",
+      "S",
+      "R"
+    ]
+  },
+  {
+    "name": "Alexandra Desautels",
+    "title": "Ingenieure en materiaux et procedes dans le domaine aerospatiale.",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je m'occupe des matériaux et procédés qui sont utilisés lors de la fabrication des pièces aéronautiques. Je suis spécialisée dans les matériaux non métalliques, c'est-à-dire les matériaux composites, les plastiques, les adhésifs structuraux. ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=317",
+    "holland_codes": [
+      "I",
+      "R",
+      "E"
+    ]
+  },
+  {
+    "name": "Mihaela Dinica",
+    "title": "Agente de relations humaines",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "J'essaie d'améliorer la qualité de vie des gens vivant avec une déficience intellectuelle ou physique ou avec un trouble du spectre de l'autisme, en leur trouvant un milieu de vie adapté à leurs besoins. ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=771",
+    "holland_codes": [
+      "S",
+      "A",
+      "I"
+    ]
+  },
+  {
+    "name": "Christian Milot",
+    "title": "Audioprothésiste",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "QU'EST CE QUE ÇA FAIT UN AUDIOPROTHÉSISTE?\n\nC’est un professionnel de la santé auditive qui pratique en clinique privée, de façon autonome.\n\nEn relation d'aide avec des gens qui ont des problèmes d'audition.\n\nC'est celui qui trouve les solutions et qui établit un plan de réadaptation auditif.\n\nIl ajuste et répare des appareils auditifs. \n\nIl peut changer la vie des gens!",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=645",
+    "holland_codes": [
+      "I",
+      "E",
+      "R"
+    ]
+  },
+  {
+    "name": "Valery Gauthier",
+    "title": "Avocate en droit municipal et en droit de l'environnement",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "La pratique d'avocate en droit municipal et en droit de l'environnement est très diversifiée et permet de toucher à toutes sortes de sujets tels que la politique, la science pure, la biodiversité, les contrats et l'humain. Notre société est en constante évolution et avec les changements climatiques qui se font de plus en plus sentir, le droit municipal et le droit de l'environnement doivent s'adapter en conséquence. Mon travail consiste principalement à accompagner des clientes qui sont des municipalités et des entreprises dans le respect des normes environnementales et dans la gestion de contrats de toutes sortes sur le territoire municipal. La rédaction, l'analyse juridique, les représentations devant les tribunaux et la vulgarisation de concepts juridiques font partie intégrante de mon quotidien. ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Valérie-Anne  Cote",
+    "title": "Gestionnaire ",
+    "domain": "TBD",
+    "formation": "College National situé à Rigaud, Quebec",
+    "description": "Notre unité s’occupe d’intervenir sur tous les navires commerciaux arrivant de l’étranger vers le Port de Montréal. Ceci inlut l’examen de marchandise pour des stupéfiants, terrorisme et contrebandes. \n\nNotre rencontre vous permettra aussi d’apprendre sur l’embauche d’étudiants au gouvernement fédéral durant la période estivale.",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=85&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=85&NoPage=1&NoResultat=36&Provenance=10&Niveau=4&IdFiltre=0&IdDon=2162",
+    "holland_codes": [
+      "E",
+      "R",
+      "S"
+    ]
+  },
+  {
+    "name": "Marika Girard",
+    "title": "Ergothérapeute",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "L’ergothérapeute est un professionnel de la réadaption, qui par des interventions variées basées sur des activités, permet à des gens souffrant de diverses conditions, tant physiques que mentales, de retrouver leur qualité de vie. \nCette conférence visera l’ergothérapie avec une clientèle adulte avec des troubles musculo squelettiques ou de santé mentale courants (anxiété, dépression)",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=606",
+    "holland_codes": [
+      "S",
+      "R",
+      "E"
+    ]
+  },
+  {
+    "name": "Audrey  Bouchard",
+    "title": "Capitaine pour un service de police ",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "En charge d’un bureau d’enquêtes criminelles et de tout le volet soutien opérationnel, je m’occupe au quotidien de la gestion opérationelle et administrative de la division des enquêtes d’un service de police. ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1007",
+    "holland_codes": [
+      "E",
+      "R",
+      "S"
+    ]
+  },
+  {
+    "name": "Anthony Tétrault",
+    "title": "Président",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "J'ai une formation CPA Auditeur en comptabilité et j'ai été amené dans ma carrière à travailler en fusion acquisition où j'ai dirigé l'acquisition et l'intégration de plus de 40 entreprises et d'une équipe de plus de 135 personnes. J'ai par la suite démarré une entreprise il y a un peu plus de 2 ans qui offre des services aux entrepreneurs principalement en comptabilité. Nous sommes aujourd'hui une équipe de 60 personnes et poursuivons notre croissance de façon organique, mais aussi par le biais d'acquisitions.",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=88939",
+    "holland_codes": [
+      "C",
+      "E",
+      "S"
+    ]
+  },
+  {
+    "name": "Julie-Ève Tessier",
+    "title": "Psychiatre, en voie de devenir psychiatre de l'enfant et l'adolescent",
+    "domain": "TBD",
+    "formation": "Doctorat",
+    "description": "Je suis une médecin specialisée dans les troubles de santé mentale (anxiété, dépression, troubles alimentaires, psychose, etc.). Mon travail vise à évaluer les patients, à identifier des diagnostics et à fournir des plans de traitement. Je fais plusieurs stages dans différents hôpitaux (Hôpital Sainte-Justine, Hôpital Rivière-des-prairies...). Je fais aussi de la psychothérapie auprès de patients. ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=578",
     "holland_codes": [
       "I",
       "S",
@@ -1246,26 +854,138 @@
     ]
   },
   {
-    "name": "Sophie Legault",
-    "title": "Étudiante en psychoéducation ",
-    "domain": "Relation d'aide",
+    "name": "Jean-Michel  Lacroix ",
+    "title": "Directeur de compte Entreprises",
+    "domain": "TBD",
     "formation": "Maîtrise ou DESS",
-    "description": "La psychoéducation est un métier d'intervention psychosociale. Le psychoéducateur ou la psychoéducatrice intervient auprès de clientèles de tous âges présentant des problématiques diverses (santé mentale, déficience intellectuelle, trouble du spectre de l'autisme, troubles du comportement, etc.) afin de favoriser leur adaptation au sein de leur environnement. Après sa maîtrise, il ou elle fait partie de l'OPPQ (Ordre professionnel des psychoéducateurs et psychoéducatrices du Québec.",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=698",
+    "description": "Financement entreprises ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=11&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=11&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=88",
+    "holland_codes": [
+      "C",
+      "E",
+      "I"
+    ]
+  },
+  {
+    "name": "François-Xavier Aubé",
+    "title": "Pompier",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Le métier de pompier consiste à intervenir lors de diverses situations d'urgence, qu'elles soient de nature médicale, environnementale ou reliées à l'incendie. C'est un emploi avec d'innombrables facettes, où les journées ne se ressemblent pas. En raison de l'ampleur du champ de compétence, la formation continue est au coeur de la profession. De plus, tout bon pompier doit contribuer de façon positive au bon fonctionnement du milieu de vie qu'est la caserne.",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=5&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=5&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1010",
+    "holland_codes": [
+      "R",
+      "E",
+      "S"
+    ]
+  },
+  {
+    "name": "Daisy Girard",
+    "title": "Criminologue",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je travaille auprès des jeunes mineurs qui ont commis des délits. Je rédige des rapports prédécisionnels afin d'éclairer la cour de justice pour adolescents sur la meilleure peine à imposer à la suite des accusations criminelles. ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=762",
     "holland_codes": [
       "S",
       "I",
       "A"
+    ]
+  },
+  {
+    "name": "Sacha Tellier",
+    "title": "Infirmière",
+    "domain": "TBD",
+    "formation": "voir commentaires",
+    "description": "Bonjour chers étudiants, si vous êtes intéressés par le domaine de la santé et vous cherchez des idées par rapport aux différents postes disponibles, je suis infirmière au CHUM en post-chirurgie thoracique, plastique, réimplantation et en oto-rhino-laryngologie depuis environ 1 an. Lors de la conférence, je vais discuter avec vous, entres autres, des parcours d'étude, des différents environnements de travail et des tâches de la profession. J'ai complété un DEC en sciences humaines, une technique en soins infirmiers et je suis présentement étudiante au baccalauréat en sciences infirmière. Au plaisir de vous rencontrer le 14 novembre!",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=7&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=7&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=613",
+    "holland_codes": [
+      "S",
+      "I",
+      "A"
+    ]
+  },
+  {
+    "name": "Claudia Doyle",
+    "title": "Avocate",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je suis une avocate de la défense en droit criminel et pénal. Je suis l'associée junior d'un cabinet privé, Labelle Côté Tabah & Associés, et nous avons une clientèle diversifiée, pour des infractions qui vont du vol à l'étalage jusqu'à l'homicide.\n\nLa majeure partie de mon travail est d'effectuer une étude approfondie de la preuve issue d'enquêtes policières et des représentations devant les tribunaux, qui vont de diverses Requêtes en vertu de la Charte Canadienne des droits et libertés jusqu'au procès criminel lui-même.\n\nJ'ai également effectué, au courant de l'année 2023, deux procès médiatisés, tous deux devant un banc composé de 12 jurés, à Montréal et à Laval.\n\nMon rôle est de veiller à ce que mon client, l'accusé, bénéficie d'une défense pleine et entière au terme d'un procès juste et équitable, devant un tribunal impartial. ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Elisa Pylkkanen",
+    "title": "Directrice, stratégie et opérations",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je suis gestionnaire dans le milieu universitaire. Je dirige les opérations quotidiennes de l’un des nombreux bureaux qui s’assurent du bon fonctionnement de l’Université McGill. Mon équipe est responsable des études supérieures (2e et 3e cycle, soit la maîtrise et le doctorat). Nos activités vont du recrutement des étudiants à la diplomation, en passant par le financement des études et le développement de nouveaux programmes. Je m’occupe surtout des ressources humaines, de la planification stratégique et des communications. Au plaisir de partager mon expérience !",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=45&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=45&NoPage=1&NoResultat=17&Provenance=10&Niveau=4&IdFiltre=0&IdDon=661",
+    "holland_codes": [
+      "I",
+      "S",
+      "A"
+    ]
+  },
+  {
+    "name": "Patrick  Rancour ",
+    "title": "Directeur de construction et Gestionnaire Principale de projet ",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Je dirige une équipe multidisciplinaire incluant des gérants de Projet , designer et administrateur.  Champ de compétence: construction, fixturing et design .  Je gère également les projets d’envergure .  Je possède aussi ma compagnie de gestion ",
+    "period": "14h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&IdDon=1215&TypeDonnee=P&EnButinage=1",
+    "holland_codes": [
+      "E",
+      "R",
+      "I"
+    ]
+  },
+  {
+    "name": "Sana Arfaoui ",
+    "title": "Professeure, formatrice et coach de gestion ",
+    "domain": "TBD",
+    "formation": "Doctorat",
+    "description": "Je suis professeure à l'université, en même temps, je forme et je coache les gestionnaires et les chefs d'entreprise pour avoir les meilleures pratiques de gestion de talents en Équité, diversité et inclusion et développer leurs compétences en leadership inclusif. ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=4&Provenance=10&Niveau=4&IdFiltre=0&IdDon=657",
+    "holland_codes": [
+      "I",
+      "S",
+      "A"
+    ]
+  },
+  {
+    "name": "Annabelle Bourdeau",
+    "title": "Dentiste",
+    "domain": "TBD",
+    "formation": "Doctorat",
+    "description": "La profession de dentiste consiste à diagnostiquer, prévenir et traiter les maladies bucco-dentaires. C’est un métier qui nécessite un travail manuel minutieux et qui demande de développer une bonne aptitude de communication avec les patients. Les journées d’un dentiste sont très variées et occupées. Cette carrière offre aussi l’opportunité d’avoir et de diriger sa propre entreprise en devenant dentiste propriétaire d’une clinique dentaire. ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=587",
+    "holland_codes": [
+      "I",
+      "R",
+      "E"
     ]
   },
   {
     "name": "Sophie Pesant",
-    "title": "Docteure en chiropratique ",
-    "domain": "Science de la santé humaine et animal",
+    "title": "Chiropraticienne",
+    "domain": "TBD",
     "formation": "Doctorat",
-    "description": "Chiropraticienne du sport\r\nJe suis une professionnelle de la santé qui agit aux premiers plans lors d’une douleur ou d’un inconfort. Je travaille avec une clientèle variée avec un expertise pour le monde du sport. Du hockeyeur professionnel à l’athlète de tennis junior en passant par des compétitions de gymnastique régionales, on peut traiter de tout avec la chiropratique !",
-    "period": "15h00 à 15h45",
+    "description": "J’aide les gens en les soulageant de leur douleur, que ce soit au dos, aux pieds ou à l’épaule! On s’assure que le corps bouge bien tout en donnant des précieux conseils sur la santé. ",
+    "period": "15h",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=592",
     "holland_codes": [
       "I",
@@ -1274,40 +994,26 @@
     ]
   },
   {
-    "name": "Karine Léger",
-    "title": "R&D sciences alimentaires (Aromaticienne)",
-    "domain": "Génie et sciences pures; Agroalimentaire",
-    "formation": "Soit DEC ou Baccalauréat (2 chemins possibles)",
-    "description": "Travailler en recherche et développement de produits alimentaires c'est comprendre comment sont fabriqués les aliments que nous consommons: Crème glacée, chocolats, croustilles, boissons etc... C'est aussi participer à développer de nouveaux produits en collaboration avec les équipes marketing, faire des tests sensoriels, physico-chimiques ou organoleptiques. ",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=257",
+    "name": "Hélène Marcotte",
+    "title": "physiothérapeute",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Dans un contexte de physiothérapie en clinique privée, le physiothérapeute évalue et traite les patients qui consultent pour des douleurs d'origine neuro-musculo-squelettique, c'est-à-dire, des douleurs qui peuvent provenir des muscles, des os, des tendons, des ligaments et/ou des nerfs. Ces douleurs peuvent être causées par un traumatisme: une chute, un accident du travail ou de la route, un trauma sportif ou bien ce sont des douleurs qui sont apparues progressivement en raison d'une surutilisation, une mauvaise posture au travail ou tout simplement le vieillissement. Le type de clientèle est très variée. Le physiothérapeute en clinique privée peut traiter une clientèle pédiatrique, des athlètes, des personnes âgées ou encore M. et Mme tout le monde. C'est un métier stimulant puisque que chaque jour amène un patient différent!",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=14&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=14&NoPage=1&NoResultat=10&Provenance=10&Niveau=4&IdFiltre=0&IdDon=605",
     "holland_codes": [
+      "S",
       "I",
-      "A",
-      "R"
-    ]
-  },
-  {
-    "name": "Stephan Laperriere",
-    "title": "Développeur d'affaires en instrumentation scientifique.",
-    "domain": "Génie et sciences pures",
-    "formation": "Baccalauréat",
-    "description": "Mon rôle est de faire découvrir à nos clients ou clients potentiels, notre gamme d'instruments de haute technologie.\r\nJe dois bien sonder leur besoins de mesures exactes, pour leurs laboratoires d'analyses (ou usines de transformation).\r\n\r\nJe pourrai aborder mon labyrinthe de carrière en décrivant brievement mes rôles précédents: chercheur scientifique,  chimiste R&D, et représentant de service en spectrométrie de masse.\r\n\r\nTout ceci grâce à ma curiosité et... au hockey!",
-    "period": "15h00 à 15h45",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=6&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=6&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=235",
-    "holland_codes": [
-      "I",
-      "A",
       "R"
     ]
   },
   {
     "name": "Alexandra Buccilli",
-    "title": "Étudiante au BAC en microbiologie et immunologie (UdeM), stagiaire en recherche contre le cancer (CRCHUM) et membre du comité institutionnel des bonnes pratiques animales en recherche (CHU Sainte-Justine).",
-    "domain": "Génie et sciences pures",
-    "formation": "Baccalauréat, en vue d'accéder aux études supérieurs",
-    "description": "Je suis présentement en 3e année du Baccalauréat en Microbiologie et Immunologie de la faculté de médecine de l’Université de Montréal. Je suis également stagiaire en recherche au Centre de Recherche du CHUM, dans le laboratoire de Dre. Bourgeois-Daigneault, où nous étudions l’utilisation des virus (oncolytiques) comme traitement immunothérapeutique contre le cancer. Je me spécialise en plusieurs techniques qui portent sur le traitement du cancer du sein et des effets des hormones lors de ces traitements. J’ai aussi une expertise en microscopie à immunofluorescence, ce qui apporte un côté artistique à mon travail scientifique, ce qui je pense pourrait intéresser plusieurs jeunes. Je fais également partie du comité institutionnel des bonnes pratiques animales en recherche du centre de recherche de l’hôpital Sainte-Justine. \r\nJe souhaite venir parler aux jeunes de l’importance de persévérer lorsqu’on a une passion même si on a des embûches, car j’ai eu beaucoup de difficultés en mathématiques et en physique tout au long de mon parcours. Je veux aussi leur transmettre un peu ma passion pour la recherche. Finalement, je veux leur communiquer l’importance de ne pas craindre d’aller chercher ce qu’on veut, puisque j’ai obtenu mon poste au sein de mon labo ainsi que mon poste au sein du comité éthique à la fin de ma première année de BAC, alors que plusieurs pensaient cela impossible. J’espère vraiment avoir la chance de prendre part à cette super journée, que j’ai beaucoup apprécié lors de mes années au CSS! ",
-    "period": "15h00 à 15h45",
+    "title": "Étudiante à la Maîtrise en Microbiologie et Immunologie, recherches contre le cancer ",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Je suis étudiante à la Maîtrise à l'Université de Montréal, dans le programme de Microbiologie et Immunologie de la faculté de médecine. J'effectue mes travaux dans le laboratoire de Dre Marie-Claude Bourgeois-Daigneault au centre de recherches du CHUM (CR-CHUM), depuis 2021 comme stagiaire au Baccalauréat, et maintenant depuis 2023 à la Maîtrise. Nous étudions l'utilisation de certains virus (virus oncolytiques) comme traitement immunothérapeutique du cancer et, dans mon cas plus particulièrement, en contexte de cancer du sein. J'expliquerai entre autres aux étudiants les tâches journalières que j'effectue, le genre d'expériences que je mène en laboratoire, les formations que j'ai reçues (microchirurgie de tumeurs, microphotographie à fluorescence, représentante de recherche éthique sur les animaux, etc.), mais aussi toutes les conférences auxquelles j'ai pu assister et présenter, et mon implications caritative pour l'Institut du cancer de Montréal. Finalement, j'expliquerai aux étudiants en quoi la recherche scientifique est importante pour notre société, et pourquoi c'est un programme qui peut être très intéressant pour tous ceux qui sont intéressés par les métiers des sciences de la santé plus traditionnels.",
+    "period": "15h",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=268",
     "holland_codes": [
       "I",
@@ -1316,17 +1022,213 @@
     ]
   },
   {
-    "name": "Michelle Houde",
-    "title": "Médecin résidente en santé publique",
-    "domain": "Science de la santé humaine et animal",
-    "formation": null,
-    "description": null,
-    "period": "15h00 à 15h45",
-    "link_reperes": null,
+    "name": "Marie-Anne  Beauchamp",
+    "title": "Technologue en électrophysiologie médicale ",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Professionnels de la santé qui travaillent principalement en cardiologie et neurologie afin de faire passer des examens diagnostiques aux patients ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=625",
     "holland_codes": [
-      null,
-      null,
-      null
+      "I",
+      "R",
+      "S"
+    ]
+  },
+  {
+    "name": "Yves Gingras",
+    "title": "Directeur de programme TI",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Ce gestionnaire est responsable de la livraison de projets et programmes en technologies de l'information et télécommunications et agit davantage comme un chef d'orchestre que comme un expert technique. Il/elle communique avec les clients et guide son équipe afin d'atteindre les objectifs des projets selon le calendrier et le budget prévus.",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=10&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=10&NoPage=1&NoResultat=6&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1839",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
+    ]
+  },
+  {
+    "name": "Gabriel Blanchet-Beaudoin",
+    "title": "Chargé de projet - Ingénierie",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Domaine de l'ingénierie\nChargé de projet en Amérique du nord pour une entreprise en environnement",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=11&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=11&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=293",
+    "holland_codes": [
+      "I",
+      "R",
+      "E"
+    ]
+  },
+  {
+    "name": "Dominique Bougie",
+    "title": "Avocate",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je suis une avocate qui concentre sa pratique en droit du travail depuis bientôt 10 ans. Ce que j’ai envie de vous partager, ce sont les multiples portes que peuvent vous ouvrir des études en droit. Que ce soit en pratiquant comme avocat plaideur, journaliste, directeur d’entreprise ou même un politicien, le droit mène à tout et c’est ce que j’ai envie de vous partager. Fait cocasse : je suis une ancienne du Collège et c’est lors de ma journée carrière en secondaire 4 que j’ai choisi de devenir avocate! ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Rosalie Turmel",
+    "title": "Étudiante en 4e année de médecine (Université de Sherbrooke)",
+    "domain": "TBD",
+    "formation": "Doctorat",
+    "description": "Les études en médecine se font en 4 ou 5 ans selon l’université choisie et sont séparées en deux parties. Les 2 premières années sont composées de cours plus théoriques pour bien apprendre la matière et l’anatomie du corps humain. Les 2 dernières années sont composées de stages en milieu hospitalier dans différentes spécialités (médecine familiale, pédiatrie, chirurgie, etc). En tant qu’étudiant en médecine, on évalue les patients (questionnaire et examen physique) et on se questionne par rapport aux différents diagnostics possibles et les investigations à faire pour bien prendre les patients en charge! ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=90&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=90&NoPage=1&NoResultat=45&Provenance=10&Niveau=4&IdFiltre=0&IdDon=581",
+    "holland_codes": [
+      "I",
+      "S",
+      "A"
+    ]
+  },
+  {
+    "name": "Catherine Marcoux",
+    "title": "Technologue en radio-oncologie ",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "En collaboration avec les médecins radio-oncologues, le technologue en radio-oncologie est responsable de la planification, de l’élaboration, et de l’administration de traitements de radiothérapie . Il utilise les radiations ionisantes à des fins thérapeutiques pour traiter des personnes affectées par des tumeurs cancéreuses. Il doit veiller au confort et à la sécurité des patients, les renseigner sur les effets secondaires associé aux traitements, en plus d’offrir des soins avec une approche humaine . ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=624",
+    "holland_codes": [
+      "I",
+      "R",
+      "S"
+    ]
+  },
+  {
+    "name": "Laury-Ann Hains",
+    "title": "Policière - Patrouilleur au SPVM",
+    "domain": "TBD",
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "Maintient de l’ordre, application des lois à Montréal ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1007",
+    "holland_codes": [
+      "E",
+      "R",
+      "S"
+    ]
+  },
+  {
+    "name": "David Martineau",
+    "title": "Organisation des nations unies (ONU) - coordinateur de programme de politiques migratoires",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Je gère un programme global pour l'ONU pour aider les gouvernements à travers le monde à formuler des programmes et des politiques pour gérer l'immigration. Jusqu'à présent, nous avons offert cet aide à plus de 107 pays. Finalement, j'ai aussi été déployé à la frontière avec l'Ukraine pour développer une stratégie pour aider les réfugiés ukrainiens qui quittent le pays à cause de la guerre.",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=7&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=7&NoPage=1&NoResultat=5&Provenance=10&Niveau=4&IdFiltre=0&IdDon=36",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
+    ]
+  },
+  {
+    "name": "Linda Vézina",
+    "title": "Spécialiste en balistique forensique (judiciaire)",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Le spécialiste en balistique forensique fait l’expertise de pièces à conviction, en laboratoire, en lien avec les armes à feu, accessoires et composantes de munitions, dans un contexte judiciaire. Il émet une opinion sur la classification légale des armes à feu basée sur le Code criminel du Canada. Avec son esprit scientifique et les techniques existantes, il est amener à faire des comparaisons microscopiques  sur des composantes de munitions afin d’établir si elles ont été tirées, ou pas,  par une arme à feu spécifique. Il est appelé à travailler avec les policiers afin d’interpréter une scène de crime où des tirs de projectile ont eu lieu afin d’établir des distances de tir et des trajectoires. De son rapport, il en témoignera à titre d’expert afin d’éclairer la Cour, et ce, avec impartialité. Il travaille au Laboratoire de sciences judiciaires et de médecine légale.",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=137419",
+    "holland_codes": [
+      "I",
+      "A",
+      "R"
+    ]
+  },
+  {
+    "name": "Thurell Tchana",
+    "title": "Analyste en actuariat",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Mon travail consiste à faire des évaluations actuarielles et des analyses complexes de produits d’assurance-vie universelle. J’ai pour tâches de produire, commenter et interpréter les résultats financiers et les risques se fondant sur les Normes internationales d’information financière (IFRS). Ces résultats touchent notamment les réserves, le capital requis, les sources de revenus, la valeur des affaires nouvelles, le taux de rendement interne et le risque sur le plan des bénéfices.",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=357",
+    "holland_codes": [
+      "I",
+      "E",
+      "C"
+    ]
+  },
+  {
+    "name": "Pierre Bouchard",
+    "title": "Ingénieur spécialiste - système de carburant",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Ingénieur responsable de l'intégration des changements au système de carburant de l'avion A220 et du maintien de la certification de l'appareil. Également responsable de la certification et l'utilisation des carburants éco-responsables du futur chez Airbus Canada.",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=30&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=30&NoPage=1&NoResultat=25&Provenance=10&Niveau=4&IdFiltre=0&IdDon=298",
+    "holland_codes": [
+      "I",
+      "R",
+      "E"
+    ]
+  },
+  {
+    "name": "Sophie Laframboise",
+    "title": "Avocate en droit familial",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je travaille en tant qu'avocate en droit familial et je suis également médiatrice familiale. Je représente des gens qui sont séparés afin de les aider pour toutes les questions juridiques entourant leur séparation: garde de leurs enfants, pension alimentaire et partage des biens. Je rencontre les clients, je négocie et je les représente devant la Cour s'ils ne sont pas arrivés à une entente.",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Karine  Barrette",
+    "title": "Chargée de projet en violence conjugale ",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Avocate de formation, mon travail consiste à travailler en collaboration avec des patrouilleurs, enquêteurs, procureurs de la couronne, avocats et avocates, et des juges afin de développer des outils, formations et nouvelles procédures leur permettant de mieux comprendre tous les visages de la violence conjugale. ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=4&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=4&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
+    "holland_codes": [
+      "E",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "name": "Laurence  Gour",
+    "title": "Infirmière praticienne spécialisée en première ligne ",
+    "domain": "TBD",
+    "formation": "Maîtrise ou DESS",
+    "description": "Je suis à mi-chemin entre une infirmière et un médecin. Je rencontre des patients de tous âges pour les aider à améliorer leur santé. Parfois en prescrivant des médicaments ou des tests, parfois en suivant leur grossesse ou en soulageant les symptômes dérangeants en fin de vie. ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=639#CaractPers",
+    "holland_codes": [
+      "S",
+      "I",
+      "A"
+    ]
+  },
+  {
+    "name": "Jose Antoine Valbrun",
+    "title": "Conseiller aux Affaires électroniques ",
+    "domain": "TBD",
+    "formation": "Baccalauréat",
+    "description": "Je travaille sur des besoins d'amélioration des services en ligne de l'entreprise (site Web).",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=12&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=12&NoPage=1&NoResultat=11&Provenance=10&Niveau=4&IdFiltre=0&IdDon=92357",
+    "holland_codes": [
+      "E",
+      "S",
+      "I"
     ]
   }
 ]

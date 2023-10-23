@@ -5,7 +5,7 @@
         <p class="title">Journée Carrière - Collège Saint-Sacrement</p>
         <p class="subtitle">
           Aide aux choix : Description des professionnel(le)s participants à la
-          journée carrière. <br />22 novembre 2022
+          journée carrière. <br /><em>14 novembre 2023</em>
         </p>
         <strong>Formulaire d'inscription:  </strong>
         <a href="https://forms.gle/yMcLrsiHUZhUhQj7A">Google Forms</a><br />
