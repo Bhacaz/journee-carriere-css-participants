@@ -3,7 +3,8 @@
     <div class="content has-text-centered">
       <p>
         <strong>Formulaire d'inscription:  </strong>
-        <a href="https://forms.gle/yMcLrsiHUZhUhQj7A">Google Forms</a><br />
+<!--        <a href="https://forms.gle/yMcLrsiHUZhUhQj7A">Google Forms</a><br />-->
+        <a href="#">Google Forms (bientôt)</a><br />
         Développé par
         <a href="https://github.com/Bhacaz">Jean-Francis Bastien</a>.<br />
         Pour

@@ -4,5 +4,12 @@ export function saveFavorites(participants) {
 }
 
 export function getFavorites() {
-    return localStorage.getItem('favorites');
+    const favorites = localStorage.getItem('favorites');
+    if (favorites) {
+        return favorites
+    }
+    else {
+        return []
+
+        }
 }
