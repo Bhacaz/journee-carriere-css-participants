@@ -4,7 +4,7 @@
       <div class="hero-body">
         <p class="title">Journée Carrière - Collège Saint-Sacrement</p>
         <p class="subtitle">
-          Aide aux choix : Description des professionnel(le)s participants à la
+          Aide aux choix : Description des professionnel(le)s participant à la
           journée carrière. <br /><em>14 novembre 2023</em>
         </p>
         <strong>Formulaire d'inscription:  </strong>
