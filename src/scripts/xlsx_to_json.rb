@@ -40,6 +40,10 @@ CODE_HOLLAND_INDEX = [
   21, # CODE HOLLAND
 ]
 
+DOMAINE_INDEX = [
+  23, 24, 25, 26
+]
+
 Participants = Struct.new(
   :name,
   :title,
@@ -57,19 +61,25 @@ participants = []
 
 (FIRST_PARTICIPANT_ROW_INDEX..sheet.last_row).each do |row_index|
   row = sheet.row(row_index)
+  next if row[COLUMNS_INDEX[1]].nil?
 
   code_hollands = CODE_HOLLAND_INDEX.map { |index| row[index] }.compact
-
+  domains = DOMAINE_INDEX.map { |index| row[index] }.compact
+  lien_reperes = row[COLUMNS_INDEX[5]]
+  lien_reperes.gsub!('<html><u>', '')
+  lien_reperes.gsub!('</u></html>', '')
   participants << Participants.new(
     row[COLUMNS_INDEX[1]] + " " + row[COLUMNS_INDEX[0]],
     row[COLUMNS_INDEX[2]],
-    'TBD',
+    domains,
     row[COLUMNS_INDEX[4]],
     row[COLUMNS_INDEX[3]],
     row[COLUMNS_INDEX[6]],
-    row[COLUMNS_INDEX[5]],
+    lien_reperes,
     code_hollands
   )
+
+  p participants.last.name if domains.empty?
 end
 
 json = JSON.pretty_generate(participants.map(&:to_h))

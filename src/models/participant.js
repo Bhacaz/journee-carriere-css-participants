@@ -4,7 +4,7 @@ export default class Participant {
     constructor({ name, title, domain, formation, description, period, link_reperes, holland_codes }) {
         this.name = name;
         this.title = title;
-        this.domain = domain.split("; ");
+        this.domain = domain;
         this.formation = formation;
         this.description = description;
         this.period = period;
