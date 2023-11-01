@@ -66,8 +66,8 @@ participants = []
   code_hollands = CODE_HOLLAND_INDEX.map { |index| row[index] }.compact
   domains = DOMAINE_INDEX.map { |index| row[index] }.compact
   lien_reperes = row[COLUMNS_INDEX[5]]
-  lien_reperes.gsub!('<html><u>', '')
-  lien_reperes.gsub!('</u></html>', '')
+  lien_reperes.gsub!('<html><u>', '') if lien_reperes
+  lien_reperes.gsub!('</u></html>', '') if lien_reperes
   participants << Participants.new(
     row[COLUMNS_INDEX[1]] + " " + row[COLUMNS_INDEX[0]],
     row[COLUMNS_INDEX[2]],

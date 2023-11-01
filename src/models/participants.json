@@ -67,22 +67,6 @@
     ]
   },
   {
-    "name": "Marie Bédard",
-    "title": "Infirmière",
-    "domain": [
-      "Santé humaine et animale"
-    ],
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "Je suis infirmière depuis 2018. Cinq ans seulement dans ce métier m'ont permis d'explorer plusieurs spécialités. Les soins infirmiers sont un domaine qui est vaste, où l'ont peut explorer différents milieux, différentes clientèles, différentes populations, etc. \nJ'ai travaillé un peu dans la région de Montréal à mes débuts, mais j'ai réellement commencer à aimer mon travail quand je suis allée dans le Grand Nord du Québec, pour travailler dans des communautés autochtones. \nJ'aimerais partager avec vous cette expérience et vous montrer que chacun peut trouver sa place en soins infirmiers, car les possibilités sont illimitées!",
-    "period": "11h",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=7&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=7&NoPage=1&NoResultat=3&Provenance=10&Niveau=4&IdFiltre=0&IdDon=613",
-    "holland_codes": [
-      "S",
-      "I",
-      "A"
-    ]
-  },
-  {
     "name": "Méghane Boisvert",
     "title": "Conseillère juridique en éthique, conformité et gouvernance",
     "domain": [
@@ -353,6 +337,39 @@
     "description": "Je suis reporter pour Radio-Canada. Je couvre en grande partie l'actualité liée à l'environnement et aux changements climatiques. ",
     "period": "11h",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=810",
+    "holland_codes": [
+      "A",
+      "I",
+      "S"
+    ]
+  },
+  {
+    "name": "Jonathan Laforce",
+    "title": "Arpenteur-Géomètre",
+    "domain": [
+      "Bâtiment et travaux publics",
+      "Environnement et ressources naturelles"
+    ],
+    "formation": "Baccalauréat",
+    "description": "Un arpenteur-géomètre est un professionnel chargé de mesurer, de cartographier et de délimiter des terrains, des propriétés foncières et des frontières. Leur travail implique l'utilisation d'instruments de mesure avancés, tels que des théodolites, des GPS et des drones pour effectuer des relevés précis. Les arpenteurs-géomètres établissent des plans, des cartes et des rapports détaillés sur les propriétés foncières, ce qui est essentiel pour la planification urbaine, la construction, la gestion des terres et la résolution de litiges fonciers. Ils doivent également suivre les réglementations et les normes légales liées à la propriété foncière. Cette profession requiert des compétences en mathématiques, en technologie géospatiale et une connaissance approfondie des lois foncières.",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=352",
+    "holland_codes": [
+      "R",
+      "C",
+      "I"
+    ]
+  },
+  {
+    "name": "Julie Gaouette",
+    "title": "Designer d’intérieur / Chargée de projets ",
+    "domain": [
+      "Arts"
+    ],
+    "formation": "Diplôme d'études collégiales (DEC)",
+    "description": "En tant que designer d’intérieur/ chargée de projets, j’ai travaillé sur une grande variété de projets, telle que des émissions de télévision, de l’événementiel (salons, expositions), de la représentation commerciale, des projets de constructions neuves, des projets de rénovations au tant commerciales que résidentielles. Si tu es curieux, créatif et soucieux de ton environnement c’est un travail pour toi.",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=921",
     "holland_codes": [
       "A",
       "I",
@@ -865,22 +882,6 @@
     ]
   },
   {
-    "name": "Mihaela Dinica",
-    "title": "Agente de relations humaines",
-    "domain": [
-      "Sciences humaines, sociales et de l'éducation"
-    ],
-    "formation": "Baccalauréat",
-    "description": "J'essaie d'améliorer la qualité de vie des gens vivant avec une déficience intellectuelle ou physique ou avec un trouble du spectre de l'autisme, en leur trouvant un milieu de vie adapté à leurs besoins. ",
-    "period": "14h",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=771",
-    "holland_codes": [
-      "S",
-      "A",
-      "I"
-    ]
-  },
-  {
     "name": "Christian Milot",
     "title": "Audioprothésiste",
     "domain": [
@@ -903,7 +904,7 @@
       "Politique, justice et sécurité"
     ],
     "formation": "Baccalauréat",
-    "description": "La pratique d'avocate en droit municipal et en droit de l'environnement est très diversifiée et permet de toucher à toutes sortes de sujets tels que la politique, la science pure, la biodiversité, les contrats et l'humain. Notre société est en constante évolution et avec les changements climatiques qui se font de plus en plus sentir, le droit municipal et le droit de l'environnement doivent s'adapter en conséquence. Mon travail consiste principalement à accompagner des clientes qui sont des municipalités et des entreprises dans le respect des normes environnementales et dans la gestion de contrats de toutes sortes sur le territoire municipal. La rédaction, l'analyse juridique, les représentations devant les tribunaux et la vulgarisation de concepts juridiques font partie intégrante de mon quotidien. ",
+    "description": "La pratique du droit en tant qu'avocate et avocat est très diversifiée et permet de toucher à toutes sortes de sujets. Par exemple, Me Stéphane Gauthier est appelé à faire des représentations à la Cour, de façon quotidienne. Il pratique également en droit agricole/agroalimentaire et en droit professionnel. Il est aussi appelé à représenter divers ordres professionnels chargés de la protection du public comme le Collège des médecins du Québec. Quant à Me Valéry Gauthier, elle exerce en droit municipal et en droit de l'environnement, ce qui l’amène à travailler dans un cadre touchant la politique, la science pure, la biodiversité, les contrats et l'humain. Notre société est en constante évolution et avec les changements climatiques qui se font de plus en plus sentir, les différents domaines du droit doivent s'adapter en conséquence. Le travail de Stéphane et Valéry consiste principalement à accompagner des clients vers la mise en place de solutions juridiques, dans le respect des normes applicables à différents niveaux, par exemple au niveau professionnel, municipal et environnemental. La rédaction, l'analyse juridique, les représentations devant les tribunaux et la vulgarisation de concepts juridiques font partie intégrante de leur quotidien.\n \n",
     "period": "14h",
     "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=3&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=3&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=654",
     "holland_codes": [
@@ -942,22 +943,6 @@
       "S",
       "R",
       "E"
-    ]
-  },
-  {
-    "name": "Audrey  Bouchard",
-    "title": "Capitaine pour un service de police ",
-    "domain": [
-      "Politique, justice et sécurité"
-    ],
-    "formation": "Maîtrise ou DESS",
-    "description": "En charge d’un bureau d’enquêtes criminelles et de tout le volet soutien opérationnel, je m’occupe au quotidien de la gestion opérationelle et administrative de la division des enquêtes d’un service de police. ",
-    "period": "14h",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1007",
-    "holland_codes": [
-      "E",
-      "R",
-      "S"
     ]
   },
   {
@@ -1271,22 +1256,6 @@
     ]
   },
   {
-    "name": "Catherine Marcoux",
-    "title": "Technologue en radio-oncologie ",
-    "domain": [
-      "Santé humaine et animale"
-    ],
-    "formation": "Diplôme d'études collégiales (DEC)",
-    "description": "En collaboration avec les médecins radio-oncologues, le technologue en radio-oncologie est responsable de la planification, de l’élaboration, et de l’administration de traitements de radiothérapie . Il utilise les radiations ionisantes à des fins thérapeutiques pour traiter des personnes affectées par des tumeurs cancéreuses. Il doit veiller au confort et à la sécurité des patients, les renseigner sur les effets secondaires associé aux traitements, en plus d’offrir des soins avec une approche humaine . ",
-    "period": "15h",
-    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=624",
-    "holland_codes": [
-      "I",
-      "R",
-      "S"
-    ]
-  },
-  {
     "name": "Laury-Ann Hains",
     "title": "Policière - Patrouilleur au SPVM",
     "domain": [
@@ -1432,6 +1401,72 @@
       "E",
       "S",
       "I"
+    ]
+  },
+  {
+    "name": "Danny Houle",
+    "title": "Arpenteur-géomètre, Directeur Projets Spéciaux",
+    "domain": [
+      "Bâtiment et travaux publics",
+      "Environnement et ressources naturelles"
+    ],
+    "formation": "Baccalauréat",
+    "description": "Au quotidien, je supervise une équipe de 15 professionnels et techniciens dans le cadre de la réalisation de projets d'arpentage pour le bénéfice d'Hydro-Québec, de la Société de transport de Montréal (STM), de la Société Québécoise des infrastructures.  Nos mesurages se font à partir de levés lidar terrestres, mobiles ou aériens par drone. Ils servent à la conception des grands ouvrages de génie civil et immobilier.  ",
+    "period": "15h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=352",
+    "holland_codes": [
+      "R",
+      "C",
+      "I"
+    ]
+  },
+  {
+    "name": "Dorothée Packwood",
+    "title": "Dentiste généraliste",
+    "domain": [
+      "Santé humaine et animale"
+    ],
+    "formation": "Doctorat",
+    "description": "Les dentistes veillent à la santé bucco-dentaire de la population entière.  En tant que dentiste généraliste, je fais l'examen complet des dents, de la bouche et des structures avoisinantes afin de poser un diagnostic et d'ensuite offrir les traitements appropriés, qui peuvent inclure des suivis d'hygiène, des restaurations, des chirurgies, de l'orthodontie, etc.",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=9&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=9&NoPage=1&NoResultat=2&Provenance=10&Niveau=4&IdFiltre=0&IdDon=587",
+    "holland_codes": [
+      "I",
+      "R",
+      "E"
+    ]
+  },
+  {
+    "name": "Anne-Sophie  Gauthier-Paré",
+    "title": "Médecin spécialiste en radio-oncologie",
+    "domain": [
+      "Santé humaine et animale"
+    ],
+    "formation": "Doctorat",
+    "description": "Je suis responsable de l'élaboration du plan thérapeutique des patients atteints de cancer. J'utilise la radiation ionisante pour cibler la tumeur et les zones à risque. J'assure le suivi étroit des patients avant, pendant et après leurs traitements de radiothérapie.",
+    "period": "12h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=2&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=2&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1953",
+    "holland_codes": [
+      "I",
+      "S",
+      "A"
+    ]
+  },
+  {
+    "name": "Charles-Anica Endo",
+    "title": "Président",
+    "domain": [
+      "Informatique et multimédia",
+      "Administration"
+    ],
+    "formation": "Maîtrise ou DESS",
+    "description": "Administration, R&D, prise de décision, voyage et communications.",
+    "period": "11h",
+    "link_reperes": "https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=10&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=10&NoPage=1&NoResultat=6&Provenance=10&Niveau=4&IdFiltre=0&IdDon=1839",
+    "holland_codes": [
+      "E",
+      "S",
+      "C"
     ]
   }
 ]
