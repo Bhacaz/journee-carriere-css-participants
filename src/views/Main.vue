@@ -89,13 +89,15 @@
         </section>
       </div>
     </section>
-    <section class="section" v-if="participantStars.length > 0">
-      <h5 class="title is-5 pl-4">Favoris ({{participantStars.length}})</h5>
-      <masonry-wall :items="participantStars" :column-width="325" :padding="16">
-        <template #default="{ item }">
-          <ParticipantCard :key="item.name" :participant="item" :search="search" @star-clicked="starClicked"> </ParticipantCard>
-        </template>
-      </masonry-wall>
+    <section class="section pb-0" v-if="participantStars.length > 0">
+      <details>
+        <summary><span class="pl-4">Favoris ({{participantStars.length}})</span></summary>
+        <masonry-wall :items="participantStars" :column-width="325" :padding="16">
+          <template #default="{ item }">
+            <ParticipantCard :key="item.name" :participant="item" :search="search" @star-clicked="starClicked"> </ParticipantCard>
+          </template>
+        </masonry-wall>
+      </details>
     </section>
     <section v-if="list.length > 0" class="section flex-container">
       <masonry-wall :items="list" :column-width="325" :padding="16">
@@ -359,6 +361,22 @@ export default {
 
 .media-content {
   overflow-x: visible;
+}
+
+details {
+  padding: 0 1rem;
+}
+details + details {
+  border-top: none;
+}
+details[open] {
+  padding-bottom: 1em;
+}
+summary {
+  padding: 1rem 2em 1rem 0;
+  font-size: 1.25rem;
+  font-weight: bold;
+  cursor: pointer;
 }
 
 </style>
