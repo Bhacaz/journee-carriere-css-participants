@@ -7,9 +7,9 @@
           Aide aux choix : Description des professionnel(le)s participant à la
           journée carrière. <br /><em>14 novembre 2023</em>
         </p>
-        <strong>Formulaire d'inscription:  </strong>
-<!--        <a href="https://forms.gle/yMcLrsiHUZhUhQj7A">Google Forms</a><br />-->
-        <a href="#">Google Forms (bientôt)</a><br />
+        <strong>Formulaire d'inscription: 👉 </strong>
+        <a href="https://forms.gle/HRNDBw4bGmarHNRcA" target="_blank">Google Forms</a><br />
+<!--        <a href="#">Google Forms (bientôt)</a><br />-->
 
         <section class="section" id="search-section">
           <div class="field container">
